@@ -7,7 +7,7 @@ tags: home
 
 ### I'm currently a student at Case Western Reserve University.
 
-### Currently, I'm a junior
+### Currently, I'm a junior.
 
 <br>
 
