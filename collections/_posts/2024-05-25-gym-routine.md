@@ -21,6 +21,7 @@ categories: life website
 - Stretching/mobility at the end of each every day
 - Time rest periods (1 min 30 sec between sets/3 min rest between exercises)
 - Move up in weight every two weeks
+
 ## Push
 Bench press 25,10,5,2.5
 Incline bench press 25
@@ -31,6 +32,7 @@ Single arm push downs 20
 Incline reverse fly (with bench)
 ~~Skull crushers~~
 ~~Cable fly~~
+
 ## Pull
 Pull up 9x3
 Archer pull ups 2x3
@@ -44,6 +46,7 @@ Sit down pull 100
 ~~Weighted pull ups~~
 ~~Single arm cable row~~
 ~~Row with hinge~~
+
 ## Legs
 Front squat 25,10,5
 Deadlift 45,10,10
@@ -51,6 +54,7 @@ Squat 45
 Single leg calf raises 25
 Romanian deadlift 25,10,5
 ~~Lunges with barbell~~
+
 ## Abs
 *Do two circuits*
 Crunches 47
