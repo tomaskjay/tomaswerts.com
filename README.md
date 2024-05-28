@@ -4,15 +4,15 @@ Just my website.
 
 ----
 
-### What you can find there
+### What you can find here
 
 * [Blog posts](http://thundergolfer.com/)
-* [A basic about me page](http://thundergolfer.com/about/)
+* [A basic about me page](https://tomaskjay.github.io/tomaskjay.com/about/)
 
 ### Other places you can find me
 
-* Twitter @ [jonobelotti_IO](https://twitter.com/jonobelotti_io)
-* LinkedIn @ [Jonathon Belotti](https://www.linkedin.com/in/jonathonbelotti/)
+* Instagram @ [tomaskjay](https://tomaskjay.github.io/tomaskjay.com/blog/)
+* LinkedIn @ [Tomas Jay](https://www.linkedin.com/in/tomas-jay-32113b249/)
 
 ----
 
