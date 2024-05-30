@@ -3,7 +3,7 @@ layout: default
 tags: home
 ---
 
-# 👋 Hi there, <br/> I'm Tomas.
+# 👋 Hi, I'm Tomas.
 
 ### I'm a student at Case Western Reserve University pursuing a BA in computer science.
 <br>
