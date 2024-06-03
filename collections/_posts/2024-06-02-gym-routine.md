@@ -2,10 +2,10 @@
 layout:     post
 title:      Lifting Routine - 5 Day Split
 date:       2024-06-02
-summary:    My current exercise routine 💪
+summary:    What I currently do for exercise 💪
 categories: Fitness
 ---
-![Hans_and_Franz](/images/Hans-and-Franz.png)
+![Hans_and_Franz](https://deadline.com/wp-content/uploads/2023/04/TSDSANI_NB024.jpg)
 
 Not going to pretend like I'm Arnold Schwarzenegger or anything but just a few tips: consistency is the most important thing here—a bad day at the gym is better than a skipped day (you can even walk into the gym just to stretch). And eat a lot, but eat well. Also, don't forget to work on mobility. You don't want to be [this guy](https://www.youtube.com/watch?v=bj2yfvQGbl8).
 
