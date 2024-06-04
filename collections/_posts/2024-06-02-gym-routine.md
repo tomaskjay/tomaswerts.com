@@ -10,11 +10,11 @@ categories: Fitness
 Not going to pretend like I'm Arnold Schwarzenegger or anything but just a few tips: consistency is the most important thing here—a bad day at the gym is better than a skipped day (you can even just go there to stretch). And eat a lot, but eat well. Also, don't forget to work on mobility. You don't want to be [this guy](https://www.youtube.com/watch?v=bj2yfvQGbl8).
 
 **General guidelines** 
-- Day 1: Push, Day 2: Pull, Day 3: Legs, Day 4: Cardio and Abs, Day 5: Rest
+- Day 1: Push, Day 2: Pull, Day 3: Legs, Day 4: Cardio, Day 5: Rest
 - Stretching/mobility at the end of each every day
 - Everything 10 x 3
 - Rest periods: 1 min 30 sec between sets/3 min rest between exercises
-- Move up in weight every two weeks
+- Move up in weight every two weeks even if it means doing fewer reps temporarily
 
 **Push**
 - Bench press
