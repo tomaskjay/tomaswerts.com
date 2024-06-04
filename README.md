@@ -6,8 +6,8 @@ Just my website.
 
 ### What you can find here
 
-* [Blog posts](https://tomaskjay.github.io/tomaskjay.com/blog/)
-* [A basic about me page](https://tomaskjay.github.io/tomaskjay.com/about/  )
+* [Blog posts](https://tomaswerts.com/blog/)
+* [A basic about me page](https://tomaswerts.com/about/)
 
 ### Other places you can find me
 
