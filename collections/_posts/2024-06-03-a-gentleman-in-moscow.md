@@ -21,7 +21,7 @@ To wrap it up, here's a few passages I liked:
 
 > After all, what can a first impression tell us about someone we’ve met just for a minute in the lobby of a hotel? For that matter, what can a first impression tell us about anyone? Why, no more than a chord can tell us about Beethoven, or a brushstroke about Botticelli. By their very nature, human beings are so capricious, so complex, so delightfully contradictory, that they deserve not only our consideration but our *reconsideration*—and our unwavering determination to withhold our opinion until we have engaged with them in every possible setting at every possible hour.
 
-Probably my favorite quote from the novel. Drives home what I think is a really important message for navigating today's world. While judgement is as necessary at it is unavoidable, the readiness to re-evaluate our judgements is just as essential since the world only narrows when we cling too tightly to them.
+Probably my favorite quote from the novel. Drives home what I think is an important message for navigating today's world. While judgement is as necessary at it is unavoidable, the readiness to re-evaluate our judgements is just as essential since the world only narrows when we cling too tightly to them.
 
 > Alexander Rostov was neither scientist nor sage; but at the age of sixty-four he was wise enough to know that life does not proceed by leaps and bounds. It unfolds. At any given moment, it is the manifestation of a thousand transitions. Our faculties wax and wane, our experiences accumulate and our opinions evolve if not glacially, then at least gradually. Such that the events of an average day are as likely to transform who we are as a pinch of pepper is to transform a stew.
 
@@ -33,4 +33,4 @@ I would like to add [visits to the dmv](https://www.youtube.com/watch?v=ONFj7AYg
 
 > He had said that our lives are steered by uncertainties, many of which are disruptive or even daunting; but that if we persevere and remain generous of heart, we may be granted a moment of supreme lucidity—a moment in which all that has happened to us suddenly comes into focus as a necessary course of events, even as we find ourselves on the threshold of a bold new life that we had been meant to lead all along.
 
-The Count's advice to Sofia is as memorable as a pearl of wisdom can be.
+The Count's advice to Sofia is as memorable and precious as a pearl of wisdom can be.
