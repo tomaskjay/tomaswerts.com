@@ -3,7 +3,7 @@ layout: about
 permalink: /about/
 title: A little bit about me.
 tags: about
-headshot: https://tomaskjay.github.io/tomaskjay.com/images/profile-pic.png
+headshot: https://tomaswerts.com/images/profile-pic.png
 ---
 
 ## Where I'm from
