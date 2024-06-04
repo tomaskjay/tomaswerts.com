@@ -1,4 +1,4 @@
-# tomaskjay.github.io
+# tomaswerts.com
 
 Just my website.
 
