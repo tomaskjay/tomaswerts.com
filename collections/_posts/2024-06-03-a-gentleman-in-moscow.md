@@ -17,7 +17,7 @@ And while it might seem like a rather dry premise, “dry” is exactly what the
 
 The book is even more captivating because Amor Towles is an incredibly eloquent writer—the prose is so descriptive that it almost plays in your head like a movie. And while it does fall under the trope of finding beauty in the mundane, to simply dismiss the story as a cliché would be a disservice to how multifaceted the novel is. It’s the depiction of a man’s struggle to look beyond the despair of his circumstances and instead make the most of what comes through the revolving door of life. And for the Count, extraordinary things come tumbling through that door. Things that bring companionship, love, regret, and pride. It’s what makes the book so enthralling. From its pages springs a sort of hopefulness that the reader can’t help but embrace. After all, what’s more exciting than the unpredictability of that which has yet to come?
 
-To wrap it up, here's a few passages I liked:
+To wrap it up, here are a few passages I liked:
 
 > After all, what can a first impression tell us about someone we’ve met just for a minute in the lobby of a hotel? For that matter, what can a first impression tell us about anyone? Why, no more than a chord can tell us about Beethoven, or a brushstroke about Botticelli. By their very nature, human beings are so capricious, so complex, so delightfully contradictory, that they deserve not only our consideration but our *reconsideration*—and our unwavering determination to withhold our opinion until we have engaged with them in every possible setting at every possible hour.
 
