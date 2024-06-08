@@ -7,7 +7,7 @@ categories: Fitness
 ---
 ![Hans_and_Franz](https://deadline.com/wp-content/uploads/2023/04/TSDSANI_NB024.jpg)
 
-Not going to pretend like I'm Arnold Schwarzenegger or anything but just a few tips: consistency is the most important thing here—a bad day at the gym is better than a skipped day (you can even just go there to stretch). And eat a lot, but eat well. Also, don't forget to work on mobility. You don't want to be [this guy](https://www.youtube.com/watch?v=bj2yfvQGbl8).
+Not going to pretend like I actually know what I'm doing or anything but just a few things I've learned: consistency is the most important thing here—a bad day at the gym is better than a skipped day (you can even just go there to stretch). And eat a lot, but eat well. Also, don't forget to work on mobility. You don't want to be [this guy](https://www.youtube.com/watch?v=bj2yfvQGbl8).
 
 **General guidelines** 
 - Day 1: Push, Day 2: Pull, Day 3: Legs, Day 4: Cardio, Day 5: Rest
@@ -57,3 +57,5 @@ Not going to pretend like I'm Arnold Schwarzenegger or anything but just a few t
 - Sciatic nerve floss
 - Downward dog calf stretch
 - Rocking lunge stretch
+
+P.S. If you haven't seen any of the Hans and Franz skits you should go do that
