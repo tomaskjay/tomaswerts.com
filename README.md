@@ -15,7 +15,3 @@ Just my website.
 * LinkedIn @ [Tomas Jay](https://www.linkedin.com/in/tomas-jay-32113b249/)
 
 ----
-
-### Development
-
-Development documentation is in [DEVELOPMENT.md](DEVELOPMENT.md)
