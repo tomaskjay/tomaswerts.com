@@ -12,6 +12,6 @@ Just my website.
 ### Other places you can find me
 
 * Instagram @ [tomaskjay](https://www.instagram.com/tomaskjay/)
-* LinkedIn @ [Tomas Jay](https://www.linkedin.com/in/tomas-jay-32113b249/)
+* LinkedIn @ [Tomas Jay](https://www.linkedin.com/in/tomas-jay/)
 
 ----
