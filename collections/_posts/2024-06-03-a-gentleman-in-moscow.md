@@ -5,9 +5,9 @@ date:       2024-06-04
 summary:    A few thoughts on the book
 categories: Books
 ---
-## “If a man does not master his circumstances then he is bound to be mastered by them”
+### “If a man does not master his circumstances then he is bound to be mastered by them”
 
-![[Pasted image 20240603120124.png]]
+![A Gentleman in Moscow Book Cover](https://cdn1.bookmanager.com/i/m?b=rBSsMLeAZlaa4lBFYLwFBg&cb=1712027897)
 
 "Make lemonade"—that's what Amor Towles' *A Gentleman In Moscow* preaches. I very much enjoyed reading this book (recommended to me by a friend) during the last couple of months. To give a quick synopsis, the novel takes place in Russia in 1922 (following the Bolshevik Revolution) and deals with Count Alexander Rostov, who finds himself sentenced to an indefinite house arrest at the Grand Metropol Hotel. He's the epitome of a gentleman: one of witty charm, handlebar moustaches, and fantastic taste in wine.
 
