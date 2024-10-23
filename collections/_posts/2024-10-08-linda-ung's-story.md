@@ -2,9 +2,21 @@
 layout:     post
 title:      Linda Ung's Story
 date:       2024-10-08
-summary:    Chapters my Grandma wrote
+summary:    Chapters my grandmother wrote about her life
 categories:
 ---
+<!--### Chapter 1: Childhood in Cambodia
+### Chapter 2: Life after college and beyond
+### Chapter 3: Leaving Cambodia
+### Chapter 4.1: Kipushi , Zaire, Africa
+### Chapter 4.2: [Paris, France, July 1977]()
+### Chapter 4.3: [Leaving Zaire]()
+### Addendum to chapter 4 part 1: Kipushi, Zaire. Vacation in Paris 1977
+### Chapter 4.3 (continued)
+### Chapter 5.1: Challenge in America
+### Chapter 5.1 (cont’d)
+### Addendum to chapter 5.1
+### Chapter 5.2-->
 
 ## Chapter 1: Childhood in Cambodia
 
