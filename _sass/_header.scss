@@ -16,3 +16,17 @@
 #main-menu {
   background-color: $header-bg;
 }
+
+.site-header {
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100%;
+  z-index: 1000; /* Ensure the header is above other content */
+  background-color: #f8f3e8; /* Set a background color */
+  /* Remove the box-shadow */
+}
+
+body {
+  padding-top: 80px; /* Adjust this value based on the height of your header */
+}
