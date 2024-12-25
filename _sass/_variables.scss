@@ -1,12 +1,15 @@
+@import url('https://fonts.googleapis.com/css2?family=Noto+Sans:wght@400;700&display=swap');
+
 // Typography
 $base-font-size: 1.125rem !default;
 $base-font-weight: 200 !default;
 $bold-font-weight: bold !default;
-$font-family: 'Inter' !default;
-$line-height: 1.2 !default;
+$font-family: 'Noto Sans' !default;
+$line-height: 1.5 !default;
 $heading-font-family: 'Inter' !default;
 $heading-font-weight: 700 !default;
 $heading-line-height: 1.25 !default;
+$heading-font-color: #282424 !default;
 $monospace-font-family: 'Source Code Pro', Consolas, monospace !default;
 $h1: 2.5rem !default;
 $h2: 1.5rem !default;
@@ -33,8 +36,8 @@ $viewport-medium: 48em;
 $viewport-large: 64em;
 
 // Header Colors
-$header-bg: white !default;
-$header-fg: black !default;
+$header-bg: #f7f7ef !default;
+$header-fg: #282424 !default;
 
 // Colors
 $blue: #0076df !default;
@@ -98,7 +101,7 @@ $form-field-padding-x: .5rem;
 
 // Code
 $pre-border-radius: 0;
-$pre-background-color: #fafafa;
+$pre-background-color: #f7f7ef;
 $hljs-comment: $mid-gray;
 $hljs-keyword: $dark-blue;
 $hljs-name: $dark-gray;
@@ -119,7 +122,7 @@ $hljs-chunk: $light-gray;
 
 // Footer
 $footer-padding: $space-3;
-$footer-color: #000;
-$footer-bg-color: #fff;
+$footer-color: #282424;
+$footer-bg-color: #f7f7ef;;
 $footer-font-weight: 300;
 $footer-font-size: .75rem;

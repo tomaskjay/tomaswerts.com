@@ -5,17 +5,16 @@ title: A little bit about me.
 tags: about
 headshot: https://tomaswerts.com/images/profile-pic.png
 ---
-I'm a Midwesterner, brother, tennis player, lover of good food, and a generally happy person 🙂
+
+I'm a big brother, an avid tennis player, a Leafs fan, and a hustling college student currently living in Cleveland, OH.
 
 ## Where I'm from
-I was born and raised in the suburb of Edina, Minnesota and was lucky enough to go to The Blake School from middle school to high school. Growing up, I had a classic 2000’s childhood—iPods, Cartoon Network, Poptropica, RipStiks, Wii games, and [these things](https://m.media-amazon.com/images/I/71gMwMu8IFL._AC_UF894,1000_QL80_.jpg).
+I was born and raised in the suburb of Edina, Minnesota and was lucky enough to go to The Blake School from middle school to high school. Besides having a classic 2000’s childhood, I grew up playing lots of sports, fishing with my dad, and tagging along on trips with my family.
 
 ## Where I am now
-Currently, I’m a senior at Case studying computer science. Besides school, I enjoy exploring Cleveland, staying in shape, cooking, meeting new people, playing poker, and doing the daily NYTimes games (mini, spelling bee, connections).
+Currently, I’m a senior at Case studying computer science. Besides school, I enjoy exploring Cleveland, staying in shape, meeting new people, reading, watching movies, and doing the daily NYTimes games.
 
 ...
 
 PS
 /ˈtɑ.məs/ not /tō.môs/
-
-Yep, it's weird
