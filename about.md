@@ -16,5 +16,5 @@ Currently, I’m a senior at Case studying computer science. Besides school, I e
 
 ...
 
-PS
-/ˈtɑ.məs/ not /tō.môs/
+PS <br>
+/ˈtɑ.məs/ not /tō.môs/ 😙
