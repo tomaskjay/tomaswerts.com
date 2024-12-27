@@ -1,3 +1,12 @@
+nav {
+  position: relative; /* Ensure the nav is fixed at the top */
+  top: 0;
+  left: 0;
+  width: 100%;
+  z-index: 1000; /* Ensure the nav is above other content */
+  background-color: #3D99CE; /* Ensure the background color is set */
+}
+
 nav ul {
   padding-left: 0;
   width: 100%;
