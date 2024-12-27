@@ -7,9 +7,9 @@ categories: Books
 ---
 
 
-![A Gentleman in Moscow Book Cover](https://cdn1.bookmanager.com/i/m?b=rBSsMLeAZlaa4lBFYLwFBg&cb=1712027897)
+![A Gentleman in Moscow Book Cover](https://cdn1.bookmanager.com/i/m?b=rBSsMLeAZlaa4lBFYLwFBg&cb=1712027897){:class="side-image"}
 
-<p style="text-align: center; margin-top: 20px;">
+<p style="text-align: center; margin-top: 1.5rem; margin-bottom: 1.5rem;">
   <em>“If a man does not master his circumstances then he is bound to be mastered by them”</em>
 </p>
 
@@ -29,13 +29,13 @@ A few passages I liked:
 > He had said that our lives are steered by uncertainties, many of which are disruptive or even daunting; but that if we persevere and remain generous of heart, we may be granted a moment of supreme lucidity—a moment in which all that has happened to us suddenly comes into focus as a necessary course of events, even as we find ourselves on the threshold of a bold new life that we had been meant to lead all along.
 
 
-The Count's pearl of wisdom to Sofia
+Some great advice that the Count gives to Sofia
 
 
 > Alexander Rostov was neither scientist nor sage; but at the age of sixty-four he was wise enough to know that life does not proceed by leaps and bounds. It unfolds. At any given moment, it is the manifestation of a thousand transitions. Our faculties wax and wane, our experiences accumulate and our opinions evolve if not glacially, then at least gradually. Such that the events of an average day are as likely to transform who we are as a pinch of pepper is to transform a stew.
 
 
-Dang. 👏👏👏
+Jeez. 👏👏👏
 
 
 > For his part, the Count had opted for the life of the purposefully unrushed. Not only was he disinclined to race toward some appointed hour—disdaining even to wear a watch—he took the greatest satisfaction when assuring a friend that a worldly matter could wait in favor of a leisurely lunch or stroll along the embankment. After all, did not wine improve with age? Was it not the passage of years that gave a piece of furniture its delightful patina? When all was said and done, the endeavors that most modern men saw as urgent (such as appointments with bankers and the catching of trains), probably could have waited, while those they deemed frivolous (such as cups of tea and friendly chats) had deserved their immediate attention.
@@ -48,3 +48,15 @@ I'd like to add [visits to the dmv](https://www.youtube.com/watch?v=ONFj7AYgbko)
 
 
 Probably my favorite quote from the novel - makes the world feel a little wider
+
+<style>
+.side-image {
+  float: right; 
+  margin: 0 0 1em 1.5em;
+  width: 45%;
+  border-radius: 5px; 
+}
+
+.post-content {
+  overflow: hidden; 
+}
