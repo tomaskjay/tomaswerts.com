@@ -19,5 +19,5 @@ This site is just a place where I intend to post some projects I've worked on, b
 
 <style>
     .custom-break {
-  margin-top: 2.5em; // Adjust this value to reduce the space
+  margin-top: 2.5em;
 }
