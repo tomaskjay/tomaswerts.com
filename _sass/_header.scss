@@ -1,6 +1,6 @@
 .site-header a {
   color: #282424;
-  font-size: $h3;
+  font-size: $h4;
   font-weight: 300;
   background-image: none;
 }
@@ -22,11 +22,11 @@
   top: 0;
   left: 0;
   width: 100%;
-  z-index: 1000; /* Ensure the header is above other content */
-  background-color: #fffaef; /* Set a background color */
-  /* Remove the box-shadow */
+  z-index: 1000;
+  transition: opacity 0.2s ease, position 0.2s ease; //SEE IF NECESSARY
+  background-color: #fffaef;
 }
 
 body {
-  padding-top: 80px; /* Adjust this value based on the height of your header */
+  padding-top: 5rem;
 }
