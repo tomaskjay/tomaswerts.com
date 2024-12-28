@@ -11,7 +11,7 @@ tags: home
 
 <div class="custom-break"></div>
 
-This site is just a place where I intend to post some projects I've worked on, book and movie reviews, thoughts on trips I've taken, and other random things I find interesting. For family, friends, and whoever else might stumble across it.
+This is just a place where I intend to post some projects I've worked on, book and movie reviews, thoughts on trips I've taken, and other random things I find interesting. For family, friends, and whoever else might stumble across it.
 
 <br>
 

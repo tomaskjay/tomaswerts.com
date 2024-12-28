@@ -20,13 +20,9 @@
   font-size: $h2;
 }
 
-.site-nav {
-  margin-top: $space-2;
-}
 
 #main-menu {
   background-color: $header-bg;
-  margin-bottom: -2.5rem;
 }
 
 /* When the user scrolls, the header will briefly use this class to fade */
@@ -37,19 +33,11 @@
 /* When the user has scrolled enough, it becomes fixed */
 .site-header.sticky {
   position: fixed;
-  top: 0;
+  top: 0.5rem;
   left: 0;
   /* keep the same width if you want it to span the full page width */
   width: 100%;
   /* optionally reduce padding if you want a slimmer header once it sticks */
   z-index: 1000;
-  padding: 10px 20px;
-}
-
-/* Demo main content styling */
-main {
-  margin: 0 auto;
-  max-width: 800px;
-  padding: 80px 20px; /* so we can see the effect when scrolling */
 }
 
