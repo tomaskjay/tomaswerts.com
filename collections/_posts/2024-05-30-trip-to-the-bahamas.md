@@ -1,9 +1,10 @@
 ---
 layout:     post
-title:      2024 Bahamas Trip
+title:      Trip to the Bahamas
 date:       2024-05-30
-summary:    Went fishing in the Bahamas
+summary:    2024 fishing trip in the Bahamas
 categories: Traveling
+thumbnail:  /images/bahamas-thumbnail.jpg
 ---
 
 For last 6 days of May 2024, I was lucky enough to be able to travel to the Bahamas with my two cousins, uncle, and dad. We spent the entirety of the trip fly fishing off the island of Andros (the largest of the Bahamian islands). And yeah, when you think of fly fishing you don’t necessarily think of a group of five Asians. You think of old retired white men wearing vests and baggy waders. Or maybe fishing with house flies? ... It's not like I've never heard that one before ~~made fun of anyone for thinking that~~. 
@@ -23,4 +24,4 @@ I'll let the pictures tell most of the stories but just a few thoughts:
 - History of the Bahamas
 - Swain's Cay - the yellow is where we were fishing
 
-![Bahamas Map](./images/bahamas-map.png)
+![Bahamas Map](/images/bahamas-map.png)

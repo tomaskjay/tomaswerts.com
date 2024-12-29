@@ -5,11 +5,11 @@ $base-font-size: 0.95rem !default;
 $base-font-weight: 200 !default;
 $bold-font-weight: bold !default;
 $font-family: 'Inter' !default;
-$line-height: 1.5 !default;
+$line-height: 1.5rem !default;
 $heading-font-family: 'Inter' !default;
 $heading-font-weight: 700 !default;
 $heading-line-height: 1.25 !default;
-$heading-font-color: #282424 !default;
+$heading-font-color: #333333 !default;
 $monospace-font-family: 'Source Code Pro', Consolas, monospace !default;
 $h1: 2.5rem !default;
 $h2: 1.5rem !default;
@@ -36,8 +36,8 @@ $viewport-medium: 48em;
 $viewport-large: 64em;
 
 // Header Colors
-$header-bg: #fffaef !default;
-$header-fg: #282424 !default;
+$header-bg: #fffef4 !default;
+$header-fg: #333333 !default;
 
 // Colors
 $blue: #0076df !default;
@@ -101,7 +101,7 @@ $form-field-padding-x: .5rem;
 
 // Code
 $pre-border-radius: 0;
-$pre-background-color: #fffaef;
+$pre-background-color: #fffef4;
 $hljs-comment: $mid-gray;
 $hljs-keyword: $dark-blue;
 $hljs-name: $dark-gray;
@@ -122,7 +122,7 @@ $hljs-chunk: $light-gray;
 
 // Footer
 $footer-padding: $space-3;
-$footer-color: #282424;
-$footer-bg-color: #fffaef;;
+$footer-color: #333333;
+$footer-bg-color: #fffef4;;
 $footer-font-weight: 300;
 $footer-font-size: 1rem;

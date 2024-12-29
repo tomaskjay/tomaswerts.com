@@ -5,12 +5,12 @@
   width: 100%;
   z-index: 1000;
   transition: opacity 0.2s ease, position 0.2s ease; //SEE IF NECESSARY
-  background-color: #fffaef;
+  background-color: #fffef4;
   padding: 0;
 }
 
 .site-header a {
-  color: #282424;
+  color: #333333;
   font-size: $h4;
   font-weight: 300;
   background-image: none;

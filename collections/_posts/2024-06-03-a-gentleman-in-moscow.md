@@ -2,6 +2,7 @@
 layout:     post
 title:      A Gentleman in Moscow
 date:       2024-04-04
+thumbnail: /images/gentleman-in-moscow-thumbnail.jpg
 summary:    A few thoughts on the book
 categories: Books
 ---
