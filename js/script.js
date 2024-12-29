@@ -12,39 +12,34 @@ $(document).ready(function(){
   
   $(window).on('scroll', function() {
     const currentScroll = $(this).scrollTop();
-    console.log("Current scroll position:", currentScroll);
 
     // Check if the user has scrolled at least scrollThreshold pixels
     if (currentScroll >= scrollThreshold) {
       // Make header sticky
       $('.site-header').addClass('sticky');
-      console.log("Header is sticky");
+      $('.nav-placeholder').show();
 
       // If user scrolls down quickly (for example, more than 5px at once),
       // add a quick fade to smooth the transition.
       if (currentScroll - lastScrollTop > 5) {
         $('.site-header').addClass('fading');
-        console.log("Header is fading");
+        $('.nav-placeholder').show(); // Show the placeholder
 
         // Remove the fading class after the fade duration
         setTimeout(function() {
           $('.site-header').removeClass('fading');
-          console.log("Header fade removed");
         }, fadeDuration);
       }
 
       // Add shrink class to make the navigation bar smaller
       $('.site-header').addClass('shrink');
-      console.log("Header is shrinking");
       
     } else {
       // If back up near the top, remove sticky + any fade
       $('.site-header').removeClass('sticky fading');
-      console.log("Header is not sticky or fading");
-
+      $('.nav-placeholder').hide();
       // Remove shrink class to restore the navigation bar size
       $('.site-header').removeClass('shrink');
-      console.log("Header is not shrinking");
     }
 
     // Update last scroll position
