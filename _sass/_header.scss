@@ -20,7 +20,6 @@
   font-size: $h2;
 }
 
-
 #main-menu {
   background-color: $header-bg;
 }
@@ -28,16 +27,18 @@
 /* When the user scrolls, the header will briefly use this class to fade */
 .site-header.fading {
   opacity: 0.5;
+  transition: opacity 0.2s
 }
 
 /* When the user has scrolled enough, it becomes fixed */
 .site-header.sticky {
   position: fixed;
-  top: 0.5rem;
+  top: 0;
   left: 0;
   /* keep the same width if you want it to span the full page width */
   width: 100%;
-  /* optionally reduce padding if you want a slimmer header once it sticks */
+  padding: 0px 0 20px 0;
   z-index: 1000;
+  transition: opacity 0.2s ease-in-out;
 }
 
