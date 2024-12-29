@@ -78,9 +78,15 @@
   }
 }
 
-@media (max-width: 480px) {
-  .posts-grid {
-    grid-template-columns: 1fr;
+.profile-pic {
+  max-width: 100%;
+  height: auto;
+  border-radius: 1em;
+}
+
+@media (max-width: 768px) {
+  .profile-pic {
+    max-width: 60%;
   }
 }
 
