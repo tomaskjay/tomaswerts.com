@@ -1,6 +1,7 @@
 ---
 layout:     post
 title:      Linda Ung's Story
+thumbnail:  /images/linda-ung's-story.jpg
 date:       2024-10-08
 summary:    Chapters my grandmother wrote about her life
 categories:

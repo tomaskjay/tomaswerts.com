@@ -66,25 +66,43 @@
 }
 
 
-
-
-
-
-
-
-
-
-
-
 .posts-grid {
   display: grid;
   grid-template-columns: repeat(3, 1fr);
   gap: 1rem;
 }
 
+@media (max-width: 768px) {
+  .posts-grid {
+    grid-template-columns: repeat(2, 1fr);
+  }
+}
+
+@media (max-width: 480px) {
+  .posts-grid {
+    grid-template-columns: 1fr;
+  }
+}
+
 .post-item {
   padding: 1rem;
   background-color: #fffef4;
+  transition: background-color 0.2s ease, color 0.2s ease;
+}
+
+.post-item:hover {
+  background-color: #5c6b84;
+  color: white;
+}
+
+.post-item:hover .post-meta,
+.post-item:hover .post-summary {
+  color: inherit;
+}
+
+.post-item:hover  .post-title {
+  color: white;
+  text-decoration: none;
 }
 
 .post-thumbnail {
