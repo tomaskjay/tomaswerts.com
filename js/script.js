@@ -7,6 +7,8 @@ $(document).ready(function(){
   // Sticky header logic
   let lastScrollTop = 0;         // Tracks the previous scroll position
   const scrollThreshold = 40;   // Number of pixels before the header becomes fixed
+  const fadeDuration = 7;
+  
   
   $(window).on('scroll', function() {
     const currentScroll = $(this).scrollTop();
@@ -23,6 +25,12 @@ $(document).ready(function(){
       if (currentScroll - lastScrollTop > 5) {
         $('.site-header').addClass('fading');
         console.log("Header is fading");
+
+        // Remove the fading class after the fade duration
+        setTimeout(function() {
+          $('.site-header').removeClass('fading');
+          console.log("Header fade removed");
+        }, fadeDuration);
       }
 
       // Add shrink class to make the navigation bar smaller
@@ -37,12 +45,6 @@ $(document).ready(function(){
       // Remove shrink class to restore the navigation bar size
       $('.site-header').removeClass('shrink');
       console.log("Header is not shrinking");
-    }
-
-    // If scrolling up, remove the fading class
-    if (currentScroll < lastScrollTop) {
-      $('.site-header').removeClass('fading');
-      console.log("Header fading removed");
     }
 
     // Update last scroll position
