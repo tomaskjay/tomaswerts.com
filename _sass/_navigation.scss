@@ -38,11 +38,6 @@ nav li {
   margin: 4vh auto;
 }
 
-.site-header.shrink #main-menu li {
-  padding: 10px 20px;
-  margin: 0;
-}
-
 // Reduce vertical spacing on mobile.
 @media only screen and (max-width: 600px) {
   nav li {
@@ -96,4 +91,26 @@ nav a:after {
 
 .current {
   font-weight: bold !important;
+}
+
+.site-header .navigation.sticky {
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100%;
+  z-index: 1000;
+  transition: opacity 0.2s ease-in-out;
+}
+
+.site-header .navigation.fading {
+  opacity: 0.5;
+}
+
+.site-header .navigation.shrink {
+  padding: 0 0 20px 0;
+}
+
+.nav-placeholder {
+  display: none; /* Initially hidden */
+  height: 120px; /* Adjust this to match the height of your navigation bar */
 }

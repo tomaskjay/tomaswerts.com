@@ -24,9 +24,14 @@
   background-color: $header-bg;
 }
 
+.site-header.shrink #main-menu li {
+  padding: 10px 20px;
+  margin: 0;
+}
+
 /* When the user scrolls, the header will briefly use this class to fade */
 .site-header.fading {
-  opacity: 0.5;
+  opacity: 0;
   transition: opacity 0.2s
 }
 
