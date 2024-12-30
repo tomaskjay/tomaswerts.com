@@ -1,6 +1,6 @@
 ---
 layout:     post
-title:      Christmas Video 2.0
+title:      Christmas Video
 thumbnail:  /images/christmas-video-2.0.png
 date:       2024-12-25
 summary:    Merry Christmas Mom and Dad 🎄

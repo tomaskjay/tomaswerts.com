@@ -12,7 +12,7 @@ I'm a big brother, an avid tennis player, a [Leafs](https://www.youtube.com/watc
 I was born and raised in the suburb of Edina, Minnesota and was lucky enough to go to The Blake School from middle school to high school. As well as having a classic 2000’s childhood, I grew up playing lots of sports, fishing with my dad, and tagging along on family trips.
 
 ## Where I am now
-Currently, I’m a senior at Case studying computer science. Besides school, I enjoy exploring Cleveland, staying in shape, meeting new people, reading, watching movies, and doing the daily NYTimes games.
+Currently, I’m a senior at Case studying computer science. Some things I like to do besides school: exploring Cleveland, staying in shape, meeting new people, reading, watching movies, and playing the daily NYTimes games.
 
 ...
 

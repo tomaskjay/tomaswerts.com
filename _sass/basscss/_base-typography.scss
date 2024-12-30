@@ -4,14 +4,14 @@ body {
   font-family: $font-family;
   line-height: $line-height;
   font-size: $base-font-size;
-  color: #333333;
+  color: #484848;
 }
 
 h1 {
   font-family: $heading-font-family;
   font-weight: $heading-font-weight;
   line-height: $heading-line-height;
-  color: #333333;
+  color: #484848;
   margin-top: 1em;
   margin-bottom: .5em;
 }
@@ -30,7 +30,7 @@ h6 {
 
 blockquote {
   font-size: $base-font-size;
-  color: #333;
+  color: #696969;
   border-left: 5px solid #7a7a7a;
   display: block;
   margin-block-start: 1em;
@@ -54,7 +54,7 @@ blockquote footer {
 
 blockquote p {
   font-size: $base-font-size;
-  color: #333;
+  color: #696969;
   margin-bottom: 0;
 }
 

@@ -7,10 +7,14 @@ categories: Fitness
 ---
 ![Hans_and_Franz](https://deadline.com/wp-content/uploads/2023/04/TSDSANI_NB024.jpg)
 
-Not going to pretend like I actually know what I'm doing or anything but just a few things I've learned: consistency is the most important thing here—a bad day at the gym is better than a skipped day (you can even just go there to stretch). And eat a lot, but eat well. Also, don't forget to work on mobility. You don't want to be [this guy](https://www.youtube.com/watch?v=bj2yfvQGbl8).
+A few things I've learned
+- Consistency is the most important thing here—a bad day at the gym is better than a skipped day (you can even just go there to stretch)
+- Keep it simple. It's easier to not burn out this way
+- And eat a lot, but eat well
+- Also, don't forget to work on mobility. You don't want to be [this guy](https://www.youtube.com/watch?v=bj2yfvQGbl8).
 
 **General guidelines** 
-- Day 1: Push, Day 2: Pull, Day 3: Legs, Day 4: Cardio, Day 5: Rest
+- Day 1: Push, Day 2: Pull, Day 3: Legs, Day 4: Rest
 - Stretching/mobility at the end of each every day
 - Everything 10 x 3
 - Rest periods: 1 min 30 sec between sets/3 min rest between exercises
