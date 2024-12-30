@@ -58,18 +58,11 @@
   border-bottom: thin solid #fff8e9;
 }
 
-
 .posts-grid {
   display: grid;
   grid-template-columns: repeat(3, 1fr);
   gap: 1rem;
   grid-auto-rows: minmax(min-content, max-content);
-}
-
-@media (max-width: 768px) {
-  .posts-grid {
-    grid-template-columns: repeat(2, 1fr);
-  }
 }
 
 .profile-pic {
@@ -79,8 +72,14 @@
 }
 
 @media (max-width: 768px) {
+  .posts-grid {
+    grid-template-columns: repeat(2, 1fr);
+  }
   .profile-pic {
     max-width: 60%;
+  }
+  .post-item:hover .post-title {
+    background-color: #fffef4; // Reset to original color
   }
 }
 
