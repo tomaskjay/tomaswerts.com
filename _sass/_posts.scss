@@ -1,8 +1,3 @@
-.posts {
-  margin: 0;
-  // display: grid;  <-- remove or comment out
-}
-
 .posts .post:last-child {
   border-bottom: none;
   margin-bottom: 0;
@@ -78,8 +73,8 @@
   .profile-pic {
     max-width: 60%;
   }
-  .post-item:hover .post-title {
-    background-color: #fffef4; // Reset to original color
+  .post-item:hover .post-item {
+    background-color: #fffef4;
   }
 }
 
