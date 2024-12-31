@@ -1,32 +1,26 @@
 ---
 layout: default
-tags: blog
 title: Blog
 ---
 
-{% assign posts_count = site.posts | size %}
-
 <div class="home">
-  {% if posts_count > 0 %}
   <div class="posts-grid">
     {% for post in site.posts %}
-    <a href="{{ post.url | prepend: site.baseurl }}" class="post-item">
-      <img src="{{ post.thumbnail }}" alt="{{ post.title }} thumbnail" class="post-thumbnail">
-      <div class="post-meta">
-        <span>{{ post.date | date: site.date_format }}</span>
-        {% if post.tags contains "popular" %}
-        <span class="post-meta-popular-tag">Popular</span>
-        {% endif %}
-      </div>
-      <h3 class="h2 post-title">{{ post.title }}</h3>
-      <p class="post-summary">
-        {% if post.summary %} {{ post.summary }} {% else %} {{ post.excerpt }}
-        {% endif %}
-      </p>
-    </a>
+      {% unless post.hidden %}
+        <a href="{{ post.url | prepend: site.baseurl }}" class="post-item">
+          <img src="{{ post.thumbnail }}" alt="{{ post.title }} thumbnail" class="post-thumbnail">
+          <div class="post-meta">
+            <span>{{ post.date | date: site.date_format }}</span>
+            {% if post.tags contains "popular" %}
+              <span class="post-meta-popular-tag">Popular</span>
+            {% endif %}
+          </div>
+          <h3 class="h2 post-title">{{ post.title }}</h3>
+          <p class="post-summary">
+            {% if post.summary %} {{ post.summary }} {% else %} {{ post.excerpt }} {% endif %}
+          </p>
+        </a>
+      {% endunless %}
     {% endfor %}
   </div>
-  {% else %}
-  <h1 class="center">{{ site.text.index.coming_soon }}</h1>
-  {% endif %}
 </div>
