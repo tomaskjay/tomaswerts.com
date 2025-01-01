@@ -3,7 +3,9 @@ layout: default
 tags: home
 ---
 
-# 👋 Hi, I'm Tomas.
+<img src="/images/favicon.png" alt="Favicon" style="height: 150px; width: auto; display: block; margin-left: 3em; margin-bottom: -20px; margin-top: -30px;">
+
+# Hi, I'm Tomas.
 
 ### I'm a student at Case Western Reserve University pursuing a BA in computer science.
 
