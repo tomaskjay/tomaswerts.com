@@ -11,7 +11,7 @@ categories: Books
   <em>“If a man does not master his circumstances then he is bound to be mastered by them”</em>
 </p>
 
-A Gentleman in Moscow takes place in Russia in 1922 (following the Bolshevik Revolution) and centers around Alexander Rostov, a Count who finds himself sentenced indefinitely under house arrest at the Grand Metropol Hotel. While this might seem like a little dry of a premise, “dry” is exactly what the book is not. At it's heart, what the book is really about is making lemonde.
+A Gentleman in Moscow is set in 1922 Russia (following the Bolshevik Revolution) and centers around Alexander Rostov, a Count who finds himself sentenced indefinitely under house arrest at the Grand Metropol Hotel. While this might seem like a little dry of a premise, “dry” is exactly what the book is not. At it's heart, what the book really is about is making lemonde.
 
 ![The Metropol Hotel](/images/metropol-hotel.jpg)
 
