@@ -3,7 +3,7 @@ layout: default
 tags: home
 ---
 
-<img src="/images/favicon.png" alt="Favicon" style="height: 130px; width: auto; display: block; margin-left: 3em; margin-bottom: -20px; margin-top: 1em;">
+<img src="/images/favicon.png" alt="Favicon" style="height: 130px; width: auto; float: left; margin-left: 2em; margin-right: 2em; margin-bottom: 10px;">
 
 # Hi, I'm Tomas.
 
@@ -20,7 +20,7 @@ This is just a place where I intend to post some projects I've worked on, book a
 
 <style>
     .custom-break {
-        margin-top: 2.5em;
+        margin-top: 3em;
     }
     html {
         overflow-y: scroll;
