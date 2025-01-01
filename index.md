@@ -3,7 +3,7 @@ layout: default
 tags: home
 ---
 
-<img src="/images/favicon.png" alt="Favicon" style="height: 150px; width: auto; display: block; margin-left: 3em; margin-bottom: -20px; margin-top: -30px;">
+<img src="/images/favicon.png" alt="Favicon" style="height: 130px; width: auto; display: block; margin-left: 5em; margin-bottom: -20px; margin-top: 1em;">
 
 # Hi, I'm Tomas.
 
