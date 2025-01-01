@@ -59,18 +59,9 @@
   grid-auto-rows: minmax(min-content, max-content);
 }
 
-.profile-pic {
-  max-width: 100%;
-  height: auto;
-  border-radius: 1em;
-}
-
 @media (max-width: 768px) {
   .posts-grid {
     grid-template-columns: repeat(2, 1fr);
-  }
-  .profile-pic {
-    max-width: 20%;
   }
   .post-item:hover .post-item {
     background-color: #fffef4;
