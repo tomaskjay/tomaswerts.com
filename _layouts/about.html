@@ -3,6 +3,7 @@ layout: default
 ---
 <div>
   <img 
+    class="profile-pic"
     style="border-radius: 1em; max-width: 250px; float: right; margin: 1.25em;" 
     src="{{ page.headshot }}"
   >
@@ -15,3 +16,11 @@ layout: default
   {{ content }}
   </article>
 </div>
+
+<style>
+  @media (max-width: 600px) {
+    .profile-pic {
+      max-width: 100px;
+    }
+  }
+</style>
