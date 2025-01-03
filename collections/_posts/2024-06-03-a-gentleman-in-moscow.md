@@ -15,7 +15,7 @@ A Gentleman in Moscow is set in 1922 Russia (following the Bolshevik Revolution)
 
 ![The Metropol Hotel](/images/metropol-hotel.jpg)
 
-Without giving too much away, Count Rostov makes the wise decision to turn inwards; towards the intricate system of cogs and gears that is the Metropol and also towards the people that reside in it, including a perpetually restless friend, a short-tempered head chef, a dexterous maître d’hôtel, a willowy actress, an incredibly punchable manager, and one unexpected life bomb. His interactions with the people he encounters fills the space that he has been so frustratingly confined to.
+Without giving too much away, Count Rostov makes the wise decision to turn inwards; towards the intricate system of cogs and gears that is the Metropol and also towards the people that reside in it, including a perpetually restless friend, a short-tempered head chef, a dexterous maître d’hôtel, a willowy actress, an incredibly punchable manager, and one unexpected life bomb. His interactions with the people he encounters fills the space that he has frustratingly been confined to.
 
 The Count himself is the epitome of a gentleman: one of witty charm, handlebar moustaches, and fantastic taste in wine. He's a fascinating person, but that's not to say that each side character is also really well fleshed out. Each of them have their own respective circumstances to master. All of this, not to mention, plays in the backdrop of the ever escalating relationship between the U.S. and the Soviet Union. This gives both context for the story and also plays a significant hand in shaping it. Even though the Count is basically cut off from the outside world, the cold bureaucracy of the Bolsheviks that has transformed Russia into an emerging global superpower still manages to penetrate the walls of the Metropol and disturb his life. However, despite the fact that he is a victim of his own government, Alexander Rostov‘s love for his country admirably never falters.
 
@@ -32,7 +32,7 @@ Some great advice that the Count gives Sofia
 > Alexander Rostov was neither scientist nor sage; but at the age of sixty-four he was wise enough to know that life does not proceed by leaps and bounds. It unfolds. At any given moment, it is the manifestation of a thousand transitions. Our faculties wax and wane, our experiences accumulate and our opinions evolve if not glacially, then at least gradually. Such that the events of an average day are as likely to transform who we are as a pinch of pepper is to transform a stew.
 
 
-👏👏👏
+👏👏
 
 
 > For his part, the Count had opted for the life of the purposefully unrushed. Not only was he disinclined to race toward some appointed hour—disdaining even to wear a watch—he took the greatest satisfaction when assuring a friend that a worldly matter could wait in favor of a leisurely lunch or stroll along the embankment. After all, did not wine improve with age? Was it not the passage of years that gave a piece of furniture its delightful patina? When all was said and done, the endeavors that most modern men saw as urgent (such as appointments with bankers and the catching of trains), probably could have waited, while those they deemed frivolous (such as cups of tea and friendly chats) had deserved their immediate attention.
