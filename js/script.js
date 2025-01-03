@@ -1,4 +1,4 @@
-$(document).ready(function(){
+$(document).ready(function() {
   console.log("Document is ready");
 
   bindProjectNavArrows();
@@ -8,10 +8,20 @@ $(document).ready(function(){
   let lastScrollTop = 0;         // Tracks the previous scroll position
   const scrollThreshold = 40;   // Number of pixels before the header becomes fixed
   const fadeDuration = 7;
-  
-  
+  let ticking = false;
+
   $(window).on('scroll', function() {
-    const currentScroll = $(this).scrollTop();
+    if (!ticking) {
+      window.requestAnimationFrame(function() {
+        handleScroll();
+        ticking = false;
+      });
+      ticking = true;
+    }
+  });
+
+  function handleScroll() {
+    const currentScroll = $(window).scrollTop();
 
     // Check if the user has scrolled at least scrollThreshold pixels
     if (currentScroll >= scrollThreshold) {
@@ -44,21 +54,26 @@ $(document).ready(function(){
 
     // Update last scroll position
     lastScrollTop = currentScroll;
-  });
+  }
 });
 
-function bindProjectNavArrows(){
+function bindProjectNavArrows() {
   console.log("Binding project nav arrows");
-  $(".next-project, .prev-project").click(function(evt){
+  $(".next-project, .prev-project").click(function(evt) {
     evt.preventDefault();
     fadePageOut($(this).attr('href'));
   });
 }
 
-function fadePageOut(targetHref){
+function fadePageOut(targetHref) {
   console.log("Fading page out to:", targetHref);
-  $("#main").fadeOut(200, function(){
-    $("#main").load(targetHref + " #container #main", function(response, status, xhr){
+  $("#main").fadeOut(200, function() {
+    $("#main").load(targetHref + " #container #main", function(response, status, xhr) {
+      if (status === "error") {
+        console.error("Failed to load page:", xhr.status, xhr.statusText);
+        $("#main").fadeIn(200);
+        return;
+      }
       bindProjectNavArrows();
       var stateObj = {
         html: $("#main").html()
@@ -71,7 +86,7 @@ function fadePageOut(targetHref){
   });
 }
 
-function fadePageIn(){
+function fadePageIn() {
   console.log("Fading page in");
   $("body").fadeIn(200);
 }
