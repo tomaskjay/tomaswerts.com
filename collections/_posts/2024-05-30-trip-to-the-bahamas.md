@@ -6,7 +6,7 @@ summary:    2024 fishing trip in the Bahamas
 categories: Traveling
 thumbnail:  /images/bahamas-thumbnail.jpg
 ---
-The best part about the Bahamas is that it sounds relaxing. For a the last week of May, everything was a little balmier, a little more scenic, and a little more carefree -- because I was in the *Bahamas*. I was lucky enough to spend my whole time there fly fishing off the island of Andros (the largest of the Bahamian islands) with my two cousins, Uncle, and Dad.
+The best part about the Bahamas is that it sounds relaxing. For the last week of May, everything was a little balmier, a little more scenic, and a little more carefree -- because I was in the *Bahamas*. I was lucky enough to spend my whole time there fly fishing off the island of Andros (the largest of the Bahamian islands) with my two cousins, Uncle, and Dad.
 
 {% bluebox %}
 
@@ -18,23 +18,23 @@ The archetype of throwing a worm on a hook or dragging a lure across a lake is r
 
 So, to the detriment of our shoulders, this is what we were doing in the most beautiful part of earth <a href="https://x.com/StationCDRKelly/status/592444731076026368" target="_blank">from space</a>. It was actually our second time there since we went two summers ago as a graduation gift for my cousin. We used my other cousin's graduation as an excuse to go again this time. 
 
+We were there fishing for bonefish specifically (Andros is known as the bonefish capital of the world). Bonefish, tarpon, and permit make up "the big three" of saltwater fly fishing. Tarpon are the most iconic because they're really photogenic; they're huge and they tend to leap out of the water. They're basically giant sardines with googly eyes. Permit are these oval-shaped fish that are notoriously wary and usually solitary. When you land one, it's a big deal because people can spend their entire day searching for one only to make a perfect cast and have their fly shrugged off. By the way, all three of these fish are usually just caught and then released back into the water because they suck to eat.
+
 It goes without saying that the fishing was fun, but it was really just liberating to be on the water. There aren't many better places to be than in the ocean and under the Bahamian sun. One of the guides called it "the world's best office."
 
 I'll let the pictures tell most of the stories but a few general thoughts:
 
-- We were fishing for bonefish (Andros is known as the bonefish capital of the world). They have a cool latin name: *abula vulpes* means silver fox. They also have a cooler nickname: "ghost of the flats".
-
-- Bonefish, tarpon, and permit make up "the big three" of saltwater fly fishing. Tarpon are the most iconic because they're really photogenic; they're huge and they tend to leap out of the water. They're basically giant sardines with googly eyes. Permit are these oval-shaped fish that are notoriously wary and usually solitary. When you land one, it's a big deal because people can spend their entire day searching for one only to make a perfect cast and have their fly shrugged off. By the way, all three of these fish are usually just caught and then released back into the water because they suck to eat.
+- Bonefish have a cool latin name: *abula vulpes* means silver fox. They also have a cooler nickname: "ghost of the flats".
 
 - I went down a fishing spiral on Youtube when we were close to leaving for the trip. The highlights were these two videos Yeti made on [giant trevally in the Seychelles](https://www.youtube.com/watch?v=MNfBHLp_FKg) and [tarpon in Florida](https://www.youtube.com/watch?v=FZoMPciCciY). There's also [this gem](https://www.youtube.com/watch?v=IYq7i4u3XBA). Hilarious.
 
-- Having a doctor as a parent is awesome for many reasons. One of which being that doctors can be [heroes](https://en.wikipedia.org/wiki/Angus_Wallace#In-flight_surgery_with_a_coat-hanger_and_silverware) on planes. Midway through the flight to Nassau, the guy sitting in front of us fainted and the captain used the intercom to call for the help of any medical workers. My dad jumped over the seat and started asking him a bunch of questions. A nurse and an ER doctor came over too. Literally everyone on the plane was watching. The good news was that the guy ended up being okay. I felt bad though because he was forced to drink tomato juice with like 3 salt packets poured into it. My dad is a superhero!
+- Having a doctor as a parent is awesome for many reasons. One of which being that doctors can be [heroes](https://en.wikipedia.org/wiki/Angus_Wallace#In-flight_surgery_with_a_coat-hanger_and_silverware) on planes. Midway through the flight to Nassau, the guy sitting in front of us fainted and the captain used the intercom to call for the help of any medical workers. My dad jumped over the seat and started asking him a bunch of questions. A nurse and an ER doctor came over too. Literally everyone on the plane was watching. The good news was that the guy ended up being okay. I felt bad though because he was forced to drink tomato juice with like 3 salt packets poured into it. Anyways, my dad is a superhero!
 
 - Bahamian coins are neat and very island-y. The quarters have sailboats, the dimes have little bonefish, the nickels have pineapples, and the pennies have starfish. For some reason, they also have a square one with a hibiscus on it that's 15 cents? Kind of weird to pick a number that you can't break a dollar evenly into but still cool.
 
 - Speaking of which, I later found out that the Bahamas is a tax haven. They have no income, corporate, and capital gains taxes. Leonardo Dicaprio should've stashed away his money here instead of going all the way to that bank in Switzerland.
 
-- When I was small, I read about Atlantis Paradise Island in an issue of Nat Geo Kids. I thought it was amazing at the time but today it just seems really touristy. You could defintely pick out the people in the airport who were staying there. I'd still jump on any opportunity go to Disney Land though.
+- When I was small, I read about Atlantis Paradise Island in an issue of Nat Geo Kids. I thought it was amazing at the time but today it just seems really touristy. You could defintely pick out the people in the airport who were staying there. I'd still jump on any opportunity go to Disneyland though.
 
 - The people were, of course, incredibly nice and hospitable. Admittedly, the backbone of the Bahamian economy is tourism but, after being there and seeing that it looks exactly like the postcards, it's hard to find a reason why anyone who grew up on an island wouldn't be friendly and easygoing. It's cool that one of these people used to be our president.
 
