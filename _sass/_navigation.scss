@@ -38,13 +38,13 @@ nav li {
   margin: 4vh auto;
 }
 
-// Reduce vertical spacing on mobile.
-@media only screen and (max-width: 600px) {
-  nav li {
-    margin-top: 0;
-    margin-bottom: 0;
-  }
-}
+// // Reduce vertical spacing on mobile.
+// @media only screen and (max-width: 768px) {
+//   nav li {
+//     margin-top: 0;
+//     margin-bottom: 0;
+//   }
+// }
 
 nav .nav-underline:before {
   bottom: 0;
