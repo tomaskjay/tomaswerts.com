@@ -8,11 +8,13 @@ categories:
 ---
 One of the things I've always enjoyed is watching the <a href="https://storycorps.org/animation/danny-and-annie/" target="_blank">animated shorts</a> that StoryCorps makes from some of their recordings. That's kind of the inspiration behind putting everything here. 
 
-A while ago, my grandma sent me the first couple chapters of what ended up being a six part story about her life. The entire story is here for self-reference and also in hopes that other people can read it too (because my grandma definitely isn't the type of person to go pushing around her life story). I think anyone who's lucky enough to have their grandparents still with them should take the time to learn more about their heritage. When you're growing up, you usually only hear the short funny stories that they tell you to make you laugh, but I think it's sometimes hard for them to tell the more serious ones since they assume it'll be boring or that it'll take too long. I guarantee you, though, that you will find something you would've regretted not ever knowing. In the case of my grandma, that would've been a lot--and that's an understatement.
+A while ago, my grandma sent me the first couple chapters of what ended up being a six part story about her life. The entire story is here for self-reference and also in hopes that other people can read it too (because my grandma definitely isn't the type of person to go pushing around her life story). I think anyone who's lucky enough to have their grandparents still with them should take the time to learn more about their heritage. When you're growing up, you usually only hear the short funny stories that they tell you to make you laugh, but I think it's sometimes hard for them to tell the more serious ones since they assume it'll be boring or that it'll take too long. I guarantee you, though, that you will find something you would've regretted not ever knowing. In the case of my grandma, that would've been a lot—and that's an understatement.
+
+---
 
 ## Foreword
 
-Growing up in Kompong Cham, Cambodia, life was simple yet deeply rooted in tradition. I can still picture the quiet, peaceful days in my hometown—the rhythm of daily life filled with warmth and community.
+Growing up in Kompong Cham, Cambodia, life was simple yet deeply rooted in tradition. I can still picture the quiet, peaceful days in my hometown, where the rhythm of daily life filled with warmth and community.
 
 For twenty eight years, Cambodia was my universe, a land of profound beauty and rich culture. It was there that I learned the values of perseverance and hope, lessons that would guide me through a life of unexpected twists and turns.
 
