@@ -6,7 +6,7 @@ $(document).ready(function() {
 
   // Sticky header logic
   let lastScrollTop = 0;         // Tracks the previous scroll position
-  const scrollThreshold = 40;   // Number of pixels before the header becomes fixed
+  const scrollThreshold = window.innerHeight * 0.032;   // Number of pixels before the header becomes fixed
   const fadeDuration = 7;
   let ticking = false;
 

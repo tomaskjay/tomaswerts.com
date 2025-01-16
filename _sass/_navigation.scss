@@ -35,15 +35,7 @@ ul.nav {
 
 nav li {
   list-style: none;
-  margin: 4vh auto;
-}
-
-// Reduce vertical spacing on mobile.
-@media only screen and (max-width: 768px) {
-  nav li {
-    list-style: none;
-    margin: 3vh auto;
-  }
+  margin: 3vh auto;
 }
 
 nav .nav-underline:before {
@@ -112,7 +104,7 @@ nav a:after {
 
 .nav-placeholder {
   display: none; /* Initially hidden */
-  height: 9.25rem;
+  height: 8rem;
 }
 
 @media only screen and (max-width: 768px) {
