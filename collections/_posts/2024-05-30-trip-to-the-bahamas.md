@@ -4,7 +4,7 @@ title:      Trip to the Bahamas
 date:       2024-05-30
 summary:    2024 fishing trip in the Bahamas
 categories: Traveling
-thumbnail:  /images/bahamas-thumbnail.jpg
+thumbnail:  /images/bahamas-album/bahamas-thumbnail.jpg
 ---
 The best part about the Bahamas is that it sounds relaxing. For the last week of May, everything was a little balmier, a little more scenic, and a little more carefree -- because I was in the *Bahamas*. I was lucky enough to spend my whole time there fly fishing off the island of Andros with my two cousins, Uncle, and Dad.
 
@@ -28,7 +28,7 @@ I'll let the pictures tell most of the stories but a few general thoughts:
 
 - I went down a fishing spiral on Youtube when we were close to leaving for the trip. The highlights were these two videos Yeti made on [giant trevally in the Seychelles](https://www.youtube.com/watch?v=MNfBHLp_FKg) and [tarpon in Florida](https://www.youtube.com/watch?v=FZoMPciCciY). There's also [this gem](https://www.youtube.com/watch?v=IYq7i4u3XBA).
 
-- Having a doctor as a parent is awesome for many reasons. One of which being that doctors can be [heroes](https://en.wikipedia.org/wiki/Angus_Wallace#In-flight_surgery_with_a_coat-hanger_and_silverware) on planes. Midway through the flight to Nassau, the guy sitting in front of us fainted and the captain used the intercom to call for the help. My dad jumped over the seat and started asking him a bunch of questions. A nurse and an ER doctor came over too. The good news was that the guy ended up being okay. The bad news was that he was forced to drink tomato juice with like 3 salt packets poured into it. Anyways, my dad is a superhero!
+- Having a doctor as a parent is awesome for many reasons. One of which being that doctors can be [heroes](https://en.wikipedia.org/wiki/Angus_Wallace#In-flight_surgery_with_a_coat-hanger_and_silverware) on planes. Midway through the flight to Nassau, the guy sitting in front of us fainted and the captain used the intercom to call for the help. My dad jumped over the seat and started asking him a bunch of questions. A nurse and an ER doctor came over too. The good news was that the guy ended up being okay. The bad news was that he was forced to drink orange juice with like 3 salt packets poured into it. Anyways, my dad is a superhero!
 
 - Bahamian coins are neat and very island-y. The quarters have sailboats, the dimes have little bonefish, the nickels have pineapples, and the pennies have starfish. For some reason, they also have a square one that's 15 cents? Kind of weird to pick a number that you can't break a dollar evenly into but still cool.
 
@@ -40,11 +40,25 @@ I'll let the pictures tell most of the stories but a few general thoughts:
 
 
 Alright, let's get on with it. <br><br><br>
-![Bahamas Map](/images/bahamas-map.png)
+![Bahamas Map](\images\bahamas-album\bahamas-map.png)<br><br>
 
-The lodge we stayed at is called Swain's Cay - the parts of the island highlighted in yellow are where we fished. Each day, we would usually split up into groups between the middle and the bottom.
+The lodge we stayed at is called Swain's Cay - the parts of the island highlighted in yellow are where we fished. Each day, we would usually split up into groups between the middle and the bottom.<br><br>
 
+![](\images\bahamas-album\f7f41209-fd42-4173-9eb8-c3df8faf15e0.jpg)<br><br>
 
-flats
+Wendy's was our reward for making it there. It's crazy how quickly the world changes when you fly straight down longitude-wise as opposed to latitude-wise. The plane ride to Nassau was five hours. If we had flown in the opposite direction for half that time we'd be in the *polar bear* capital of the world (Churchill, Manitoba).<br><br>
 
-airlines
+![](\images\bahamas-album\fde0c02c-1624-4976-abad-f66701ce4057.jpg)<br><br>
+
+Doing what we did on our last flight while waiting for our next flight - where we did the same thing. <br><br>
+
+![](\images\bahamas-album\30b6883e-93f2-47fd-8cda-9ed492bd8b5f.jpg)<br><br>
+
+Imagine being an ant and having this as your POV<br><br>
+
+![](\images\bahamas-album\20240524_160548(0).jpg)<br><br>
+
+<br><br>
+
+<!-- flats
+airlines -->
