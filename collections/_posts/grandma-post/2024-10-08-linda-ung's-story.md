@@ -14,6 +14,8 @@ A while ago, my grandma sent me the first couple chapters of what ended up being
 
 ## Foreword
 
+<!-- Put flags here to click on -->
+
 Growing up in Kompong Cham, Cambodia, life was simple yet deeply rooted in tradition. I can still picture the quiet, peaceful days in my hometown, where the rhythm of daily life filled with warmth and community.
 
 For twenty eight years, Cambodia was my universe, a land of profound beauty and rich culture. It was there that I learned the values of perseverance and hope, lessons that would guide me through a life of unexpected twists and turns.
