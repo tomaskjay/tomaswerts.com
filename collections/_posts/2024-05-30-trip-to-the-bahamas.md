@@ -32,33 +32,316 @@ I'll let the pictures tell most of the stories but a few general thoughts:
 
 - Bahamian coins are neat and very island-y. The quarters have sailboats, the dimes have little bonefish, the nickels have pineapples, and the pennies have starfish. For some reason, they also have a square one that's 15 cents? Kind of weird to pick a number that you can't break a dollar evenly into but still cool.
 
-- Along those lines, I later found out that the Bahamas is a tax haven. They have no income, corporate, or capital gains taxes. Leonardo Dicaprio should've stashed away his money here instead of going all the way to that bank in Switzerland.
+- Along those lines, I later found out that the Bahamas is a tax haven. No income, corporate, or capital gains taxes. Leonardo Dicaprio should've stashed away his money here instead of going all the way to that bank in Switzerland.
 
 - In elementary school I read about Atlantis Paradise Island in an issue of Nat Geo Kids. I thought it was amazing at the time but today it just seems really touristy. You could defintely pick out the people in the airport who were staying there. I'd still jump on any opportunity go to Disneyland though.
 
 - The people were, of course, incredibly nice and hospitable. Admittedly, the backbone of the Bahamian economy is tourism but, after being there and seeing that it looks exactly like the postcards, it's hard to find a reason why anyone who grew up on an island wouldn't be friendly and easygoing. It's cool that one of these people used to be our president.
 
+<style>
+  img {
+    display: block;
+    margin: 0 auto;
+    width: 80%;
+  }
+</style>
 
-Alright, let's get on with it. <br><br><br>
-![Bahamas Map](\images\bahamas-album\bahamas-map.png)<br><br>
+<br> Alright, let's get on with it. <br><br><br>
+![Bahamas Map](\images\bahamas-album\bahamas-map.png)<br>
 
 The lodge we stayed at is called Swain's Cay - the parts of the island highlighted in yellow are where we fished. Each day, we would usually split up into groups between the middle and the bottom.<br><br>
 
-![](\images\bahamas-album\f7f41209-fd42-4173-9eb8-c3df8faf15e0.jpg)<br><br>
+![](\images\bahamas-album\f7f41209-fd42-4173-9eb8-c3df8faf15e0.jpg)<br>
 
-Wendy's was our reward for making it there. It's crazy how quickly the world changes when you fly straight down longitude-wise as opposed to latitude-wise. The plane ride to Nassau was five hours. If we had flown in the opposite direction for half that time we'd be in the *polar bear* capital of the world (Churchill, Manitoba).<br><br>
+Wendy's was our reward for making it there. It's crazy how quickly the world changes when you fly directly longitude-wise as opposed to latitude-wise or somewhere in between. The flight to Nassau was five hours. If we had flown in the opposite direction for half that time we'd be in the *polar bear* capital of the world (Churchill, Manitoba).<br><br>
 
-![](\images\bahamas-album\fde0c02c-1624-4976-abad-f66701ce4057.jpg)<br><br>
+![](\images\bahamas-album\fde0c02c-1624-4976-abad-f66701ce4057.jpg)<br>
 
 Doing what we did on our last flight while waiting for our next flight - where we did the same thing. <br><br>
 
-![](\images\bahamas-album\30b6883e-93f2-47fd-8cda-9ed492bd8b5f.jpg)<br><br>
+![](\images\bahamas-album\IMG_5621.jpeg)<br>
+<br><br>
 
+![](\images\bahamas-album\IMG_5623.jpeg)<br>
+<br><br>
+
+![](\images\bahamas-album\IMG_5629.jpeg)<br>
+<br><br>
+
+![](\images\bahamas-album\20240524_160548(0).jpg)<br>
+<br><br>
+
+![](\images\bahamas-album\IMG_5650.jpeg)<br>
+<br><br>
+
+![](\images\bahamas-album\30b6883e-93f2-47fd-8cda-9ed492bd8b5f.jpg)<br>
 Imagine being an ant and having this as your POV<br><br>
 
-![](\images\bahamas-album\20240524_160548(0).jpg)<br><br>
-
+![](\images\bahamas-album\IMG_5633.jpeg)<br>
 <br><br>
+
+![](\images\bahamas-album\IMG_5647.jpeg)<br>
+<br><br>
+
+![](\images\bahamas-album\IMG_5646.jpg)<br>
+<br><br>
+
+![](\images\bahamas-album\IMG_5643.jpg)<br>
+<br><br>
+
+![](\images\bahamas-album\IMG_5642.jpeg)<br>
+<br><br>
+
+![](\images\bahamas-album\IMG_5649.jpeg)<br>
+<br><br>
+
+![](\images\bahamas-album\IMG_5652.jpeg)<br>
+<br><br>
+
+![](\images\bahamas-album\IMG_5651.jpeg)<br>
+<br><br>
+
+![](\images\bahamas-album\b7f1769f-3feb-4baf-99c1-76a1f4944470.jpg)<br>
+<br><br>
+
+![](\images\bahamas-album\IMG_5654.jpeg)<br>
+<br><br>
+
+![](\images\bahamas-album\X8A9188.jpeg)<br>
+<br><br>
+
+![](\images\bahamas-album\IMG_5673.jpeg)<br>
+<br><br>
+
+![](\images\bahamas-album\IMG_5658.jpeg)<br>
+<br><br>
+
+![](\images\bahamas-album\IMG_5667.jpeg)<br>
+<br><br>
+
+![](\images\bahamas-album\IMG_5664.jpeg)<br>
+<br><br>
+
+![](\images\bahamas-album\FullSizeRender(5).jpeg)<br>
+<br><br>
+
+![](\images\bahamas-album\IMG_5674.jpeg)<br>
+<br><br>
+
+![](\images\bahamas-album\FullSizeRender(10).jpeg)<br>
+<br><br>
+
+![](\images\bahamas-album\X8A9130.jpeg)<br>
+<br><br>
+
+![](\images\bahamas-album\X8A9132.jpeg)<br>
+<br><br>
+
+![](\images\bahamas-album\X8A9146.jpeg)<br>
+<br><br>
+
+![](\images\bahamas-album\X8A9165.jpeg)<br>
+<br><br>
+
+![](\images\bahamas-album\X8A9123.jpeg)<br>
+<br><br>
+
+![](\images\bahamas-album\20240525_130356.jpg)<br>
+<br><br>
+
+![](\images\bahamas-album\FullSizeRender(13).jpeg)<br>
+<br><br>
+
+![](\images\bahamas-album\IMG_5698.jpeg)<br>
+<br><br>
+
+![](\images\bahamas-album\IMG_5699.jpeg)<br>
+<br><br>
+
+![](\images\bahamas-album\IMG_5702.jpeg)<br>
+<br><br>
+
+![](\images\bahamas-album\IMG_5704.jpeg)<br>
+<br><br>
+
+![](\images\bahamas-album\IMG_5705.jpeg)<br>
+<br><br>
+
+![](\images\bahamas-album\FullSizeRender(2).jpeg)<br>
+<br><br>
+
+![](\images\bahamas-album\X8A9154.jpeg)<br>
+<br><br>
+
+![](\images\bahamas-album\X8A9299.jpg)<br>
+<br><br>
+
+![](\images\bahamas-album\X8A9120.jpeg)<br>
+<br><br>
+
+![](\images\bahamas-album\X8A9202.jpeg)<br>
+<br><br>
+
+![](\images\bahamas-album\IMG_5708.jpeg)<br>
+<br><br>
+
+![](\images\bahamas-album\IMG_5861.jpeg)<br>
+<br><br>
+
+![](\images\bahamas-album\IMG_5711.jpeg)<br>
+<br><br>
+
+![](\images\bahamas-album\IMG_5714.jpeg)<br>
+<br><br>
+
+![](\images\bahamas-album\X8A9257.jpeg)<br>
+<br><br>
+
+![](\images\bahamas-album\FullSizeRender(6).jpeg)<br>
+<br><br>
+
+![](\images\bahamas-album\IMG_5716.jpeg)<br>
+<br><br>
+
+![](\images\bahamas-album\20240526_200905.jpg)<br>
+<br><br>
+
+![](\images\bahamas-album\20240527_062841.jpg)<br>
+<br><br>
+
+![](\images\bahamas-album\IMG_5913.jpeg)<br>
+<br><br>
+
+![](\images\bahamas-album\20240527_072755.jpg)<br>
+<br><br>
+
+![](\images\bahamas-album\IMG_5728.jpeg)<br>
+<br><br>
+
+![](\images\bahamas-album\IMG_5729.jpeg)<br>
+<br><br>
+
+![](\images\bahamas-album\16920.jpeg)<br>
+<br><br>
+
+![](\images\bahamas-album\IMG_5731.jpeg)<br>
+<br><br>
+
+![](\images\bahamas-album\IMG_5828.jpeg)<br>
+<br><br>
+
+![](\images\bahamas-album\IMG_5743.jpeg)<br>
+<br><br>
+
+![](\images\bahamas-album\IMG_5747.jpeg)<br>
+<br><br>
+
+![](\images\bahamas-album\FullSizeRender(12).jpeg)<br>
+<br><br>
+
+![](\images\bahamas-album\IMG_5752.jpeg)<br>
+<br><br>
+
+![](\images\bahamas-album\IMG_5755.jpeg)<br>
+<br><br>
+
+![](\images\bahamas-album\X8A9240.jpeg)<br>
+<br><br>
+
+![](\images\bahamas-album\IMG_5759.jpeg)<br>
+<br><br>
+
+![](\images\bahamas-album\IMG_5760.jpeg)<br>
+<br><br>
+
+![](\images\bahamas-album\IMG_5762.jpeg)<br>
+<br><br>
+
+![](\images\bahamas-album\IMG_5763.jpeg)<br>
+<br><br>
+
+![](\images\bahamas-album\IMG_5771.jpeg)<br>
+<br><br>
+
+![](\images\bahamas-album\IMG_5820.jpeg)<br>
+<br><br>
+
+![](\images\bahamas-album\IMG_5840.jpeg)<br>
+<br><br>
+
+![](\images\bahamas-album\IMG_5847.jpeg)<br>
+<br><br>
+
+![](\images\bahamas-album\20240525_102251.jpg)<br>
+<br><br>
+
+![](\images\bahamas-album\20240526_113502.jpg)<br>
+<br><br>
+
+![](\images\bahamas-album\20240528_120417.jpg)<br>
+<br><br>
+
+![](\images\bahamas-album\IMG_5857.jpeg)<br>
+<br><br>
+
+![](\images\bahamas-album\IMG_5858.jpeg)<br>
+<br><br>
+
+![](\images\bahamas-album\X8A9313.jpeg)<br>
+<br><br>
+
+![](\images\bahamas-album\IMG_5866.jpeg)<br>
+<br><br>
+
+![](\images\bahamas-album\IMG_5873.jpeg)<br>
+<br><br>
+
+![](\images\bahamas-album\20240526_093009.jpg)<br>
+<br><br>
+
+![](\images\bahamas-album\IMG_5879.jpeg)<br>
+<br><br>
+
+![](\images\bahamas-album\IMG_5881.jpeg)<br>
+<br><br>
+
+![](\images\bahamas-album\16497.jpeg)<br>
+<br><br>
+
+![](\images\bahamas-album\IMG_5883.jpeg)<br>
+<br><br>
+
+![](\images\bahamas-album\IMG_5888.jpeg)<br>
+<br><br>
+
+![](\images\bahamas-album\IMG_5903.jpeg)<br>
+<br><br>
+
+![](\images\bahamas-album\IMG_5906.jpeg)<br>
+<br><br>
+
+![](\images\bahamas-album\IMG_5911.jpeg)<br>
+<br><br>
+
+![](\images\bahamas-album\16541.jpeg)<br>
+<br><br>
+
+![](\images\bahamas-album\X8A9275.jpeg)<br>
+<br><br>
+
+![](\images\bahamas-album\IMG_5737.jpeg)<br>
+<br><br>
+
+![](\images\bahamas-album\16487.jpeg)<br>
+<br><br>
+
+![](\images\bahamas-album\20240529_111725.jpg)<br>
+<br><br>
+
+![](\images\bahamas-album\16490.jpeg)<br>
+<br><br>
+
+
 
 <!-- flats
 airlines -->
