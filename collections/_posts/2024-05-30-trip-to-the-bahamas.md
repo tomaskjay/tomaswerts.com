@@ -34,7 +34,7 @@ I'll let the pictures tell most of the stories but a few general thoughts:
 
 - Along those lines, I later found out that the Bahamas is a tax haven. You don't have to pay any income, corporate, or capital gains taxes. Leonardo Dicaprio should've stashed away his money here instead of going all the way to that bank in Switzerland.
 
-- In elementary school I read about Atlantis Paradise Island in an issue of Nat Geo Kids. I thought it was amazing at the time but today it just seems really touristy. You could defintely pick out the people in the airport who were staying there. I'd still jump on any opportunity go to Disneyland though.
+- In elementary school I read about Atlantis Paradise Island in an issue of Nat Geo Kids. I thought it was amazing at the time but today it just seems really touristy. You could defintely pick out the people in the airport who were staying there. That said, I'd still absolutely jump on any opportunity go to Disneyland.
 
 - The people were, of course, incredibly nice and hospitable. Admittedly, the backbone of the Bahamian economy is tourism but, after being there and seeing that it looks exactly like the postcards, it's hard to find a reason why anyone who grew up on an island wouldn't be friendly and easygoing. It's cool that one of these people used to be our president.
 
@@ -60,13 +60,13 @@ Wendy's was our reward for making it there. It's crazy how quickly the world cha
 Doing what we did on our last flight while waiting for our next flight - where we did the same thing. <br><br>
 
 ![](\images\bahamas-album\IMG_5621.jpeg)<br>
-The plane we took to to get from Naussau to Andros. Flying in a small plane really makes you think about how cool it would be to know how to pilot. <br><br>
+This is the plane we took to to get from Naussau to Andros. Flying in a small plane really makes you think about how cool it would be to know how to pilot. <br><br>
 
 ![](\images\bahamas-album\IMG_5623.jpeg)<br>
 <br><br>
 
 ![](\images\bahamas-album\IMG_5629.jpeg)<br>
-Landing and taking off in those things is way too much fun. Also, it was awesome to finally be in a plane that actually goes NYOOOOM.<br><br>
+Landing and taking off in those things is way too much fun. Also, it was neat to be in a plane that actually goes NYOOOOM.<br><br>
 
 ![](\images\bahamas-album\20240524_160548(0).jpg)<br>
 Cheryl, the lady who owns Swains Cay, is super sweet. She showed us our room when we got to the lodge. By the way, she is a one woman show. She manages the business by herself and is also building a new park nearby for the local kids. She mentioned that she hosts a fishing tournament every year where all the investors fly in and pair with a guide - which is a great idea because it raises funds for the park, drives interest in the business, and also motivates the guides to want to be better. Randy, the guide who won it last year, was very proud. <br><br>
@@ -83,7 +83,7 @@ During our entire stay there, we were spoiled by how well we were eating. The co
 <br><br>
 
 ![](\images\bahamas-album\IMG_5647.jpeg)<br>
-<br><br>
+This key lime pie was scrumptious.<br><br>
 
 ![](\images\bahamas-album\IMG_5646.jpg)<br>
 <br><br>
@@ -98,9 +98,6 @@ During our entire stay there, we were spoiled by how well we were eating. The co
 <br><br>
 
 ![](\images\bahamas-album\IMG_5652.jpeg)<br>
-<br><br>
-
-![](\images\bahamas-album\IMG_5651.jpeg)<br>
 <br><br>
 
 ![](\images\bahamas-album\b7f1769f-3feb-4baf-99c1-76a1f4944470.jpg)<br>
@@ -118,9 +115,6 @@ Fun fact: the term of venery for a group of jays is a party.<br><br>
 ![](\images\bahamas-album\IMG_5658.jpeg)<br>
 <br><br>
 
-![](\images\bahamas-album\IMG_5667.jpeg)<br>
-<br><br>
-
 ![](\images\bahamas-album\IMG_5664.jpeg)<br>
 <br><br>
 
@@ -130,16 +124,7 @@ Fun fact: the term of venery for a group of jays is a party.<br><br>
 ![](\images\bahamas-album\IMG_5674.jpeg)<br>
 <br><br>
 
-![](\images\bahamas-album\FullSizeRender(10).jpeg)<br>
-<br><br>
-
 ![](\images\bahamas-album\X8A9130.jpeg)<br>
-<br><br>
-
-![](\images\bahamas-album\X8A9132.jpeg)<br>
-<br><br>
-
-![](\images\bahamas-album\X8A9146.jpeg)<br>
 <br><br>
 
 ![](\images\bahamas-album\X8A9165.jpeg)<br>
@@ -155,13 +140,14 @@ Fun fact: the term of venery for a group of jays is a party.<br><br>
 <br><br>
 
 ![](\images\bahamas-album\IMG_5699.jpeg)<br>
+Pam killing it with the desserts once again. This time it was coconut cream pie.
 <br><br>
 
 ![](\images\bahamas-album\IMG_5702.jpeg)<br>
 <br><br>
 
 ![](\images\bahamas-album\IMG_5704.jpeg)<br>
-In the mornings, we'd load up this van to be driven to the docks. One thing I noticed while I was there is that *everybody* knows *everybody*. There wasn't a person we drove by that the driver didn't wave to. I've been in communities where everybody's basically acquainted each other, but here you could tell that everyone actually *knows* each other. Yet another perk of living on an island - or maybe not?
+In the mornings, we'd load up this van to be driven to the docks. One thing I noticed is that *everybody* knows *everybody*. There wasn't a person we drove by that the driver didn't wave to. I've been in communities where everybody's basically acquainted each other, but here you could tell that everyone actually *knows* each other. Yet another perk of living on an island - or maybe not?
 <br><br>
 
 ![](\images\bahamas-album\IMG_5705.jpeg)<br>
@@ -176,19 +162,18 @@ In the mornings, we'd load up this van to be driven to the docks. One thing I no
 ![](\images\bahamas-album\X8A9299.jpg)<br>
 <br><br>
 
-![](\images\bahamas-album\X8A9120.jpeg)<br>
+![](\images\bahamas-album\X8A9202.jpeg)<br>
 <br><br>
 
-![](\images\bahamas-album\X8A9202.jpeg)<br>
+![](\images\bahamas-album\16920.jpeg)<br>
+Gotchu. Mwahaha
 <br><br>
 
 ![](\images\bahamas-album\IMG_5708.jpeg)<br>
 <br><br>
 
-![](\images\bahamas-album\IMG_5861.jpeg)<br>
-<br><br>
-
 ![](\images\bahamas-album\IMG_5711.jpeg)<br>
+Found a tree trying to learn how to walk. What the...
 <br><br>
 
 ![](\images\bahamas-album\IMG_5714.jpeg)<br>
@@ -221,13 +206,11 @@ Naaaaaaa tsingonyaaaaaa babagithibaba<br><br>
 ![](\images\bahamas-album\IMG_5729.jpeg)<br>
 <br><br>
 
-![](\images\bahamas-album\16920.jpeg)<br>
-<br><br>
-
 ![](\images\bahamas-album\IMG_5731.jpeg)<br>
 <br><br>
 
-![](\images\bahamas-album\IMG_5828.jpeg)<br>
+![](\images\bahamas-album\20240525_102251.jpg)<br>
+Outrageous.
 <br><br>
 
 ![](\images\bahamas-album\IMG_5743.jpeg)<br>
@@ -246,6 +229,10 @@ Naaaaaaa tsingonyaaaaaa babagithibaba<br><br>
 <br><br>
 
 ![](\images\bahamas-album\X8A9240.jpeg)<br>
+I'm on a boat and, it's going fast and<br>
+I got a nautical themed Pashmina Afghan<br>
+I'm the king of the world on a boat like Leo<br>
+If you're on the shore, then you're sure not me-oh
 <br><br>
 
 ![](\images\bahamas-album\IMG_5759.jpeg)<br>
@@ -270,18 +257,12 @@ Naaaaaaa tsingonyaaaaaa babagithibaba<br><br>
 <br><br>
 
 ![](\images\bahamas-album\IMG_5847.jpeg)<br>
-<br><br>
-
-![](\images\bahamas-album\20240525_102251.jpg)<br>
-<br><br>
+I should open a gallery.<br><br>
 
 ![](\images\bahamas-album\20240526_113502.jpg)<br>
 <br><br>
 
 ![](\images\bahamas-album\20240528_120417.jpg)<br>
-<br><br>
-
-![](\images\bahamas-album\IMG_5857.jpeg)<br>
 <br><br>
 
 ![](\images\bahamas-album\IMG_5858.jpeg)<br>
@@ -297,12 +278,11 @@ Naaaaaaa tsingonyaaaaaa babagithibaba<br><br>
 <br><br>
 
 ![](\images\bahamas-album\20240526_093009.jpg)<br>
+This is Leroy. He was polite.
 <br><br>
 
 ![](\images\bahamas-album\IMG_5879.jpeg)<br>
-<br><br>
-
-![](\images\bahamas-album\IMG_5881.jpeg)<br>
+A bigger one. His name was Leonard.
 <br><br>
 
 ![](\images\bahamas-album\16497.jpeg)<br>
@@ -323,7 +303,11 @@ Naaaaaaa tsingonyaaaaaa babagithibaba<br><br>
 ![](\images\bahamas-album\IMG_5911.jpeg)<br>
 <br><br>
 
+![](\images\bahamas-album\20240529_111725.jpg)<br>
+<br><br>
+
 ![](\images\bahamas-album\16541.jpeg)<br>
+This happens way more than you'd think. Fortunately, it happened so much that I can end things with a little gag reel:
 <br><br>
 
 ![](\images\bahamas-album\X8A9275.jpeg)<br>
@@ -332,15 +316,12 @@ Naaaaaaa tsingonyaaaaaa babagithibaba<br><br>
 ![](\images\bahamas-album\IMG_5737.jpeg)<br>
 <br><br>
 
-![](\images\bahamas-album\16487.jpeg)<br>
-<br><br>
-
-![](\images\bahamas-album\20240529_111725.jpg)<br>
-<br><br>
-
 ![](\images\bahamas-album\16490.jpeg)<br>
 <br><br>
 
+![](\images\bahamas-album\16487.jpeg)<br>
+<br><br>
 
 
-<!-- flats -->
+
+<!-- picture at the bar, picture of beer -->
