@@ -109,6 +109,12 @@ nav a:after {
 
 @media only screen and (max-width: 768px) {
   .nav-placeholder {
-    height: 6.75rem; /* Adjust height for smaller screens */
+    height: 6.75rem;
+  }
+}
+
+@media only screen and (max-width: 3000px) {
+  .nav-placeholder {
+    height: 7rem;
   }
 }
