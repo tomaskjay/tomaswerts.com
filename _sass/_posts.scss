@@ -63,6 +63,7 @@
   margin: 0;
   padding: 1rem;
   background-color: #fffef4;
+  border-radius: 10px;
   transition: background-color 0.2s ease, color 0.2s ease;
   text-decoration: none; // Remove text decoration for post-item
   color: inherit; // Ensure text color is inherited
@@ -70,6 +71,7 @@
 
 .post-item:hover {
   background-color: #5c6b84;
+  border-radius: 10px;
   color: white;
 }
 
@@ -85,6 +87,7 @@
 .post-thumbnail {
   width: 100%;
   height: auto;
+  border-radius: 10px;
 }
 
 .post-meta {
