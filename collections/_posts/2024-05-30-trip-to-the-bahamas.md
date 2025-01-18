@@ -32,7 +32,7 @@ I'll let the pictures tell most of the stories but a few general thoughts:
 
 - Bahamian coins are neat and very island-y. The quarters have sailboats, the dimes have little bonefish, the nickels have pineapples, and the pennies have starfish. For some reason, they also have a square one that's 15 cents? Kind of weird to pick a number that you can't break a dollar evenly into but still cool.
 
-- Along those lines, I later found out that the Bahamas is a tax haven. No income, corporate, or capital gains taxes. Leonardo Dicaprio should've stashed away his money here instead of going all the way to that bank in Switzerland.
+- Along those lines, I later found out that the Bahamas is a tax haven. You don't have to pay any income, corporate, or capital gains taxes. Leonardo Dicaprio should've stashed away his money here instead of going all the way to that bank in Switzerland.
 
 - In elementary school I read about Atlantis Paradise Island in an issue of Nat Geo Kids. I thought it was amazing at the time but today it just seems really touristy. You could defintely pick out the people in the airport who were staying there. I'd still jump on any opportunity go to Disneyland though.
 
@@ -49,35 +49,37 @@ I'll let the pictures tell most of the stories but a few general thoughts:
 <br> Alright, let's get on with it. <br><br><br>
 ![Bahamas Map](\images\bahamas-album\bahamas-map.png)<br>
 
-The lodge we stayed at is called Swain's Cay - the parts of the island highlighted in yellow are where we fished. Each day, we would usually split up into groups between the middle and the bottom.<br><br>
+The lodge we stayed at is called Swain's Cay - the parts of the island highlighted in yellow are where we fished. Each day, we'd usually split up into groups between the middle and the bottom.<br><br>
 
 ![](\images\bahamas-album\f7f41209-fd42-4173-9eb8-c3df8faf15e0.jpg)<br>
 
-Wendy's was our reward for making it there. It's crazy how quickly the world changes when you fly directly longitude-wise as opposed to latitude-wise or somewhere in between. The flight to Nassau was five hours. If we had flown in the opposite direction for half that time we'd be in the *polar bear* capital of the world (Churchill, Manitoba).<br><br>
+Wendy's was our reward for making it there. It's crazy how quickly the world changes when you fly directly longitude-wise as opposed to latitude-wise or somewhere in between. Flying into Atlanta and then to Naussau took five hours. If we'd flown in the opposite direction for half that time we'd be in the *polar bear* capital of the world (Churchill, MB).<br><br>
 
 ![](\images\bahamas-album\fde0c02c-1624-4976-abad-f66701ce4057.jpg)<br>
 
 Doing what we did on our last flight while waiting for our next flight - where we did the same thing. <br><br>
 
 ![](\images\bahamas-album\IMG_5621.jpeg)<br>
-<br><br>
+The plane we took to to get from Naussau to Andros. Flying in a small plane really makes you think about how cool it would be to know how to pilot. <br><br>
 
 ![](\images\bahamas-album\IMG_5623.jpeg)<br>
 <br><br>
 
 ![](\images\bahamas-album\IMG_5629.jpeg)<br>
-<br><br>
+Landing and taking off in those things is way too much fun. Also, it was awesome to finally be in a plane that actually goes NYOOOOM.<br><br>
 
 ![](\images\bahamas-album\20240524_160548(0).jpg)<br>
-<br><br>
+Cheryl, the lady who owns Swains Cay, is super sweet. She showed us our room when we got to the lodge. By the way, she is a one woman show. She manages the business by herself and is also building a new park nearby for the local kids. She mentioned that she hosts a fishing tournament every year where all the investors fly in and pair with a guide - which is a great idea because it raises funds for the park, drives interest in the business, and also motivates the guides to want to be better. Randy, the guide who won it last year, was very proud. <br><br>
 
 ![](\images\bahamas-album\IMG_5650.jpeg)<br>
+We were there at the end of the season, which was perfect because we ended up being the only group there and had the whole place to ourselves.
 <br><br>
 
 ![](\images\bahamas-album\30b6883e-93f2-47fd-8cda-9ed492bd8b5f.jpg)<br>
-Imagine being an ant and having this as your POV<br><br>
+Imagine being an ant and having this as your POV.<br><br>
 
 ![](\images\bahamas-album\IMG_5633.jpeg)<br>
+During our entire stay there, we were spoiled by how well we were eating. The cook, Pam, made everything herself. This was conch fritters.
 <br><br>
 
 ![](\images\bahamas-album\IMG_5647.jpeg)<br>
@@ -102,7 +104,7 @@ Imagine being an ant and having this as your POV<br><br>
 <br><br>
 
 ![](\images\bahamas-album\b7f1769f-3feb-4baf-99c1-76a1f4944470.jpg)<br>
-<br><br>
+Fun fact: the term of venery for a group of jays is a party.<br><br>
 
 ![](\images\bahamas-album\IMG_5654.jpeg)<br>
 <br><br>
@@ -149,9 +151,6 @@ Imagine being an ant and having this as your POV<br><br>
 ![](\images\bahamas-album\20240525_130356.jpg)<br>
 <br><br>
 
-![](\images\bahamas-album\FullSizeRender(13).jpeg)<br>
-<br><br>
-
 ![](\images\bahamas-album\IMG_5698.jpeg)<br>
 <br><br>
 
@@ -162,6 +161,7 @@ Imagine being an ant and having this as your POV<br><br>
 <br><br>
 
 ![](\images\bahamas-album\IMG_5704.jpeg)<br>
+In the mornings, we'd load up this van to be driven to the docks. One thing I noticed while I was there is that *everybody* knows *everybody*. There wasn't a person we drove by that the driver didn't wave to. I've been in communities where everybody's basically acquainted each other, but here you could tell that everyone actually *knows* each other. Yet another perk of living on an island - or maybe not?
 <br><br>
 
 ![](\images\bahamas-album\IMG_5705.jpeg)<br>
@@ -207,7 +207,7 @@ Imagine being an ant and having this as your POV<br><br>
 <br><br>
 
 ![](\images\bahamas-album\20240527_062841.jpg)<br>
-<br><br>
+Naaaaaaa tsingonyaaaaaa babagithibaba<br><br>
 
 ![](\images\bahamas-album\IMG_5913.jpeg)<br>
 <br><br>
@@ -343,5 +343,4 @@ Imagine being an ant and having this as your POV<br><br>
 
 
 
-<!-- flats
-airlines -->
+<!-- flats -->
