@@ -69,7 +69,7 @@ This is the plane we took to to get from Naussau to Andros. Flying in a small pl
 Landing and taking off in those things is way too much fun. Also, it was neat to be in a plane that actually goes NYOOOOM.<br><br>
 
 ![](\images\bahamas-album\20240524_160548(0).jpg)<br>
-Cheryl, the lady who owns Swains Cay, is super sweet. She showed us our room when we got to the lodge. By the way, she is a one woman show. She manages the business by herself and is also building a new park nearby for the local kids. She mentioned that she hosts a fishing tournament every year where all the investors fly in and pair with a guide - which is a great idea because it raises funds for the park, drives interest in the business, and also motivates the guides to want to be better. Randy, the guide who won it last year, was very proud. <br><br>
+Cheryl, the woman who owns Swain's Cay, showed us our room when we got to the lodge. She's a one woman show: manages to run the business by herself and is also building a new park nearby for the local kids. She mentioned that she also hosts a fishing tournament every year where all the investors fly in and pair with a guide - which is a great idea because it raises funds for the park, drives interest in the lodge, and also motivates the guides to want to be better. Dencil, the guide who won it last year, was very proud. <br><br>
 
 ![](\images\bahamas-album\IMG_5650.jpeg)<br>
 We were there at the end of the season, which was perfect because we ended up being the only group there and had the whole place to ourselves.
@@ -79,25 +79,33 @@ We were there at the end of the season, which was perfect because we ended up be
 Imagine being an ant and having this as your POV.<br><br>
 
 ![](\images\bahamas-album\IMG_5633.jpeg)<br>
-During our entire stay there, we were spoiled by how well we were eating. The cook, Pam, made everything herself. This was conch fritters.
+During our stay, we were spoiled by how well we were eating. The cook, Pam, was super sweet and made everything herself. These are conch fritters. One thing you'll find when you're in the Bahamas is that Bahamians love conch. It's everywhere. More on this later.
 <br><br>
 
 ![](\images\bahamas-album\IMG_5647.jpeg)<br>
 This key lime pie was scrumptious.<br><br>
 
 ![](\images\bahamas-album\IMG_5646.jpg)<br>
+The first day we were there, I saw the prettiest rainbow of my life. 
 <br><br>
 
 ![](\images\bahamas-album\IMG_5643.jpg)<br>
+This is a better picture. It was actually a double rainbow, but you can't really tell here. It was also even more beautiful because it happened during golden hour.
 <br><br>
 
 ![](\images\bahamas-album\IMG_5642.jpeg)<br>
 <br><br>
 
 ![](\images\bahamas-album\IMG_5649.jpeg)<br>
+Sunrise.
+<br><br>
+
+![](\images\bahamas-album\IMG_5648.jpg)<br>
+Fishing wands.
 <br><br>
 
 ![](\images\bahamas-album\IMG_5652.jpeg)<br>
+Bonefish capital of the world! Side note: how do places even decide that they are the capital of the world in something?
 <br><br>
 
 ![](\images\bahamas-album\b7f1769f-3feb-4baf-99c1-76a1f4944470.jpg)<br>
@@ -140,7 +148,10 @@ Fun fact: the term of venery for a group of jays is a party.<br><br>
 <br><br>
 
 ![](\images\bahamas-album\IMG_5699.jpeg)<br>
-Pam killing it with the desserts once again. This time it was coconut cream pie.
+Pam always killed it with the desserts. This time it was coconut cream pie.
+<br><br>
+
+![](\images\bahamas-album\16133.jpeg)<br>
 <br><br>
 
 ![](\images\bahamas-album\IMG_5702.jpeg)<br>
@@ -207,6 +218,7 @@ Naaaaaaa tsingonyaaaaaa babagithibaba<br><br>
 <br><br>
 
 ![](\images\bahamas-album\IMG_5731.jpeg)<br>
+This is a doctor fly. I'm assuming they're called that because of their stupid needle-mouths that they stab you with. They quickly become the bane of your existence the moment you step into the boat. You can be in the middle of the ocean and they'll be there. They're smart too - when you're zooming around, they tuck themselves into little nooks underneath the deck.
 <br><br>
 
 ![](\images\bahamas-album\20240525_102251.jpg)<br>
@@ -235,19 +247,26 @@ I'm the king of the world on a boat like Leo<br>
 If you're on the shore, then you're sure not me-oh
 <br><br>
 
+![](\images\bahamas-album\FullSizeRender.jpg)<br>
+<br><br>
+
 ![](\images\bahamas-album\IMG_5759.jpeg)<br>
+We visited Shine's conch shack afterwards. On the dock behind it there was a guy shelling conch and he waved us over so he could show us. It's actually way easier than you'd think: all you do is tap a little hole into the top of the shell near its spire, separate the muscle it uses to cling on to the inside, and then slide it out. You do have to trim off like 70% of the whole thing though - they're pretty gnarly looking.
 <br><br>
 
 ![](\images\bahamas-album\IMG_5760.jpeg)<br>
+The shack's conch graveyard. I told you Bahamians really love conch.
 <br><br>
 
 ![](\images\bahamas-album\IMG_5762.jpeg)<br>
+The first is conch salad and the second is cracked conch. The conch salad was my favorite. It's basically ceviche, where the lime juice "cooks" the conch by denaturing the protein.
 <br><br>
 
 ![](\images\bahamas-album\IMG_5763.jpeg)<br>
 <br><br>
 
 ![](\images\bahamas-album\IMG_5771.jpeg)<br>
+This mango opened my mango world.
 <br><br>
 
 ![](\images\bahamas-album\IMG_5820.jpeg)<br>
@@ -288,7 +307,7 @@ A bigger one. His name was Leonard.
 ![](\images\bahamas-album\16497.jpeg)<br>
 <br><br>
 
-![](\images\bahamas-album\IMG_5883.jpeg)<br>
+![](\images\bahamas-album\16229.jpeg)<br>
 <br><br>
 
 ![](\images\bahamas-album\IMG_5888.jpeg)<br>
@@ -310,7 +329,13 @@ A bigger one. His name was Leonard.
 This happens way more than you'd think. Fortunately, it happened so much that I can end things with a little gag reel:
 <br><br>
 
+![](\images\bahamas-album\16529.jpeg)<br>
+<br><br>
+
 ![](\images\bahamas-album\X8A9275.jpeg)<br>
+<br><br>
+
+![](\images\bahamas-album\IMG_5738.jpg)<br>
 <br><br>
 
 ![](\images\bahamas-album\IMG_5737.jpeg)<br>
