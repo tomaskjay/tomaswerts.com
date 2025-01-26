@@ -6,7 +6,7 @@ summary:    2024 fishing trip in the Bahamas
 categories: Traveling
 thumbnail:  /images/bahamas-album/bahamas-thumbnail.jpg
 ---
-The best part about the Bahamas is that it sounds relaxing. For the last week of May, everything was a little balmier, a little more scenic, and a little more carefree -- because I was in the *Bahamas*. I was lucky enough to spend my whole time there fly fishing off the island of Andros with my two cousins, Uncle, and Dad.
+The best part about the Bahamas is that it sounds relaxing. For the last week of May, everything was a little balmier, a little more scenic, and a little more carefree -- because I was in the *Bahamas*. I was lucky enough to spend my whole time there fly fishing off the island of Andros with my two cousins, uncle, and dad.
 
 {% bluebox %}
 
@@ -42,7 +42,7 @@ I'll let the pictures tell most of the stories but a few general thoughts:
   img {
     display: block;
     margin: 0 auto;
-    width: 80%;
+    width: 75%;
   }
 </style>
 
@@ -53,7 +53,7 @@ The lodge we stayed at is called Swain's Cay - the parts of the island highlight
 
 ![](\images\bahamas-album\f7f41209-fd42-4173-9eb8-c3df8faf15e0.jpg)<br>
 
-Wendy's was our reward for making it there. It's crazy how quickly the world changes when you fly directly longitude-wise as opposed to latitude-wise or somewhere in between. Flying into Atlanta and then to Naussau took five hours. If we'd flown in the opposite direction for half that time we'd be in the *polar bear* capital of the world (Churchill, MB).<br><br>
+We met up in Nassau and got food from the first place we saw, which happened to be Wendy's. It's crazy how quickly the world changes when you fly directly longitude-wise as opposed to latitude-wise or somewhere in between. Flying into Atlanta and then to Naussau took five hours. If we'd flown in the opposite direction for half that time we'd be in Churchill, MB - the *polar bear* capital of the world.<br><br>
 
 ![](\images\bahamas-album\fde0c02c-1624-4976-abad-f66701ce4057.jpg)<br>
 
@@ -66,38 +66,38 @@ This is the plane we took to to get from Naussau to Andros. Flying in a small pl
 <br><br>
 
 ![](\images\bahamas-album\IMG_5629.jpeg)<br>
-Landing and taking off in those things is way too much fun. Also, it was neat to be in a plane that actually goes NYOOOOM.<br><br>
+Landing and taking was way too much fun. Also, it was neat to for once be in a plane that actually goes *nyoooooom*.<br><br>
 
 ![](\images\bahamas-album\20240524_160548(0).jpg)<br>
-Cheryl, the woman who owns Swain's Cay, showed us our room when we got to the lodge. She's a one woman show: manages to run the business by herself and is also building a new park nearby for the local kids. She mentioned that she also hosts a fishing tournament every year where all the investors fly in and pair with a guide - which is a great idea because it raises funds for the park, drives interest in the lodge, and also motivates the guides to want to be better. Dencil, the guide who won it last year, was very proud. <br><br>
+Our room at the lodge. Cheryl, the woman who owns Swain's Cay, is a one woman show: she manages to run the business by herself and is also building a new park nearby for the local kids. <br><br>
 
 ![](\images\bahamas-album\IMG_5650.jpeg)<br>
-We were there at the end of the season, which was perfect because we ended up being the only group there and had the whole place to ourselves.
+We were there at the end of the season, which was perfect because we ended up having the whole place to ourselves.
 <br><br>
 
 ![](\images\bahamas-album\30b6883e-93f2-47fd-8cda-9ed492bd8b5f.jpg)<br>
 Imagine being an ant and having this as your POV.<br><br>
 
 ![](\images\bahamas-album\IMG_5633.jpeg)<br>
-During our stay, we were spoiled by how well we were eating. The cook, Pam, was super sweet and made everything herself. These are conch fritters. One thing you'll find when you're in the Bahamas is that Bahamians love conch. It's everywhere. More on this later.
+We were spoiled by how well we were eating the entire time we were there. The cook, Pam, was super nice and made everything herself. These are conch fritters. One thing you'll find when you're in the Bahamas is that Bahamians love conch. It's everywhere. More on this later.
 <br><br>
 
 ![](\images\bahamas-album\IMG_5647.jpeg)<br>
-This key lime pie was scrumptious.<br><br>
+This is key lime pie and it was scrumptious.<br><br>
 
 ![](\images\bahamas-album\IMG_5646.jpg)<br>
 The first day we were there, I saw the prettiest rainbow of my life. 
 <br><br>
 
 ![](\images\bahamas-album\IMG_5643.jpg)<br>
-This is a better picture. It was actually a double rainbow, but you can't really tell here. It was also even more beautiful because it happened during golden hour.
+This is a better picture. It was actually a double rainbow but you can't really tell here. The fact that it happened during golden hour made it all the more beautiful.
 <br><br>
 
 ![](\images\bahamas-album\IMG_5642.jpeg)<br>
 <br><br>
 
-![](\images\bahamas-album\IMG_5649.jpeg)<br>
-Sunrise.
+![](\images\bahamas-album\IMG_5702.jpeg)<br>
+Waking up early isn't really that hard when this is what you see after you step outside.
 <br><br>
 
 ![](\images\bahamas-album\IMG_5648.jpg)<br>
@@ -105,56 +105,62 @@ Fishing wands.
 <br><br>
 
 ![](\images\bahamas-album\IMG_5652.jpeg)<br>
-Bonefish capital of the world! Side note: how do places even decide that they are the capital of the world in something?
 <br><br>
 
 ![](\images\bahamas-album\b7f1769f-3feb-4baf-99c1-76a1f4944470.jpg)<br>
-Fun fact: the term of venery for a group of jays is a party.<br><br>
-
-![](\images\bahamas-album\IMG_5654.jpeg)<br>
-<br><br>
+My grandpa got us these shirts for Christmas so naturally we had to take a picture for him. If you're wondering why we're wearing long-sleeves, it's because standing under the sun there for an entire day is like shaking hands with skin cancer. <br><br>
 
 ![](\images\bahamas-album\X8A9188.jpeg)<br>
+The first day, I fished with my cousin Tobey and our guide was Randy. You start off by flying away from the main island to somewhere more remote. It's a great way to start the morning; you just have to make sure you hold on to your hat.
 <br><br>
 
 ![](\images\bahamas-album\IMG_5673.jpeg)<br>
+The Bahamas is perfect for bonefishing because it's surrounded by these long stretches of shallow waters called flats. They're usually only around 3-4 feet deep and fish will cruise along the bottom to feed when the tide is low.
 <br><br>
 
 ![](\images\bahamas-album\IMG_5658.jpeg)<br>
+How it works is the guide stands up on a platform near the back and slowly pushes the boat around with a pole while the person fishing stands at the front waiting to cast. When the guide spots a fish, they'll shout instructions like "9 o'clock, 30 feet". The time is the direction you're being told to cast in, with 12 o'clock being the front of the boat. If you make a good cast, they'll tell you how to strip in the line. You'll hear something like "strrrip, strrrrippp, strip, strrrippp, STRIP, STRIP, STRRIPP". And then once you feel a little tug, you have to yank the line back to set the hook in the mouth of the fish. They'll make a run for it and the line will be peeling off your reel fast, so you have to hold the rod out while you dance around to make sure the line is cleared away from your feet. From then on, it's a game of tug of war back to the boat.
+<br><br>
+
+![](\images\bahamas-album\X8A9154.jpeg)<br>
+Ghost of the flats. This is a really good picture of one. They're usually much harder to see since their bodies are reflective. It's their shadow that you look for instead. The guides are absurdly good at seeing them - I swear they have telescopes for eyes. They'd point out a fish a hundred feet away from the boat and you'd think they're messing with you just because nothing has happened in a while, but then they push you closer and the fish is right where they said it was. Still couldn't figure it out by the end of the trip.
+
+
+Speaking of which, the guides are amazing people to be around. They're guys that have lived and grown up on the water who just live this pure lifestyle of chasing fish. Usually, they come from a family where guiding (and crazy eye genetics) has been passed down each generation. When you chat with them on the boat, you can tell that they're really passionate about what they do.
 <br><br>
 
 ![](\images\bahamas-album\IMG_5664.jpeg)<br>
+First one of the trip. There's always some pressure when you're the one at the front because you don't usually see too many fish and you have to be quick as well as accurate when you do find one. Since they're travelling fast and they get scared away easily, you usually only get a couple chances before they disappear.
 <br><br>
 
 ![](\images\bahamas-album\FullSizeRender(5).jpeg)<br>
+We still managed though.
 <br><br>
 
 ![](\images\bahamas-album\IMG_5674.jpeg)<br>
+Whenever you see a starfish, you really just want to just lean over and try to touch it but you know the guide would probably get mad at you so you don't do it.
 <br><br>
 
 ![](\images\bahamas-album\X8A9130.jpeg)<br>
+The reel literally sings when you have a fish on. Top 5 sounds.
 <br><br>
 
 ![](\images\bahamas-album\X8A9165.jpeg)<br>
-<br><br>
-
-![](\images\bahamas-album\X8A9123.jpeg)<br>
+They're small but mighty. And apparently the <a href="https://www.sciencefocus.com/nature/top-10-what-are-the-fastest-fish-in-the-world" target="_blank">eighth fastest fish</a> in the sea.
 <br><br>
 
 ![](\images\bahamas-album\20240525_130356.jpg)<br>
+Sometimes you'll get off the boat to wade with the guide. 
 <br><br>
 
 ![](\images\bahamas-album\IMG_5698.jpeg)<br>
 <br><br>
 
 ![](\images\bahamas-album\IMG_5699.jpeg)<br>
-Pam always killed it with the desserts. This time it was coconut cream pie.
+Pam always knocked it out of the park with the desserts. This time it was coconut cream pie.
 <br><br>
 
 ![](\images\bahamas-album\16133.jpeg)<br>
-<br><br>
-
-![](\images\bahamas-album\IMG_5702.jpeg)<br>
 <br><br>
 
 ![](\images\bahamas-album\IMG_5704.jpeg)<br>
@@ -165,9 +171,6 @@ In the mornings, we'd load up this van to be driven to the docks. One thing I no
 <br><br>
 
 ![](\images\bahamas-album\FullSizeRender(2).jpeg)<br>
-<br><br>
-
-![](\images\bahamas-album\X8A9154.jpeg)<br>
 <br><br>
 
 ![](\images\bahamas-album\X8A9299.jpg)<br>
@@ -248,6 +251,7 @@ If you're on the shore, then you're sure not me-oh
 <br><br>
 
 ![](\images\bahamas-album\FullSizeRender.jpg)<br>
+Fun fact: the collective noun for a group of jays is a party.
 <br><br>
 
 ![](\images\bahamas-album\IMG_5759.jpeg)<br>
@@ -347,6 +351,7 @@ This happens way more than you'd think. Fortunately, it happened so much that I 
 ![](\images\bahamas-album\16487.jpeg)<br>
 <br><br>
 
+All in all, it was an incredibly fun trip. I was really fortunate to be able to go and we definitely made the most of it. Thanks for taking me Dad :)
 
 
 <!-- picture at the bar, picture of beer -->
