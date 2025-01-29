@@ -28,7 +28,7 @@ I'll let the pictures tell most of the stories but a few general thoughts:
 
 - I went down a fishing spiral on Youtube when we were close to leaving for the trip. The highlights were these two videos Yeti made on [giant trevally in the Seychelles](https://www.youtube.com/watch?v=MNfBHLp_FKg) and [tarpon in Florida](https://www.youtube.com/watch?v=FZoMPciCciY). There's also [this gem](https://www.youtube.com/watch?v=IYq7i4u3XBA).
 
-- Having a doctor as a parent is awesome for many reasons, one of which being that doctors always there to swoop in and [save the day](https://en.wikipedia.org/wiki/Angus_Wallace#In-flight_surgery_with_a_coat-hanger_and_silverware) on planes. Midway through the flight to Nassau, the guy sitting in front of us fainted and the captain used the intercom to call for the help. My dad jumped over the seat and started asking him a bunch of questions. A nurse and an ER doctor came over too. The good news was that the guy ended up being okay. The bad news was that he was forced to drink orange juice with like 3 salt packets poured into it. Anyways, my dad is a hero!
+- Having a doctor as a parent is awesome for many reasons, one of which being that doctors are always there to swoop in and [save the day](https://en.wikipedia.org/wiki/Angus_Wallace#In-flight_surgery_with_a_coat-hanger_and_silverware) on planes. Midway through the flight to Nassau, the guy sitting in front of us fainted and the captain used the intercom to call for the help. My dad jumped over the seat and started asking him a bunch of questions. A nurse and an ER doctor came over too. The good news was that the guy ended up being okay. The bad news was that he was forced to drink orange juice with like 3 salt packets poured into it. Anyways, my dad is a hero!
 
 - Bahamian coins are neat and very island-y. The quarters have sailboats, the dimes have little bonefish, the nickels have pineapples, and the pennies have starfish. For some reason, they also have a square one that's 15 cents? Kind of weird to pick a number that you can't break a dollar evenly into but still cool.
 
@@ -44,6 +44,7 @@ I'll let the pictures tell most of the stories but a few general thoughts:
     margin: 0 auto;
     width: 75%;
   }
+
 </style>
 
 <br> Alright, let's get on with it. <br><br><br>
@@ -111,7 +112,7 @@ Fishing wands.
 My grandpa got us these shirts for Christmas so naturally we had to take a picture for him. If you're wondering why we're wearing long-sleeves, it's because standing under the sun there for a full day is like shaking hands with skin cancer. <br><br>
 
 ![](\images\bahamas-album\X8A9188.jpeg)<br>
-The first day, I fished with my cousin Tobey and our guide Randy. You start off by flying away from the main island to somewhere more remote. It's a great way to start the morning; you just have to make sure you hold on to your hat.
+The first day, I fished with my cousin Tobey and our guide Randy. You start off by flying across the water away from the main island to somewhere more remote. It's a great way to start the morning; you just have to make sure you hold on to your hat.
 <br><br>
 
 ![](\images\bahamas-album\IMG_5673.jpeg)<br>
@@ -126,8 +127,9 @@ How it works is the guide stands up on a platform near the back and slowly pushe
 Ghost of the flats. This is a really good picture of one. They're usually much harder to see since their bodies are reflective. It's their shadow that you look for instead. The guides are absurdly good at seeing them - I swear they have telescopes for eyes. They'd point out a fish a hundred feet away from the boat and you'd think they're messing with you just because nothing has happened in a while, but then they push you closer and the fish is right where they said it was. Still couldn't figure it out by the end of the trip.
 
 
-Speaking of which, the guides are amazing people to be around. They're guys that have lived and grown up on the water who just live this pure lifestyle of chasing fish. Usually, they come from a family where guiding (and crazy eye genetics) has been passed down each generation. When you chat with them on the boat, you can tell that they're really passionate about what they do.
+Speaking of which, the guides are amazing people to be around. They're guys that have lived and grown up on the water who just live this pure lifestyle of chasing fish. Usually, they come from a family where guiding (and crazy eye genetics) has been passed down each generation. You can tell how passionate they are about what they do when you chat with them on the boat.
 <br><br>
+
 
 ![](\images\bahamas-album\IMG_5664.jpeg)<br>
 First one of the trip. There's always some pressure when you're the one at the front because you don't usually see too many fish and you have to be quick as well as accurate when you do find one. Since they're travelling fast and they get scared away easily, you only get a couple chances before they disappear.
@@ -138,8 +140,12 @@ We still managed though.
 <br><br>
 
 ![](\images\bahamas-album\IMG_5674.jpeg)<br>
-Whenever I saw a starfish, I really just wanted to just lean over and try to touch it but I knew the guide would probably get mad at me so I didn't do it.
+Whenever I saw a starfish, all I wanted to do was lean over and try to touch it but I knew the guide would probably get mad at me so I didn't do it.
 <br><br>
+
+<div style="padding:56.25% 0 0 0;position:relative;width:85%;margin:0 auto;"><iframe src="https://player.vimeo.com/video/1047722355?title=0&amp;byline=0&amp;portrait=0&amp;badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479" frameborder="0" allow="autoplay; fullscreen; picture-in-picture; clipboard-write; encrypted-media" style="position:absolute;top:0;left:0;width:100%;height:100%;" title="0X8A9307"></iframe></div><script src="https://player.vimeo.com/api/player.js"></script>
+
+<div style="padding:56.25% 0 0 0;position:relative;width:85%;margin:0 auto;"><iframe src="https://player.vimeo.com/video/1047723915?h=1185508835&amp;title=0&amp;byline=0&amp;portrait=0&amp;badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479" frameborder="0" allow="autoplay; fullscreen; picture-in-picture; clipboard-write; encrypted-media" style="position:absolute;top:0;left:0;width:100%;height:100%;" title="IMG_5851"></iframe></div><script src="https://player.vimeo.com/api/player.js"></script>
 
 ![](\images\bahamas-album\X8A9130.jpeg)<br>
 The reel literally sings when you have a fish on. Top 5 sounds.
@@ -206,15 +212,17 @@ Chocolate cake. Yummy.
 <br><br>
 
 ![](\images\bahamas-album\FullSizeRender(6).jpeg)<br>
-One of the highlights of the trip. My cousin Dyl and I took out the kayaks on the beach and paddled around with spin rods in the back so that the lures were trailing behind us. We caught a barracuda on our way back. I'm smiling because I'm nervous.
+One of the highlights of the trip. My cousin Dyl and I took out the kayaks on the beach and paddled around with spin rods in the back so that the lures were trailing behind us. We caught a barracuda on our way back.
 <br><br>
 
 ![](\images\bahamas-album\20240526_200905.jpg)<br>
-Terrifying. It's the same fish that eat all of Marlin's family in Finding Nemo. The very first time we were in the Bahamas, Dyl and I were on the boat and I hooked a huge one and managed to reel it in right next to the side of the boat. It got away because it BENT off the hook.
+Terrifying. It's the same fish that ate all of Marlin's family in Finding Nemo. 
+
+I'm pretty sure we caught this one's granddad the very first time we were in the Bahamas. Dyl and I were out with a guide and I managed to reel it in right next to the side of the boat. It got away because it BENT off the hook.
 <br><br>
 
 ![](\images\bahamas-album\IMG_5716.jpeg)<br>
-When you're with a guide, they'll sometimes take it home to eat. They only keep the big ones because the smaller ones accumulate a neurotoxin from eating other fish that feed on a specific algae in reefs.
+When you're with a guide, they'll sometimes take it home to eat. I learned that they only keep the big ones because the smaller ones accumulate a neurotoxin from eating other fish that feed on a specific algae in reefs.
 <br><br>
 
 ![](\images\bahamas-album\20240527_062841.jpg)<br>
