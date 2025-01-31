@@ -6,23 +6,27 @@ summary:    2024 fishing trip in the Bahamas
 categories: Traveling
 thumbnail:  /images/bahamas-album/bahamas-thumbnail.jpg
 ---
-The best part about the Bahamas is that it sounds relaxing. For the last week of May, everything was a little balmier, a little more scenic, and a little more carefree -- because I was in the *Bahamas*. I was lucky enough to spend my entire time there fly fishing off the island of Andros with my two cousins, uncle, and dad.
+The best part about the Bahamas is that it sounds relaxing. For the last week of May, everything was a little balmier, a little more carefree, and a lot more scenic -- because I was in the *Bahamas*. I was lucky enough to spend my entire time there fly fishing off the island of Andros with my two cousins, uncle, and dad.
 
 {% bluebox %}
 
 ### The What Is Fly Fishing Blue Box
 
-The archetype of throwing a worm on a hook or dragging a lure across a lake is really called *spin fishing*. Fly fishing is a little different from that. The "fly" comes from the much smaller and lighter lures you use. They're often handmade by tying together things like thread and feathers around a bare hook. 
+Fishing, in the sense of throwing a worm on a hook or dragging a lure across a lake, is really called *spin fishing*. Fly fishing is a little different from that. The "fly" comes from the much smaller and lighter lures you use. They're often handmade by tying together things like thread and feathers around a bare hook. 
 
-Casting is the most obvious difference though. Since flies are so light, what you're basically trying to do is throw a paper ball instead of a baseball. Hand Ohtani the baseball and he'll strike you out on a whim. Hand him the paper ball and ...well he'll still probably strike you out - you'd defintely stand a better chance though. That's to say that throwing a baseball is easier because the ball itself is heavy. If you try to do the same with the paper, you'd be lucky for it to go a couple yards. Using a fly rod is basically like attaching the paper ball to the end of a rope and yanking the other end forwards so that the rope carries it. When you're casting a fly, it's really the weight of the line that gets it to where it needs to be, not the weight of the fly itself. 
+Casting is the most obvious difference though. Since flies are so light, what you're basically trying to do is throw a paper ball instead of a baseball. Give Ohtani the baseball and he'll strike you out on a whim. But give him the paper ball and ...well he'll still probably strike you out -- you'd definitely stand a better chance though. That's to say that throwing a baseball is easier because the ball itself is heavy. If you try to do the same with the paper, you'd be lucky for it to go a couple yards. Using a fly rod is basically like attaching the paper ball to the end of a rope and yanking the other end forwards so that the rope carries it. When you're casting a fly, it's really the weight of the line that gets it to where it needs to be, not the weight of the fly itself. 
 
 So when you see someone who's fly fishing swing their rod back and forth, what they're doing is gradually extending the line with each swing to shoot it in a final flick. It's pretty to watch, but coming across someone with a fly rod isn't very common because you can't just pick up the rod and start fishing. Instead, you have to learn the motion and timing of using it properly (which—like most things—is easier to learn when you're young).
 
 {% endbluebox %} 
 
-So, to the detriment of our shoulders, this is what we were doing in the most beautiful part of earth <a href="https://x.com/StationCDRKelly/status/592444731076026368" target="_blank">from space</a>. It was actually our second time there since we went two summers ago as a graduation gift for my cousin. We used my other cousin's graduation as an excuse to go again this time. 
+So, at the expense of of our shoulders, this is what we were doing in the most beautiful part of earth <a href="https://x.com/StationCDRKelly/status/592444731076026368" target="_blank">from space</a>. It was actually our second time there since we went two summers ago as a graduation gift for my cousin. We used my other cousin's graduation as an excuse to go again this time. 
 
-We were fishing for bonefish specifically (Andros is known as the bonefish capital of the world). Bonefish, tarpon, and permit make up "the big three" of saltwater fly fishing. Tarpon are the most iconic because they're really photogenic; they're huge and they tend to leap out of the water. They're basically giant sardines with funky looking mouths. Permit are these oval-shaped fish that are usually solitary and notoriously wary. It's a pretty big deal when you land one because people can spend their entire day searching for one only to lay out a perfect cast and have their fly shrugged off. By the way, all three of these fish are usually just caught and then released back into the water because they suck to eat.
+We were fishing for bonefish specifically (Andros is known as the bonefish capital of the world). 
+
+explain - nickname
+
+Bonefish, tarpon, and permit make up "the big three" of saltwater fly fishing. Tarpon are the most iconic because they're really photogenic; they're huge and they tend to leap out of the water. They're basically giant sardines with funky looking mouths. Permit are these oval-shaped fish that are usually solitary and notoriously wary. It's a pretty big deal when you land one because people can spend their entire day searching for one only to lay out a perfect cast and have their fly shrugged off. By the way, all three of these fish are usually just caught and then released back into the water because they suck to eat.
 
 All in all, I'm incredibly grateful for being able to go and we definitely made the most out of it. It goes without saying that the fishing was fun, but it was really just liberating to be on the water. After all, there aren't many better places to be than in the ocean and under the Bahamian sun. One of our guides called it "the world's best office."
 
@@ -30,15 +34,15 @@ I'll let the pictures tell most of the stories but a few general thoughts:
 
 - Bonefish have a cool latin name: *abula vulpes* means silver fox. They also have a cooler nickname: "ghost of the flats".
 
-- I went down a fishing spiral on Youtube when we were close to leaving for the trip. The highlights were these two videos Yeti made on [giant trevally in the Seychelles](https://www.youtube.com/watch?v=MNfBHLp_FKg) and [tarpon in Florida](https://www.youtube.com/watch?v=FZoMPciCciY). There's also [this gem](https://www.youtube.com/watch?v=IYq7i4u3XBA).
+- I went down a Youtube spiral when we were close to leaving for the trip. The highlights were these two videos Yeti made on [giant trevally in the Seychelles](https://www.youtube.com/watch?v=MNfBHLp_FKg) and [tarpon in Florida](https://www.youtube.com/watch?v=FZoMPciCciY). There's also [this gem](https://www.youtube.com/watch?v=IYq7i4u3XBA).
 
-- Having a doctor as a parent is awesome for many reasons, one of which being that doctors are always there to swoop in and [save the day](https://en.wikipedia.org/wiki/Angus_Wallace#In-flight_surgery_with_a_coat-hanger_and_silverware) on planes. Midway through the flight to Nassau, the guy sitting in front of us fainted and the captain used the intercom to call for the help. My dad jumped over the seat and started asking him a bunch of questions. A nurse and an ER doctor came over too. The good news was that the guy ended up being okay. The bad news was that he was forced to drink orange juice with like 3 salt packets poured into it. Anyways, my dad is a hero!
+- Having a doctor as a parent is awesome for many reasons, one of which being that doctors are always there to swoop in and [save the day](https://en.wikipedia.org/wiki/Angus_Wallace#In-flight_surgery_with_a_coat-hanger_and_silverware) on planes. Midway through the flight to Nassau, a guy sitting in front of us fainted and the captain used the intercom to call for help. My dad parkoured over the seat and started doing his thing. A nurse and an ER doctor came over too. The good news was that the guy ended up being okay. The bad news was that he was forced to drink orange juice with like 3 salt packets poured into it. Anyways, you're my hero, Dad.
 
 - Bahamian coins are neat and very island-y. The quarters have sailboats, the dimes have little bonefish, the nickels have pineapples, and the pennies have starfish. For some reason, they also have a square one that's 15 cents? Kind of weird to pick a number that you can't break a dollar evenly into but still cool.
 
-- Along those lines, I later found out that the Bahamas is a tax haven. You don't have to pay any income, corporate, or capital gains taxes. Leonardo Dicaprio should've stashed away his money here instead of going all the way to that bank in Switzerland.
+- Along those lines, I later found out that the Bahamas is a tax haven. It has historically strict banking secrecy laws, a reliancy on offshore finance, and the appeal of being a frickin island in the Carribean. Leonardo Dicaprio should've stashed away his money here instead of going all the way to that bank in Switzerland.
 
-- In elementary school I read about Atlantis Paradise Island in an issue of Nat Geo Kids. I thought it was amazing at the time but today it just seems really touristy. You could defintely pick out the people in the airport who were staying there. That said, I'd still absolutely jump on any opportunity go to Disneyland.
+- In elementary school I read about Atlantis Paradise Island in an issue of Nat Geo Kids. I thought it was amazing at the time but today it just seems really touristy. You could definitely pick out the people in the airport who were staying there. That said, I'd still absolutely jump on any opportunity go to Disneyland.
 
 - The people were, of course, incredibly nice and hospitable. Admittedly, the backbone of the Bahamian economy is tourism but, after being there and seeing that it looks exactly like the postcards, it's hard to find a reason why anyone who grew up on an island wouldn't be so friendly. No wonder Obama seemed like a pretty happy guy.
 
@@ -228,7 +232,7 @@ This is a doctor fly. I'm assuming they're called that because of their stupid n
 <br><br>
 
 ![](\images\bahamas-album\20240525_102251.jpg)<br>
-Outrageous.
+Motherfu-
 <br><br>
 
 ![](\images\bahamas-album\IMG_5743.jpeg)<br>
@@ -244,14 +248,14 @@ Outrageous.
 <br><br>
 
 ![](\images\bahamas-album\X8A9240.jpeg)<br>
-I'm on a boat and, it's going fast and<br>
-I got a nautical themed Pashmina Afghan<br>
-I'm the king of the world on a boat like Leo<br>
-If you're on the shore, then you're sure not me-oh
+*I'm on a boat and, it's going fast and*<br>
+*I got a nautical themed Pashmina Afghan*<br>
+*I'm the king of the world on a boat like Leo*<br>
+*If you're on the shore, then you're sure not me-oh*
 <br><br>
 
 ![](\images\bahamas-album\FullSizeRender.jpg)<br>
-Fun fact: the collective noun for a group of jays is a party.
+Something I learned recently: the collective noun for a group of jays is a party.
 <br><br>
 
 ![](\images\bahamas-album\IMG_5759.jpeg)<br>
@@ -319,10 +323,11 @@ I mean if it's right next to my feet and there's no guide to yell at me how can 
 <br><br>
 
 ![](\images\bahamas-album\20240529_111725.jpg)<br>
+
+And now the gag reel:
 <br><br>
 
 ![](\images\bahamas-album\16541.jpeg)<br>
-This happens way more than you'd think. Fortunately, it happened enough that I can end things with a little gag reel:
 <br><br>
 
 ![](\images\bahamas-album\X8A9275.jpeg)<br>
