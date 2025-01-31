@@ -56,13 +56,10 @@ I'll let the pictures tell most of the stories but a few general thoughts:
 
 The lodge we stayed at is called Swain's Cay - the parts of the island highlighted in yellow are where we fished. Each day, we'd split up into different groups between the middle and the bottom.<br><br>
 
-![](\images\bahamas-album\f7f41209-fd42-4173-9eb8-c3df8faf15e0.jpg)<br>
-
-We met up in Nassau and got food from the first place we saw, which happened to be Wendy's. It's crazy how quickly the world changes when you fly directly longitude-wise as opposed to latitude-wise or somewhere in between. Flying from Minnesota into Atlanta and then to Naussau took five hours. If we'd flown in the opposite direction for half that time we'd be in Churchill, MB - the *polar bear* capital of the world.<br><br>
-
 ![](\images\bahamas-album\fde0c02c-1624-4976-abad-f66701ce4057.jpg)<br>
+Doing what we did on our last flight while waiting for our next flight - where we did the same thing. 
 
-Doing what we did on our last flight while waiting for our next flight - where we did the same thing. <br><br>
+Side note: it's crazy how quickly the world changes when you fly directly longitude-wise as opposed to latitude-wise or somewhere in between. Flying from Minnesota into Atlanta and then to Naussau took five hours. If we'd flown in the opposite direction for half that time we'd be in Churchill, MB - the *polar bear* capital of the world. <br><br>
 
 ![](\images\bahamas-album\IMG_5621.jpeg)<br>
 This is the plane we took to to get from Naussau to Andros. Flying in a small plane really makes you think about how cool it would be to know how to pilot. <br><br>
@@ -102,6 +99,10 @@ Waking up early isn't that hard when this is what you see after you step outside
 Fishing wands.
 <br><br>
 
+![](\images\bahamas-album\IMG_5913.jpeg)<br>
+
+<br><br>
+
 ![](\images\bahamas-album\IMG_5652.jpeg)<br>
 <br><br>
 
@@ -132,8 +133,7 @@ Speaking of which, the guides are amazing people to be around. They're guys that
 First one of the trip. There's always some pressure when you're the one at the front because you don't usually see too many fish and you have to be quick as well as accurate when you do find one. Since they're travelling fast and they get scared away easily, you only get a couple chances before they disappear.
 <br><br>
 
-![](\images\bahamas-album\FullSizeRender(5).jpeg)<br>
-We still managed though.
+![](\images\bahamas-album\IMG_5858.jpeg)<br>
 <br><br>
 
 ![](\images\bahamas-album\IMG_5674.jpeg)<br>
@@ -158,10 +158,6 @@ Sometimes you'll get off the boat to wade with the guide.
 
 ![](\images\bahamas-album\IMG_5698.jpeg)<br>
 Spoiled again. This is a spiny lobster, which is different from a Maine lobster. They're a bit firmer and taste a little sweeter.
-<br><br>
-
-![](\images\bahamas-album\IMG_5699.jpeg)<br>
-Pam always knocked it out of the park with the desserts. This time it was coconut cream pie.
 <br><br>
 
 ![](\images\bahamas-album\16133.jpeg)<br>
@@ -200,16 +196,16 @@ A big rainstorm in the distance. We had to hunker down for a while in our rainco
 Found a tree trying to learn how to walk.
 <br><br>
 
-![](\images\bahamas-album\IMG_5714.jpeg)<br>
-Chocolate cake. Yummy.
+![](\images\bahamas-album\IMG_5699.jpeg)<br>
+Coconut pie. Yummy.
 <br><br>
 
 ![](\images\bahamas-album\X8A9257.jpeg)<br>
 
 <br><br>
 
-![](\images\bahamas-album\FullSizeRender(6).jpeg)<br>
-One of the highlights of the trip. My cousin Dyl and I took out the kayaks on the beach and paddled around with spin rods in the back so that the lures were trailing behind us. We caught a barracuda on our way back.
+![](\images\bahamas-album\IMG_5716.jpeg)<br>
+One of the highlights of the trip. My cousin Dyl and I took out the kayaks on the beach and paddled around with spin rods in the back so that the lures were trailing behind us. We caught a barracuda on our way back.When you're with a guide, they'll sometimes take it home to eat. I learned that they only keep the big ones because the smaller ones accumulate a neurotoxin from eating other fish that feed on a specific algae in reefs.
 <br><br>
 
 ![](\images\bahamas-album\20240526_200905.jpg)<br>
@@ -218,21 +214,10 @@ Terrifying. It's the same fish that ate all of Marlin's family in Finding Nemo.
 I'm pretty sure we caught this one's granddad the very first time we were in the Bahamas. Dyl and I were out with a guide and I managed to reel it in right next to the side of the boat. It got away because it BENT off the hook.
 <br><br>
 
-![](\images\bahamas-album\IMG_5716.jpeg)<br>
-When you're with a guide, they'll sometimes take it home to eat. I learned that they only keep the big ones because the smaller ones accumulate a neurotoxin from eating other fish that feed on a specific algae in reefs.
-<br><br>
-
 ![](\images\bahamas-album\20240527_062841.jpg)<br>
 Naaaaaaa tsingonyaaaaaa babagithibaba<br><br>
 
-![](\images\bahamas-album\IMG_5913.jpeg)<br>
-
-<br><br>
-
 ![](\images\bahamas-album\20240527_072755.jpg)<br>
-<br><br>
-
-![](\images\bahamas-album\IMG_5728.jpeg)<br>
 <br><br>
 
 ![](\images\bahamas-album\IMG_5729.jpeg)<br>
@@ -247,9 +232,6 @@ Outrageous.
 <br><br>
 
 ![](\images\bahamas-album\IMG_5743.jpeg)<br>
-<br><br>
-
-![](\images\bahamas-album\IMG_5747.jpeg)<br>
 <br><br>
 
 ![](\images\bahamas-album\FullSizeRender(12).jpeg)<br>
@@ -303,19 +285,13 @@ I should open a gallery.<br><br>
 ![](\images\bahamas-album\20240526_113502.jpg)<br>
 <br><br>
 
-![](\images\bahamas-album\20240528_120417.jpg)<br>
-<br><br>
-
-![](\images\bahamas-album\IMG_5858.jpeg)<br>
+![](\images\bahamas-album\IMG_5873.jpeg)<br>
 <br><br>
 
 ![](\images\bahamas-album\X8A9313.jpeg)<br>
 <br><br>
 
 ![](\images\bahamas-album\IMG_5866.jpeg)<br>
-<br><br>
-
-![](\images\bahamas-album\IMG_5873.jpeg)<br>
 <br><br>
 
 ![](\images\bahamas-album\20240526_093009.jpg)<br>
@@ -327,10 +303,7 @@ A bigger one. His name was Leonard.
 <br><br>
 
 ![](\images\bahamas-album\16497.jpeg)<br>
-Well if it's right next to my feet and there's no guide to yell at me how can I *not* pick it up. 
-<br><br>
-
-![](\images\bahamas-album\16229.jpeg)<br>
+I mean if it's right next to my feet and there's no guide to yell at me how can I *not* pick it up. 
 <br><br>
 
 ![](\images\bahamas-album\IMG_5888.jpeg)<br>
