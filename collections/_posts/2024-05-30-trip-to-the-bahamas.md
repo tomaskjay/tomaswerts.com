@@ -90,15 +90,8 @@ We were absolutely spoiled by the lodge's cook, Pam. She was incredibly nice and
 ![](\images\bahamas-album\IMG_5647.jpeg)<br>
 This is key lime pie and it was scrumptious.<br><br>
 
-![](\images\bahamas-album\IMG_5646.jpg)<br>
-The first day we were there, I saw the prettiest rainbow of my life. 
-<br><br>
-
 ![](\images\bahamas-album\IMG_5643.jpg)<br>
-This is a better picture. The fact that it happened during golden hour made it all the more beautiful.
-<br><br>
-
-![](\images\bahamas-album\IMG_5642.jpeg)<br>
+The first day we were there, I saw the prettiest rainbow of my life. 
 <br><br>
 
 ![](\images\bahamas-album\IMG_5702.jpeg)<br>
@@ -356,19 +349,16 @@ Well if it's right next to my feet and there's no guide to yell at me how can I 
 <br><br>
 
 ![](\images\bahamas-album\16541.jpeg)<br>
-This happens way more than you'd think. Fortunately, it happened so much that I can end things with a little gag reel:
-<br><br>
-
-![](\images\bahamas-album\16529.jpeg)<br>
+This happens way more than you'd think. Fortunately, it happened enough that I can end things with a little gag reel:
 <br><br>
 
 ![](\images\bahamas-album\X8A9275.jpeg)<br>
 <br><br>
 
-![](\images\bahamas-album\IMG_5738.jpg)<br>
+![](\images\bahamas-album\IMG_5737.jpeg)<br>
 <br><br>
 
-![](\images\bahamas-album\IMG_5737.jpeg)<br>
+![](\images\bahamas-album\IMG_5738.jpg)<br>
 <br><br>
 
 ![](\images\bahamas-album\16490.jpeg)<br>
