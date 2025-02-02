@@ -6,29 +6,20 @@ summary:    2024 fishing trip in the Bahamas
 categories: Traveling
 thumbnail:  /images/bahamas-album/bahamas-thumbnail.jpg
 ---
-The best part about the Bahamas is that it sounds relaxing. For the last week of May, everything was a little balmier, a little more carefree, and a lot more scenic -- because I was in the *Bahamas*. I was lucky enough to spend my entire time there fly fishing off the island of Andros with my two cousins, uncle, and dad.
+The best part about the Bahamas is that it sounds relaxing. For the last week of May, everything was a little breezier, a little calmer, and little more easygoing -- because I was in the *Bahamas*. I was lucky enough to spend my entire time there fly fishing off the island of Andros with my two cousins, uncle, and dad.
 
 {% bluebox %}
 
 ### The What Is Fly Fishing Blue Box
 
-Fishing, in the sense of throwing a worm on a hook or dragging a lure across a lake, is really called *spin fishing*. Fly fishing is a little different from that. The "fly" comes from the much smaller and lighter lures you use. They're often handmade by tying together things like thread and feathers around a bare hook. 
-
-Casting is the most obvious difference though. Since flies are so light, what you're basically trying to do is throw a paper ball instead of a baseball. Give Ohtani the baseball and he'll strike you out on a whim. But give him the paper ball and ...well he'll still probably strike you out -- you'd definitely stand a better chance though. That's to say that throwing a baseball is easier because the ball itself is heavy. If you try to do the same with the paper, you'd be lucky for it to go a couple yards. Using a fly rod is basically like attaching the paper ball to the end of a rope and yanking the other end forwards so that the rope carries it. When you're casting a fly, it's really the weight of the line that gets it to where it needs to be, not the weight of the fly itself. 
-
-So when you see someone who's fly fishing swing their rod back and forth, what they're doing is gradually extending the line with each swing to shoot it in a final flick. It's pretty to watch, but coming across someone with a fly rod isn't very common because you can't just pick up the rod and start fishing. Instead, you have to learn the motion and timing of using it properly (which—like most things—is easier to learn when you're young).
-
+Fishing, in the sense of throwing a worm on a hook or dragging a lure across a lake, is really called *spin fishing*. Fly fishing is a little different from that. The "fly" comes from the much smaller and lighter lures you use. They're often handmade by tying together things like thread and feathers around a bare hook. The most obvious difference, though, is casting. Since flies are so light, what you're basically trying to do is throw a paper ball instead of a baseball. Give the baseball to Ohtani and he'll strike you out on a whim. But give him the paper ball and ...well he'll still probably strike you out -- you'd definitely stand a better chance though. That's to say that throwing a baseball is easier because the ball itself is heavy. If you try to do the same with the paper, you'll be lucky for it to go even a couple yards. Using a fly rod is basically like attaching that paper ball to the end of a rope and yanking the other end forwards so that the rope carries it. When you're casting a fly, it's really the weight of the line that gets it to where it needs to be, not the weight of the fly itself. And the way this is done is by swinging the rod back and forth to gradually extend the line and then making a final flick to shoot it forwards. It's pretty to watch, but much less common because it takes some practicing to get the whole thing down.
 {% endbluebox %} 
 
-So, at the expense of of our shoulders, this is what we were doing in the most beautiful part of earth <a href="https://x.com/StationCDRKelly/status/592444731076026368" target="_blank">from space</a>. It was actually our second time there since we went two summers ago as a graduation gift for my cousin. We used my other cousin's graduation as an excuse to go again this time. 
+So, at the expense of of our shoulders, this is what we were doing in the most beautiful part of earth <a href="https://x.com/StationCDRKelly/status/592444731076026368" target="_blank">from space</a>. 
 
-We were fishing for bonefish specifically (Andros is known as the bonefish capital of the world). 
+We were fishing for bonefish specifically (Andros is known as the bonefish capital of the world). In the world of saltwater fly fishing, the "big three" are tarpon, permit, and bonefish. Tarpon are the most iconic because they're really photogenic; they're huge and they tend to leap out of the water. They're basically giant sardines with funky looking mouths. Permit are these oval-shaped fish that are usually solitary and notoriously wary. It's a pretty big deal when you land one because people can spend their entire day searching for one only to lay out a perfect cast and have their fly shrugged off. We were fishing for bonefish specifically (Andros is known as the bonefish capital of the world). Nickname. By the way, all three of these fish are usually just caught and then released back into the water because they're pretty terrible to eat.
 
-explain - nickname
-
-Bonefish, tarpon, and permit make up "the big three" of saltwater fly fishing. Tarpon are the most iconic because they're really photogenic; they're huge and they tend to leap out of the water. They're basically giant sardines with funky looking mouths. Permit are these oval-shaped fish that are usually solitary and notoriously wary. It's a pretty big deal when you land one because people can spend their entire day searching for one only to lay out a perfect cast and have their fly shrugged off. By the way, all three of these fish are usually just caught and then released back into the water because they suck to eat.
-
-All in all, I'm incredibly grateful for being able to go and we definitely made the most out of it. It goes without saying that the fishing was fun, but it was really just liberating to be on the water. After all, there aren't many better places to be than in the ocean and under the Bahamian sun. One of our guides called it "the world's best office."
+All in all, I'm incredibly grateful for being able to go and we definitely made the most out of it. It goes without saying that the fishing was fun, but it was really just liberating to be on the water. After all, there aren't many better places to be than in the ocean and under the Bahamian sun. One of our guides put it nicely when he called it "the world's best office."
 
 I'll let the pictures tell most of the stories but a few general thoughts:
 
@@ -126,7 +117,7 @@ How it works is the guide stands up on a platform near the back and slowly pushe
 <br><br>
 
 ![](\images\bahamas-album\X8A9154.jpeg)<br>
-Ghost of the flats. This is a really good picture of one. They're usually much harder to see since their bodies are reflective. It's their shadow that you look for instead. The guides are absurdly good at seeing them - I swear they have telescopes for eyes. They'd point out a fish a hundred feet away from the boat and you'd think they're messing with you just because nothing has happened in a while, but then they push you closer and the fish is right where they said it was. Still couldn't figure it out by the end of the trip.
+Ghost of the flats. This is a really good picture of one. They're usually much harder to see since their bodies are reflective. It's their shadow that you look for instead. The guides are absurdly good at seeing them - I swear they have telescopes for eyes. They'd point out a fish a hundred feet away from the boat and you'd think they're messing with you just because nothing has happened in a while, but then they push you closer and the fish is right there.
 
 
 Speaking of which, the guides are amazing people to be around. They're guys that have lived and grown up on the water who just live this pure lifestyle of chasing fish. Usually, they come from a family where guiding (and crazy eye genetics) has been passed down each generation. You can tell how passionate they are about what they do when you chat with them on the boat.
@@ -141,7 +132,7 @@ First one of the trip. There's always some pressure when you're the one at the f
 <br><br>
 
 ![](\images\bahamas-album\IMG_5674.jpeg)<br>
-Whenever I saw a starfish, all I wanted to do was lean over and try to touch it but I knew the guide would probably get mad at me so I didn't do it.
+Whenever you see a starfish, all you want to do is lean over and try to touch it but you know the guide would probably think you're an idiot so you don't do it.
 <br><br>
 
 <div style="padding:56.25% 0 0 0;position:relative;width:85%;margin:0 auto;"><iframe src="https://player.vimeo.com/video/1047722355?title=0&amp;byline=0&amp;portrait=0&amp;badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479" frameborder="0" allow="autoplay; fullscreen; picture-in-picture; clipboard-write; encrypted-media" style="position:absolute;top:0;left:0;width:100%;height:100%;" title="0X8A9307"></iframe></div><script src="https://player.vimeo.com/api/player.js"></script>
