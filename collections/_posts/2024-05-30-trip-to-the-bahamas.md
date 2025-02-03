@@ -1,25 +1,29 @@
 ---
 layout:     post
-title:      Trip to the Bahamas
+title:      Trip to the Bahamas (draft)
 date:       2024-05-30
 summary:    2024 fishing trip in the Bahamas
 categories: Traveling
 thumbnail:  /images/bahamas-album/bahamas-thumbnail.jpg
 ---
-The best part about the Bahamas is that it sounds relaxing. For the last week of May, everything was a little breezier, a little calmer, and little more easygoing -- because I was in the *Bahamas*. I was lucky enough to spend my entire time there fly fishing off the island of Andros with my two cousins, uncle, and dad.
+The best part about the Bahamas is that it sounds relaxing. For the last week of May, everything was a little calmer, a little breezier, and little more easygoing -- because I was in the *Bahamas*. I was lucky enough to spend my entire time there fly fishing off the island of Andros with my two cousins, uncle, and dad.
 
 {% bluebox %}
 
 ### The What Is Fly Fishing Blue Box
 
-Fishing, in the sense of throwing a worm on a hook or dragging a lure across a lake, is really called *spin fishing*. Fly fishing is a little different from that. The "fly" comes from the much smaller and lighter lures you use. They're often handmade by tying together things like thread and feathers around a bare hook. The most obvious difference, though, is casting. Since flies are so light, what you're basically trying to do is throw a paper ball instead of a baseball. Give the baseball to Ohtani and he'll strike you out on a whim. But give him the paper ball and ...well he'll still probably strike you out -- you'd definitely stand a better chance though. That's to say that throwing a baseball is easier because the ball itself is heavy. If you try to do the same with the paper, you'll be lucky for it to go even a couple yards. Using a fly rod is basically like attaching that paper ball to the end of a rope and yanking the other end forwards so that the rope carries it. When you're casting a fly, it's really the weight of the line that gets it to where it needs to be, not the weight of the fly itself. And the way this is done is by swinging the rod back and forth to gradually extend the line and then making a final flick to shoot it forwards. It's pretty to watch, but much less common because it takes some practicing to get the whole thing down.
+Fishing, in the sense of throwing a worm on a hook or dragging a lure across a lake, is really called *spin fishing*. Fly fishing is a little different from that. The "fly" comes from the much smaller and lighter lures you use. They're often handmade by tying together things like thread and feathers around a bare hook. 
+
+The biggest difference between the two is casting, however. Since flies are so light, what you're basically trying to do is throw a paper ball instead of a baseball. Give the baseball to Ohtani and he'll strike you out on a whim. Give him the paper ball, though, and... well, he’ll still probably strike you out to be honest, but you’d definitely stand a better chance. The point is that tossing a baseball is easier because the ball itself is heavy. I'm willing to bet that you can throw the baseball with your non-dominant hand further than you can throw the paper ball with your dominant hand.
+
+Using a fly rod is like attaching that paper ball to the end of a rope and yanking the other end forwards so that the rope carries it. When you're casting a fly, it's really the weight of the line that gets it to where it needs to be, not the weight of the fly itself. And the way this is done is by swinging the rod back and forth to gradually extend the line before making a final flick to shoot it forwards. It's pretty to watch, but much less common because it takes some practicing to get it all down.
 {% endbluebox %} 
 
-So, at the expense of of our shoulders, this is what we were doing in the most beautiful part of earth <a href="https://x.com/StationCDRKelly/status/592444731076026368" target="_blank">from space</a>. 
+So, at the expense of of our shoulders, this is what we were doing in the most beautiful part of earth <a href="https://x.com/StationCDRKelly/status/592444731076026368" target="_blank">from space</a>. We were fishing for bonefish specifically (Andros is known as the bonefish capital of the world). 
 
-We were fishing for bonefish specifically (Andros is known as the bonefish capital of the world). In the world of saltwater fly fishing, the "big three" are tarpon, permit, and bonefish. Tarpon are the most iconic because they're really photogenic; they're huge and they tend to leap out of the water. They're basically giant sardines with funky looking mouths. Permit are these oval-shaped fish that are usually solitary and notoriously wary. It's a pretty big deal when you land one because people can spend their entire day searching for one only to lay out a perfect cast and have their fly shrugged off. We were fishing for bonefish specifically (Andros is known as the bonefish capital of the world). Nickname. By the way, all three of these fish are usually just caught and then released back into the water because they're pretty terrible to eat.
+In the world of saltwater fly fishing, the "big three" are tarpon, permit, and bonefish. Tarpon are the most iconic because of how photogenic they are; they're huge and they tend to leap out of the water. Basically, they're giant sardines with funny looking mouths. Permit are these oval-shaped fish that are usually solitary and notoriously wary. It's a pretty big deal when you land one because people can spend their entire day searching for one only to lay out a perfect cast and have their fly shrugged off. By the way, all three of these fish are usually just caught and then released back into the water because they're pretty terrible to eat.
 
-All in all, I'm incredibly grateful for being able to go and we definitely made the most out of it. It goes without saying that the fishing was fun, but it was really just liberating to be on the water. After all, there aren't many better places to be than in the ocean and under the Bahamian sun. One of our guides put it nicely when he called it "the world's best office."
+All in all, I'm incredibly grateful for being able to go and we definitely made the most out of it. It goes without saying that the fishing was fun, but it was really just liberating to be on the water. After all, there aren't many better places to be than in the ocean and under the Caribbean sun. One of our guides put it nicely when he called it "the world's best office."
 
 I'll let the pictures tell most of the stories but a few general thoughts:
 
@@ -27,7 +31,7 @@ I'll let the pictures tell most of the stories but a few general thoughts:
 
 - I went down a Youtube spiral when we were close to leaving for the trip. The highlights were these two videos Yeti made on [giant trevally in the Seychelles](https://www.youtube.com/watch?v=MNfBHLp_FKg) and [tarpon in Florida](https://www.youtube.com/watch?v=FZoMPciCciY). There's also [this gem](https://www.youtube.com/watch?v=IYq7i4u3XBA).
 
-- Having a doctor as a parent is awesome for many reasons, one of which being that doctors are always there to swoop in and [save the day](https://en.wikipedia.org/wiki/Angus_Wallace#In-flight_surgery_with_a_coat-hanger_and_silverware) on planes. Midway through the flight to Nassau, a guy sitting in front of us fainted and the captain used the intercom to call for help. My dad parkoured over the seat and started doing his thing. A nurse and an ER doctor came over too. The good news was that the guy ended up being okay. The bad news was that he was forced to drink orange juice with like 3 salt packets poured into it. Anyways, you're my hero, Dad.
+- Having a doctor as a parent is awesome for many reasons, one of which being that doctors are always there to swoop in and [save the day](https://en.wikipedia.org/wiki/Angus_Wallace#In-flight_surgery_with_a_coat-hanger_and_silverware) on planes. Midway through the flight to Nassau, a guy sitting in front of us fainted and the captain used the intercom to call for help. My dad parkoured over the seat and started doing his thing. A nurse and an ER doctor came over too. The good news is that the guy ended up being okay. The bad news is that he was forced to drink orange juice with like 3 salt packets poured into it. Anyways, you're my hero, Dad.
 
 - Bahamian coins are neat and very island-y. The quarters have sailboats, the dimes have little bonefish, the nickels have pineapples, and the pennies have starfish. For some reason, they also have a square one that's 15 cents? Kind of weird to pick a number that you can't break a dollar evenly into but still cool.
 
@@ -54,15 +58,12 @@ The lodge we stayed at is called Swain's Cay - the parts of the island highlight
 ![](\images\bahamas-album\fde0c02c-1624-4976-abad-f66701ce4057.jpg)<br>
 Doing what we did on our last flight while waiting for our next flight - where we did the same thing. 
 
-Side note: it's crazy how quickly the world changes when you fly directly longitude-wise as opposed to latitude-wise or somewhere in between. Flying from Minnesota into Atlanta and then to Naussau took five hours. If we'd flown in the opposite direction for half that time we'd be in Churchill, MB - the *polar bear* capital of the world. <br><br>
+Side note: it's crazy how quickly the world changes when you fly directly longitude-wise as opposed to latitude-wise or somewhere in between. Flying from Minnesota into Atlanta and then to Naussau took five hours. If we'd flown in the opposite direction for half that time, we'd be in Churchill, MB - the *polar bear* capital of the world. <br><br>
 
 ![](\images\bahamas-album\IMG_5621.jpeg)<br>
 This is the plane we took to to get from Naussau to Andros. Flying in a small plane really makes you think about how cool it would be to know how to pilot. <br><br>
 
 ![](\images\bahamas-album\IMG_5623.jpeg)<br>
-<br><br>
-
-![](\images\bahamas-album\IMG_5629.jpeg)<br>
 Landing and taking off was way too much fun. Also, it was neat to for once be in a plane that actually goes *nyoooooom*.<br><br>
 
 ![](\images\bahamas-album\20240524_160548(0).jpg)<br>
@@ -96,9 +97,6 @@ Fishing wands.
 
 ![](\images\bahamas-album\IMG_5913.jpeg)<br>
 
-<br><br>
-
-![](\images\bahamas-album\IMG_5652.jpeg)<br>
 <br><br>
 
 ![](\images\bahamas-album\b7f1769f-3feb-4baf-99c1-76a1f4944470.jpg)<br>
@@ -135,12 +133,18 @@ First one of the trip. There's always some pressure when you're the one at the f
 Whenever you see a starfish, all you want to do is lean over and try to touch it but you know the guide would probably think you're an idiot so you don't do it.
 <br><br>
 
-<div style="padding:56.25% 0 0 0;position:relative;width:85%;margin:0 auto;"><iframe src="https://player.vimeo.com/video/1047722355?title=0&amp;byline=0&amp;portrait=0&amp;badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479" frameborder="0" allow="autoplay; fullscreen; picture-in-picture; clipboard-write; encrypted-media" style="position:absolute;top:0;left:0;width:100%;height:100%;" title="0X8A9307"></iframe></div><script src="https://player.vimeo.com/api/player.js"></script>
+
+
+
+
+<!-- cut video and get rid of sound-->
 
 <div style="padding:56.25% 0 0 0;position:relative;width:85%;margin:0 auto;"><iframe src="https://player.vimeo.com/video/1047723915?h=1185508835&amp;title=0&amp;byline=0&amp;portrait=0&amp;badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479" frameborder="0" allow="autoplay; fullscreen; picture-in-picture; clipboard-write; encrypted-media" style="position:absolute;top:0;left:0;width:100%;height:100%;" title="IMG_5851"></iframe></div><script src="https://player.vimeo.com/api/player.js"></script>
 
+<div style="padding:56.25% 0 0 0;position:relative;width:85%;margin:0 auto;"><iframe src="https://player.vimeo.com/video/1047722355?title=0&amp;byline=0&amp;portrait=0&amp;badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479" frameborder="0" allow="autoplay; fullscreen; picture-in-picture; clipboard-write; encrypted-media" style="position:absolute;top:0;left:0;width:100%;height:100%;" title="0X8A9307"></iframe></div><script src="https://player.vimeo.com/api/player.js"></script>
+
 ![](\images\bahamas-album\X8A9130.jpeg)<br>
-The reel literally sings when you have a fish on. Top 5 sounds.
+The reel is going "zzzzzrrreeeeee!" Top 5 sounds.
 <br><br>
 
 ![](\images\bahamas-album\X8A9165.jpeg)<br>
@@ -160,7 +164,7 @@ Fishing on the beach at the lodge after spending the day fishing on the boat.
 <br><br>
 
 ![](\images\bahamas-album\IMG_5704.jpeg)<br>
-In the mornings, we'd load up this van to be driven to the docks. One thing I noticed is that *everybody* knows *everybody*. There wasn't a person we drove by that the driver didn't wave to. I've been in communities where everybody's basically acquainted each other, but here you could tell that everyone actually *knows* each other. Yet another perk of living on an island - or maybe not?
+In the mornings, we'd load up this van to hitch a ride to the docks. One thing I noticed is that *everybody* knows *everybody*. There wasn't a person we drove by that the driver didn't wave to. I've been in communities where everybody's basically acquainted each other, but here you could tell that everyone actually *knows* each other. Yet another perk of living on an island - or maybe not?
 <br><br>
 
 ![](\images\bahamas-album\IMG_5705.jpeg)<br>
@@ -168,7 +172,7 @@ I was by myself for the next today, so it was just me and my guide Dencil.
 <br><br>
 
 ![](\images\bahamas-album\FullSizeRender(2).jpeg)<br>
-When the tide comes up, the fish retreat back into these short mangroves for protection from ospreys and sharks.
+When the tide comes up, the fish retreat back into these short mangroves to protect themselves from ospreys and sharks.
 <br><br>
 
 ![](\images\bahamas-album\X8A9299.jpg)<br>
@@ -192,7 +196,7 @@ Found a tree trying to learn how to walk.
 <br><br>
 
 ![](\images\bahamas-album\IMG_5699.jpeg)<br>
-Coconut pie. Yummy.
+Coconut pie 😋
 <br><br>
 
 ![](\images\bahamas-album\X8A9257.jpeg)<br>
@@ -200,7 +204,7 @@ Coconut pie. Yummy.
 <br><br>
 
 ![](\images\bahamas-album\IMG_5716.jpeg)<br>
-One of the highlights of the trip. My cousin Dyl and I took out the kayaks on the beach and paddled around with spin rods in the back so that the lures were trailing behind us. We caught a barracuda on our way back.When you're with a guide, they'll sometimes take it home to eat. I learned that they only keep the big ones because the smaller ones accumulate a neurotoxin from eating other fish that feed on a specific algae in reefs.
+One of the highlights of the trip. My cousin Dyl and I took out the kayaks on the beach and paddled around with spin rods in the back so that the lures were trailing behind us. We caught a barracuda on our way back.When you're with a guide, they'll sometimes take it home to eat. I learned that they only keep the big ones because the smaller ones accumulate a neurotoxin from eating other fish that feed on a specific algae.
 <br><br>
 
 ![](\images\bahamas-album\20240526_200905.jpg)<br>
@@ -213,9 +217,6 @@ I'm pretty sure we caught this one's granddad the very first time we were in the
 Naaaaaaa tsingonyaaaaaa babagithibaba<br><br>
 
 ![](\images\bahamas-album\20240527_072755.jpg)<br>
-<br><br>
-
-![](\images\bahamas-album\IMG_5729.jpeg)<br>
 <br><br>
 
 ![](\images\bahamas-album\IMG_5731.jpeg)<br>
@@ -284,9 +285,6 @@ I should open a gallery.<br><br>
 <br><br>
 
 ![](\images\bahamas-album\X8A9313.jpeg)<br>
-<br><br>
-
-![](\images\bahamas-album\IMG_5866.jpeg)<br>
 <br><br>
 
 ![](\images\bahamas-album\20240526_093009.jpg)<br>
