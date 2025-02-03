@@ -100,7 +100,7 @@ Fishing wands.
 <br><br>
 
 ![](\images\bahamas-album\b7f1769f-3feb-4baf-99c1-76a1f4944470.jpg)<br>
-My grandpa got us these shirts for Christmas so naturally we had to take a picture for him. If you're wondering why we're wearing long-sleeves, it's because standing under the sun there for a full day is like shaking hands with skin cancer. <br><br>
+My grandpa got us these shirts for Christmas so naturally we had to take a picture for him. We're wearing long-sleeves because standing under the sun there for a full day is like shaking hands with skin cancer. <br><br>
 
 ![](\images\bahamas-album\X8A9188.jpeg)<br>
 The first day, I fished with my cousin Tobey and our guide Randy. You start off by flying across the water away from the main island to somewhere more remote. It's a great way to start the morning; you just have to make sure you hold on to your hat.
@@ -111,7 +111,7 @@ The Bahamas is perfect for bonefishing because it's surrounded by these long str
 <br><br>
 
 ![](\images\bahamas-album\IMG_5658.jpeg)<br>
-How it works is the guide stands up on a platform near the back and slowly pushes the boat around with a pole while whoever's fishing stands at the front waiting to cast. When the guide spots a fish, they'll shout instructions like "9 o'clock, 30 feet". The time is the direction you're being told to cast in, with 12 o'clock being the front of the boat. If you make a good cast, they'll tell you how to strip in the line. You'll hear something like "strrrip, strrrrippp, strip, strrrippp, STRIP, STRRIPP". And then once you feel a little tug, you have to yank the line back to set the hook in the mouth of the fish. They'll make a run for it and the line will be peeling off your reel fast, so you have to hold the rod out while you dance around to make sure the line is cleared away from your feet. From then on, it's a game of tug of war back to the boat.
+How it works is the guide stands up on a platform near the back and slowly pushes the boat around with a pole while whoever's fishing stands at the front waiting to cast. When the guide spots a fish, they'll shout instructions like "9 o'clock, 30 feet". The time is the direction you're being told to cast in, with 12 o'clock being the front of the boat. If you make a good cast, they'll tell you how to strip in the line. You'll hear something like "strrrrip, strrrrip, strrrrip, strip, STRIP, STRRIPP". And then once you feel a little tug, you yank the line back to set the hook in the mouth of the fish. They'll make a run for it and the line will be peeling off your reel fast, so you have to hold the rod out while you dance around to make sure the line is cleared away from your feet. From then on, it's a game of tug of war back to the boat.
 <br><br>
 
 ![](\images\bahamas-album\X8A9154.jpeg)<br>
@@ -180,11 +180,10 @@ Wingardium leviosa
 <br><br>
 
 ![](\images\bahamas-album\X8A9202.jpeg)<br>
-Bonefish are really skiddish, so you can't be thumping around the boat or they'll be gone. They also spook if you land the fly right on top of their heads, so the trick is to cast a few feet in front of where they're swimming to intercept them.
+Bonefish are really skiddish, so you thump around in the boat or they'll be gone. They also spook if you land the fly right on top of their heads, so the trick is to cast a few feet in front of where they're swimming to intercept them.
 <br><br>
 
 ![](\images\bahamas-album\16920.jpeg)<br>
-Gotchu.
 <br><br>
 
 ![](\images\bahamas-album\IMG_5708.jpeg)<br>
@@ -204,13 +203,11 @@ Coconut pie 😋
 <br><br>
 
 ![](\images\bahamas-album\IMG_5716.jpeg)<br>
-One of the highlights of the trip. My cousin Dyl and I took out the kayaks on the beach and paddled around with spin rods in the back so that the lures were trailing behind us. We caught a barracuda on our way back.When you're with a guide, they'll sometimes take it home to eat. I learned that they only keep the big ones because the smaller ones accumulate a neurotoxin from eating other fish that feed on a specific algae.
+One of the highlights of the trip. My cousin Dyl and I took out the kayaks on the beach and paddled around with spin rods in the back so that the lures were trailing behind us. We caught a barracuda on our way back. When you're with a guide, they'll sometimes take it home to eat. I learned from Dencil that they only keep the big ones because the smaller ones accumulate a neurotoxin from eating other fish that feed on a specific algae.
 <br><br>
 
 ![](\images\bahamas-album\20240526_200905.jpg)<br>
-Terrifying. It's the same fish that ate all of Marlin's family in Finding Nemo. 
-
-I'm pretty sure we caught this one's granddad the very first time we were in the Bahamas. Dyl and I were out with a guide and I managed to reel it in right next to the side of the boat. It got away because it BENT off the hook.
+Terrifying. It's the same fish that ate all of Marlin's family in Finding Nemo.
 <br><br>
 
 ![](\images\bahamas-album\20240527_062841.jpg)<br>
@@ -251,7 +248,7 @@ Something I learned recently: the collective noun for a group of jays is a party
 <br><br>
 
 ![](\images\bahamas-album\IMG_5759.jpeg)<br>
-We visited Shine's conch shack afterwards. On the dock behind it there was a guy shelling conch and he waved us over so he could show us. It's actually way easier than you'd think: all you do is tap a little hole into the top of the shell near its spire, separate the muscle it uses to cling on to the inside, and then slide it out. You do have to trim off like 70% of the whole thing though - they're pretty gnarly looking.
+We visited Shine's conch shack afterwards. On the dock behind it there was a guy shelling conch and he waved us over so he could show us. It's actually way easier than you'd think: all you do is tap a little hole into the top of its shell, separate the muscle it uses to cling on to the inside, and then slide it out. You do have to trim off like 70% of the whole thing though - they're pretty gnarly looking.
 <br><br>
 
 ![](\images\bahamas-album\IMG_5760.jpeg)<br>
@@ -259,14 +256,14 @@ The shack's conch graveyard. I told you Bahamians really love conch.
 <br><br>
 
 ![](\images\bahamas-album\IMG_5762.jpeg)<br>
-The first is conch salad and the second is cracked conch. The conch salad was my favorite - it's basically ceviche. If you haven't had ceviche you need to try it.
+The first is conch salad and the second is cracked conch. The conch salad was my favorite - it's basically the same thing as ceviche.
 <br><br>
 
 ![](\images\bahamas-album\IMG_5763.jpeg)<br>
 <br><br>
 
 ![](\images\bahamas-album\IMG_5771.jpeg)<br>
-This mango opened my mango world.
+<!--This mango opened my mango world.-->
 <br><br>
 
 ![](\images\bahamas-album\IMG_5820.jpeg)<br>
@@ -312,8 +309,6 @@ I mean if it's right next to my feet and there's no guide to yell at me how can 
 <br><br>
 
 ![](\images\bahamas-album\20240529_111725.jpg)<br>
-
-And now the gag reel:
 <br><br>
 
 ![](\images\bahamas-album\16541.jpeg)<br>
