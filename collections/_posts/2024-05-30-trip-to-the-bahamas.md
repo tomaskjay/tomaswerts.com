@@ -244,7 +244,7 @@ Whatever.
 <br><br>
 
 ![](\images\bahamas-album\FullSizeRender.jpg)<br>
-Something I learned recently: the collective noun for a group of jays is a party.
+<!--Something I learned recently: the collective noun for a group of jays is a party.-->
 <br><br>
 
 ![](\images\bahamas-album\IMG_5759.jpeg)<br>
