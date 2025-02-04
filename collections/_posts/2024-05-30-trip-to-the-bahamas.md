@@ -19,15 +19,11 @@ The biggest difference between the two is casting, however. Since flies are so l
 Using a fly rod is like attaching that paper ball to the end of a rope and yanking the other end forwards so that the rope carries it. When you're casting a fly, it's really the weight of the line that gets it to where it needs to be, not the weight of the fly itself. And the way this is done is by swinging the rod back and forth to gradually extend the line before making a final flick to shoot it forwards. It's pretty to watch, but much less common because it takes some practicing to get it all down.
 {% endbluebox %} 
 
-So, at the expense of of our shoulders, this is what we were doing in the most beautiful part of earth <a href="https://x.com/StationCDRKelly/status/592444731076026368" target="_blank">from space</a>. We were fishing for bonefish specifically (Andros is known as the bonefish capital of the world). 
-
-In the world of saltwater fly fishing, the "big three" are tarpon, permit, and bonefish. Tarpon are the most iconic because of how photogenic they are; they're huge and they tend to leap out of the water. Basically, they're giant sardines with funny looking mouths. Permit are these oval-shaped fish that are usually solitary and notoriously wary. It's a pretty big deal when you land one because people can spend their entire day searching for one only to lay out a perfect cast and have their fly shrugged off. By the way, all three of these fish are usually just caught and then released back into the water because they're pretty terrible to eat.
+So, at the expense of of our shoulders, this is what we were doing in the most beautiful part of earth <a href="https://x.com/StationCDRKelly/status/592444731076026368" target="_blank">from space</a>. We were fishing for bonefish specifically (Andros is known as the bonefish capital of the world). In the world of saltwater fly fishing, the "big three" are tarpon, permit, and bonefish. Tarpon are the most iconic because of how photogenic they are; they're huge and they tend to leap out of the water. Basically, they're giant sardines with funny looking mouths. Permit are the least fish-looking fish of the three. They look like what you would end up with if you took a normal fish and smooshed it into a rhombus. Permit are notoriously tricky to catch since they're hard to find, usually solitary, and unbearably cautious. Finally, bonefish are the most commonly sought after because they're more abundant than the other two and aren't as difficult to catch. They have a cool latin name: *abula vulpes* means silver fox. They also have a cooler nickname: "ghost of the flats". By the way, all three of these fish are usually just caught and then released back into the water because they're pretty terrible to eat.
 
 All in all, I'm incredibly grateful for being able to go and we definitely made the most out of it. It goes without saying that the fishing was fun, but it was really just liberating to be on the water. After all, there aren't many better places to be than in the ocean and under the Caribbean sun. One of our guides put it nicely when he called it "the world's best office."
 
 I'll let the pictures tell most of the stories but a few general thoughts:
-
-- Bonefish have a cool latin name: *abula vulpes* means silver fox. They also have a cooler nickname: "ghost of the flats".
 
 - I went down a Youtube spiral when we were close to leaving for the trip. The highlights were these two videos Yeti made on [giant trevally in the Seychelles](https://www.youtube.com/watch?v=MNfBHLp_FKg) and [tarpon in Florida](https://www.youtube.com/watch?v=FZoMPciCciY). There's also [this gem](https://www.youtube.com/watch?v=IYq7i4u3XBA).
 
@@ -35,7 +31,7 @@ I'll let the pictures tell most of the stories but a few general thoughts:
 
 - Bahamian coins are neat and very island-y. The quarters have sailboats, the dimes have little bonefish, the nickels have pineapples, and the pennies have starfish. For some reason, they also have a square one that's 15 cents? Kind of weird to pick a number that you can't break a dollar evenly into but still cool.
 
-- Along those lines, I later found out that the Bahamas is a tax haven. It has historically strict banking secrecy laws, a reliancy on offshore finance, and the appeal of being a frickin island in the Carribean. Leonardo Dicaprio should've stashed away his money here instead of going all the way to that bank in Switzerland.
+- Along those lines, I later found out that the Bahamas is a tax haven. It has historically strict banking secrecy laws, a reliancy on offshore finance, and the obvious appeal of being a balmy island in the Carribean. Leonardo Dicaprio should've stashed away his money here instead of going all the way to that bank in Switzerland.
 
 - In elementary school I read about Atlantis Paradise Island in an issue of Nat Geo Kids. I thought it was amazing at the time but today it just seems really touristy. You could definitely pick out the people in the airport who were staying there. That said, I'd still absolutely jump on any opportunity go to Disneyland.
 
@@ -70,14 +66,14 @@ Landing and taking off was way too much fun. Also, it was neat to for once be in
 Our room at the lodge. Cheryl, the woman who owns Swain's Cay, is a one woman show: she manages to run the entire business by herself and is also building a new park nearby for the local kids. <br><br>
 
 ![](\images\bahamas-album\IMG_5650.jpeg)<br>
-We were there at the end of the season, which was perfect because we ended up having the whole place to ourselves.
+We were there at the end of the season, which was perfect because we ended up being the only people there.
 <br><br>
 
 ![](\images\bahamas-album\30b6883e-93f2-47fd-8cda-9ed492bd8b5f.jpg)<br>
 Imagine being an ant and having this as your POV.<br><br>
 
 ![](\images\bahamas-album\IMG_5633.jpeg)<br>
-We were absolutely spoiled by the lodge's cook, Pam. She was incredibly nice and made everything herself. These are conch fritters. One thing you'll find when you're in the Bahamas is that Bahamians love conch. It's everywhere. More on this later.
+We were absolutely spoiled by the lodge's cook, Pam. She was painfully nice and made everything herself. These are conch fritters. One thing you'll find when you're in the Bahamas is that Bahamians love conch. It's everywhere. More on this later.
 <br><br>
 
 ![](\images\bahamas-album\IMG_5647.jpeg)<br>
@@ -168,7 +164,7 @@ In the mornings, we'd load up this van to hitch a ride to the docks. One thing I
 <br><br>
 
 ![](\images\bahamas-album\IMG_5705.jpeg)<br>
-I was by myself for the next today, so it was just me and my guide Dencil.
+I was by myself for the next day, so it was just me and my guide Dencil.
 <br><br>
 
 ![](\images\bahamas-album\FullSizeRender(2).jpeg)<br>
@@ -203,11 +199,13 @@ Coconut pie 😋
 <br><br>
 
 ![](\images\bahamas-album\IMG_5716.jpeg)<br>
-One of the highlights of the trip. My cousin Dyl and I took out the kayaks on the beach and paddled around with spin rods in the back so that the lures were trailing behind us. We caught a barracuda on our way back. When you're with a guide, they'll sometimes take it home to eat. I learned from Dencil that they only keep the big ones because the smaller ones accumulate a neurotoxin from eating other fish that feed on a specific algae.
+One of the highlights of the trip. My cousin Dyl and I took out the kayaks on the beach and paddled around with rods in the back so that the lures were trailing behind us. We caught this barracuda on our way back. 
+
+When you're with a guide, they'll sometimes take it home to eat. I learned from Dencil that they only keep the big ones because the smaller ones accumulate a neurotoxin from eating other fish that feed on a specific algae.
 <br><br>
 
 ![](\images\bahamas-album\20240526_200905.jpg)<br>
-Terrifying. It's the same fish that ate all of Marlin's family in Finding Nemo.
+Taking out the lure was pretty terrifying. It's the same fish that ate all of Marlin's family in Finding Nemo.
 <br><br>
 
 ![](\images\bahamas-album\20240527_062841.jpg)<br>
@@ -237,10 +235,12 @@ Motherfu-
 <br><br>
 
 ![](\images\bahamas-album\X8A9240.jpeg)<br>
-*I'm on a boat and, it's going fast and*<br>
+Whatever.
+
+<!-- *I'm on a boat and, it's going fast and*<br>
 *I got a nautical themed Pashmina Afghan*<br>
 *I'm the king of the world on a boat like Leo*<br>
-*If you're on the shore, then you're sure not me-oh*
+*If you're on the shore, then you're sure not me-oh* -->
 <br><br>
 
 ![](\images\bahamas-album\FullSizeRender.jpg)<br>
@@ -248,7 +248,7 @@ Something I learned recently: the collective noun for a group of jays is a party
 <br><br>
 
 ![](\images\bahamas-album\IMG_5759.jpeg)<br>
-We visited Shine's conch shack afterwards. On the dock behind it there was a guy shelling conch and he waved us over so he could show us. It's actually way easier than you'd think: all you do is tap a little hole into the top of its shell, separate the muscle it uses to cling on to the inside, and then slide it out. You do have to trim off like 70% of the whole thing though - they're pretty gnarly looking.
+We visited a conch shack afterwards. On the dock behind it there was a guy shelling conch and he waved us over so he could show us. It's actually way easier than you'd think: all you do is tap a little hole into the top of its shell, separate the muscle it uses to cling on to the inside, and then slide it out. You do have to trim off like 70% of the whole thing though - they're pretty gnarly looking.
 <br><br>
 
 ![](\images\bahamas-album\IMG_5760.jpeg)<br>
@@ -293,7 +293,7 @@ A bigger one. His name was Leonard.
 <br><br>
 
 ![](\images\bahamas-album\16497.jpeg)<br>
-I mean if it's right next to my feet and there's no guide to yell at me how can I *not* pick it up. 
+I mean if it's right next to my feet and there's no guide to yell at me, how can I *not* pick it up. 
 <br><br>
 
 ![](\images\bahamas-album\IMG_5888.jpeg)<br>
