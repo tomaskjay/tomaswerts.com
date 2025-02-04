@@ -29,7 +29,7 @@ A couple passages I liked:
 > He had said that our lives are steered by uncertainties, many of which are disruptive or even daunting; but that if we persevere and remain generous of heart, we may be granted a moment of supreme lucidity—a moment in which all that has happened to us suddenly comes into focus as a necessary course of events, even as we find ourselves on the threshold of a bold new life that we had been meant to lead all along.
 
 
-Some timeless advice that the Count gives to the human life bomb.
+Some timeless advice that the Count gives to human life bomb.
 
 
 > For his part, the Count had opted for the life of the purposefully unrushed. Not only was he disinclined to race toward some appointed hour—disdaining even to wear a watch—he took the greatest satisfaction when assuring a friend that a worldly matter could wait in favor of a leisurely lunch or stroll along the embankment. After all, did not wine improve with age? Was it not the passage of years that gave a piece of furniture its delightful patina? When all was said and done, the endeavors that most modern men saw as urgent (such as appointments with bankers and the catching of trains), probably could have waited, while those they deemed frivolous (such as cups of tea and friendly chats) had deserved their immediate attention.
