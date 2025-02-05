@@ -6,7 +6,7 @@ summary:    2024 fishing trip in the Bahamas
 categories: Traveling
 thumbnail:  /images/bahamas-album/bahamas-thumbnail.jpg
 ---
-The best part about the Bahamas is that it sounds relaxing. For the last week of May, everything was a little calmer, a little breezier, and little more easygoing -- because I was in the *Bahamas*. I was lucky enough to spend my entire time there fly fishing off the island of Andros with my two cousins, uncle, and dad.
+The best part about the Bahamas is that it sounds relaxing. For the last week of May, everything was a little calmer, a little breezier, and a little more easygoing -- because I was in the *Bahamas*. I was lucky enough to spend my entire time there fly fishing off the island of Andros with my two cousins, uncle, and dad.
 
 {% bluebox %}
 
@@ -19,11 +19,13 @@ The biggest difference between the two is casting, however. Since flies are so l
 Using a fly rod is like attaching that paper ball to the end of a rope and yanking the other end forwards so that the rope carries it. When you're casting a fly, it's really the weight of the line that gets it to where it needs to be, not the weight of the fly itself. And the way this is done is by swinging the rod back and forth to gradually extend the line before making a final flick to shoot it forwards. It's pretty to watch, but much less common because it takes some practicing to get it all down.
 {% endbluebox %} 
 
-So, at the expense of of our shoulders, this is what we were doing in the most beautiful part of earth <a href="https://x.com/StationCDRKelly/status/592444731076026368" target="_blank">from space</a>. We were fishing for bonefish specifically (Andros is known as the bonefish capital of the world). In the world of saltwater fly fishing, the "big three" are tarpon, permit, and bonefish. Tarpon are the most iconic because of how photogenic they are; they're huge and they tend to leap out of the water. Basically, they're giant sardines with funny looking mouths. Permit are the least fish-looking fish of the three. They look like what you would end up with if you took a normal fish and smooshed it into a rhombus. Permit are notoriously tricky to catch since they're hard to find, usually solitary, and unbearably cautious. Finally, bonefish are the most commonly sought after because they're more abundant than the other two and aren't as difficult to catch. They have a cool latin name: *abula vulpes* means silver fox. They also have a cooler nickname: "ghost of the flats". By the way, all three of these fish are usually just caught and then released back into the water because they're pretty terrible to eat.
-
-All in all, I'm incredibly grateful for being able to go and we definitely made the most out of it. It goes without saying that the fishing was fun, but it was really just liberating to be on the water. After all, there aren't many better places to be than in the ocean and under the Caribbean sun. One of our guides put it nicely when he called it "the world's best office."
+So, at the expense of of our shoulders, this is what we were doing in the most beautiful part of earth <a href="https://x.com/StationCDRKelly/status/592444731076026368" target="_blank">from space</a>. We were there for the last week of May and fished for bonefish specifically (Andros is known as the bonefish capital of the world). All in all, I'm incredibly grateful for being able to go and we definitely made the most out of it. It goes without saying that the fishing was fun, but it was really just liberating to be on the water. After all, there aren't many better places to be than in the ocean and under the Caribbean sun. One of our guides put it nicely when he called it "the world's best office."
 
 I'll let the pictures tell most of the stories but a few general thoughts:
+
+- Bonefish have a cool latin name: *abula vulpes* means silver fox. They also have a cooler nickname: "ghost of the flats".
+
+- In the world of saltwater fly fishing, the "big three" are tarpon, permit, and bonefish. Tarpon are the most iconic because of how photogenic they are; they're huge and they have a habit of leaping out of the water. Basically, they're giant sardines with funny looking mouths. Permit are the least fish-looking fish of the three. They look like what you would end up with if you took a normal fish and smooshed it into a rhombus. What makes them even more unique is that they are the nervous nellies of the ocean, making them notoriously hard to catch. It's common to go searching for one all day and then have your fly shrugged off after making a perfect cast.
 
 - I went down a Youtube spiral when we were close to leaving for the trip. The highlights were these two videos Yeti made on [giant trevally in the Seychelles](https://www.youtube.com/watch?v=MNfBHLp_FKg) and [tarpon in Florida](https://www.youtube.com/watch?v=FZoMPciCciY). There's also [this gem](https://www.youtube.com/watch?v=IYq7i4u3XBA).
 
