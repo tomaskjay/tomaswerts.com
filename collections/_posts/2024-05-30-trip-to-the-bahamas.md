@@ -14,9 +14,9 @@ The best part about the Bahamas is that it sounds relaxing. For the last week of
 
 Fishing, in the sense of throwing a worm on a hook or dragging a lure across a lake, is really called *spin fishing*. Fly fishing is a little different from that. The "fly" comes from the much smaller and lighter lures you use. They're often handmade by tying together things like thread and feathers around a bare hook. 
 
-The biggest difference between the two is casting, however. Since flies are so light, what you're basically trying to do is throw a paper ball instead of a baseball. Give the baseball to Ohtani and he'll strike you out on a whim. Give him the paper ball, though, and... well, he’ll still probably strike you out to be honest, but you’d definitely stand a better chance. The point is that tossing a baseball is easier because the ball itself is heavy. I'm willing to bet that you can throw the baseball with your non-dominant hand further than you can throw the paper ball with your dominant hand.
+The biggest difference between the two is casting, however. Since flies are so light, what you're basically trying to do is throw a paper ball instead of a baseball. Give the baseball to Ohtani and he'll strike you out on a whim. Give the paper ball to him, though, and... well, he’ll still probably strike you out to be honest, but you’d definitely stand a better chance. The point is that tossing a baseball is easier because the ball itself is heavy. I'm willing to bet that you can throw a baseball with your non-dominant hand further than you can throw a paper ball with your dominant hand.
 
-Using a fly rod is like attaching that paper ball to the end of a rope and yanking the other end forwards so that the rope carries it. When you're casting a fly, it's really the weight of the line that gets it to where it needs to be, not the weight of the fly itself. And the way this is done is by swinging the rod back and forth to gradually extend the line before making a final flick to shoot it forwards. It's pretty to watch, but much less common because it takes some practicing to get it all down.
+Using a fly rod is like attaching the paper ball to the end of a rope and yanking the other end forwards so that the rope carries it. When you're casting a fly, it's really the weight of the line that gets it to where it needs to be, not the weight of the fly itself. The way this is actually done is by swinging the rod back and forth to gradually extend the line before making a final flick to shoot it forwards. It's pretty to watch, but much less common because it takes some practicing to get it all down.
 {% endbluebox %} 
 
 So, at the expense of of our shoulders, this is what we were doing in the most beautiful part of earth <a href="https://x.com/StationCDRKelly/status/592444731076026368" target="_blank">from space</a>. We were there for the last week of May and fished for bonefish specifically (Andros is known as the bonefish capital of the world). All in all, I'm incredibly grateful for being able to go and we definitely made the most out of it. It goes without saying that the fishing was fun, but it was really just liberating to be on the water. After all, there aren't many better places to be than in the ocean and under the Caribbean sun. One of our guides put it nicely when he called it "the world's best office."
@@ -25,7 +25,7 @@ I'll let the pictures tell most of the stories but a few general thoughts:
 
 - Bonefish have a cool latin name: *abula vulpes* means silver fox. They also have a cooler nickname: "ghost of the flats".
 
-- In the world of saltwater fly fishing, the "big three" are tarpon, permit, and bonefish. Tarpon are the most iconic because of how photogenic they are; they're huge and they have a habit of leaping out of the water. Basically, they're giant sardines with funny looking mouths. Permit are the least fish-looking fish of the three. They look like what you would end up with if you took a normal fish and smooshed it into a rhombus. What makes them even more unique is that they are the nervous nellies of the ocean, making them notoriously hard to catch. It's common to go searching for one all day and then have your fly shrugged off after making a perfect cast.
+- In the world of saltwater fly fishing, the "big three" are tarpon, permit, and bonefish. Tarpon are the most iconic because of how photogenic they are; they're huge and they tend to leap out of the water. Basically, they're giant sardines with funny looking mouths. Permit are the least fish-looking fish of the three. They look like what you would end up with if you took a normal fish and smooshed it into a rhombus. What makes them even more unique is that they are the nervous nellies of the ocean, making them notoriously hard to catch. It's common to go searching for one all day and then have your fly shrugged off after making a perfect cast.
 
 - I went down a Youtube spiral when we were close to leaving for the trip. The highlights were these two videos Yeti made on [giant trevally in the Seychelles](https://www.youtube.com/watch?v=MNfBHLp_FKg) and [tarpon in Florida](https://www.youtube.com/watch?v=FZoMPciCciY). There's also [this gem](https://www.youtube.com/watch?v=IYq7i4u3XBA).
 
@@ -59,23 +59,22 @@ Doing what we did on our last flight while waiting for our next flight - where w
 Side note: it's crazy how quickly the world changes when you fly directly longitude-wise as opposed to latitude-wise or somewhere in between. Flying from Minnesota into Atlanta and then to Naussau took five hours. If we'd flown in the opposite direction for half that time, we'd be in Churchill, MB - the *polar bear* capital of the world. <br><br>
 
 ![](\images\bahamas-album\IMG_5621.jpeg)<br>
-This is the plane we took to to get from Naussau to Andros. Flying in a small plane really makes you think about how cool it would be to know how to pilot. <br><br>
+The plane we took to to get from Naussau to Andros. Flying in a small plane really makes you think about how cool it would be to know how to pilot. <br><br>
 
 ![](\images\bahamas-album\IMG_5623.jpeg)<br>
 Landing and taking off was way too much fun. Also, it was neat to for once be in a plane that actually goes *nyoooooom*.<br><br>
 
-![](\images\bahamas-album\20240524_160548(0).jpg)<br>
-Our room at the lodge. Cheryl, the woman who owns Swain's Cay, is a one woman show: she manages to run the entire business by herself and is also building a new park nearby for the local kids. <br><br>
-
 ![](\images\bahamas-album\IMG_5650.jpeg)<br>
-We were there at the end of the season, which was perfect because we ended up being the only people there.
+The lodge. We were there at the end of the season, which was perfect because we ended up having the whole place to ourselves. 
+
+Cheryl, the woman who owns Swain's Cay, is a one woman show: she manages to run the entire business by herself and is also building a new park nearby for the local kids.
 <br><br>
 
 ![](\images\bahamas-album\30b6883e-93f2-47fd-8cda-9ed492bd8b5f.jpg)<br>
 Imagine being an ant and having this as your POV.<br><br>
 
 ![](\images\bahamas-album\IMG_5633.jpeg)<br>
-We were absolutely spoiled by the lodge's cook, Pam. She was painfully nice and made everything herself. These are conch fritters. One thing you'll find when you're in the Bahamas is that Bahamians love conch. It's everywhere. More on this later.
+We were absolutely spoiled by the lodge's cook, Pam. She was incredibly nice and made everything herself. These are conch fritters. One thing you'll find when you're in the Bahamas is that Bahamians love conch. It's everywhere. More on this later.
 <br><br>
 
 ![](\images\bahamas-album\IMG_5647.jpeg)<br>
@@ -166,7 +165,7 @@ In the mornings, we'd load up this van to hitch a ride to the docks. One thing I
 <br><br>
 
 ![](\images\bahamas-album\IMG_5705.jpeg)<br>
-I was by myself for the next day, so it was just me and my guide Dencil.
+I was by myself for the next day, so it was just me and one of the guides named Dencil.
 <br><br>
 
 ![](\images\bahamas-album\FullSizeRender(2).jpeg)<br>
@@ -178,7 +177,7 @@ Wingardium leviosa
 <br><br>
 
 ![](\images\bahamas-album\X8A9202.jpeg)<br>
-Bonefish are really skiddish, so you thump around in the boat or they'll be gone. They also spook if you land the fly right on top of their heads, so the trick is to cast a few feet in front of where they're swimming to intercept them.
+Bonefish are really skiddish, so you thump around in the boat and they'll be gone. They also spook if you land the fly right on top of their heads, so the trick is to cast a few feet in front of where they're swimming to intercept them.
 <br><br>
 
 ![](\images\bahamas-album\16920.jpeg)<br>
