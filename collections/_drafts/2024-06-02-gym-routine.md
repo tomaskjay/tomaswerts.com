@@ -1,6 +1,6 @@
 ---
 layout:     post
-title:      Lifting Routine - 5 Day Split
+title:      Lifting Routine
 date:       2024-06-02
 summary:    What I currently do for exercise 💪
 categories: Fitness
