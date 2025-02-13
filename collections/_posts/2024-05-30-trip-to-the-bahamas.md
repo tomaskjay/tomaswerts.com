@@ -25,7 +25,7 @@ I'll let the pictures tell most of the stories but a few general thoughts:
 
 - Bonefish have a cool latin name: *abula vulpes* means silver fox. They also have a cooler nickname: "ghost of the flats".
 
-- In the world of saltwater fly fishing, the "big three" are tarpon, permit, and bonefish. Tarpon are the most iconic because of how photogenic they are; they're huge and they tend to leap out of the water. Basically, they're giant sardines with funny looking mouths. Permit are the least fish-looking fish of the three. They look like what you would end up with if you took a normal fish and smooshed it into a rhombus. What makes them even more unique is that they are the nervous nellies of the ocean, making them notoriously hard to catch. It's common to go searching for one all day and then have your fly shrugged off after making a perfect cast.
+- In the world of saltwater fly fishing, the "big three" are tarpon, permit, and bonefish. Tarpon are the most iconic because of how photogenic they are; they're huge and they tend to leap out of the water. Basically, they're giant sardines with funny looking mouths. Permit are the least fish-looking fish of the three. They look like what you would end up with if you took a normal fish and smooshed it into a rhombus. What makes them more unique is that they are notoriously hard to catch. It's common to go searching for one all day and then have the only fish you find to be too timid to take your fly after making a perfect cast.
 
 - I went down a Youtube spiral when we were close to leaving for the trip. The highlights were these two videos Yeti made on [giant trevally in the Seychelles](https://www.youtube.com/watch?v=MNfBHLp_FKg) and [tarpon in Florida](https://www.youtube.com/watch?v=FZoMPciCciY). There's also [this gem](https://www.youtube.com/watch?v=IYq7i4u3XBA).
 
@@ -115,12 +115,12 @@ How it works is the guide stands up on a platform near the back and slowly pushe
 Ghost of the flats. This is a really good picture of one. They're usually much harder to see since their bodies are reflective. It's their shadow that you look for instead. The guides are absurdly good at seeing them - I swear they have telescopes for eyes. They'd point out a fish a hundred feet away from the boat and you'd think they're messing with you just because nothing has happened in a while, but then they push you closer and the fish is right there.
 
 
-Speaking of which, the guides are amazing people to be around. They're guys that have lived and grown up on the water who just live this pure lifestyle of chasing fish. Usually, they come from a family where guiding (and crazy eye genetics) has been passed down each generation. You can tell how passionate they are about what they do when you chat with them on the boat.
+Speaking of which, the guides are amazing people to be around. They're guys that have lived and grown up on the water who just live this pure lifestyle of chasing fish. Usually, they come from a family where guiding (and crazy eye genetics apparently) has been passed down each generation. You can tell how passionate they are about what they do when you chat with them on the boat.
 <br><br>
 
 
 ![](\images\bahamas-album\IMG_5664.jpeg)<br>
-First one of the trip. There's always some pressure when you're the one at the front because you don't usually see too many fish and you have to be quick as well as accurate when you do find one. Since they're travelling fast and they get scared away easily, you only get a couple chances before they disappear.
+First one of the trip.
 <br><br>
 
 ![](\images\bahamas-album\IMG_5858.jpeg)<br>
@@ -249,7 +249,7 @@ Whatever.
 <br><br>
 
 ![](\images\bahamas-album\IMG_5759.jpeg)<br>
-We visited a conch shack afterwards. On the dock behind it there was a guy shelling conch and he waved us over so he could show us. It's actually way easier than you'd think: all you do is tap a little hole into the top of its shell, separate the muscle it uses to cling on to the inside, and then slide it out. You do have to trim off like 70% of the whole thing though - they're pretty gnarly looking.
+We visited a conch shack afterwards. On the dock behind it there was a guy shelling conch and he waved us over so he could show us. It's actually way easier than you'd think: all you do is tap a little hole into the top of its shell, separate the muscle it uses to cling on to the inside, and then slide it out. You do have to trim off like 70% of the whole thing though - they're pretty ugly looking.
 <br><br>
 
 ![](\images\bahamas-album\IMG_5760.jpeg)<br>
