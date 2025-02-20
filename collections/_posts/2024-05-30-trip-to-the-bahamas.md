@@ -1,6 +1,6 @@
 ---
 layout:     post
-title:      Trip to the Bahamas (draft)
+title:      Trip to the Bahamas
 date:       2024-05-30
 summary:    2024 fishing trip in the Bahamas
 categories: Traveling
