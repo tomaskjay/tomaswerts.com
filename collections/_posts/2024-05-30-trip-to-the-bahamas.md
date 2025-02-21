@@ -6,19 +6,7 @@ summary:    2024 fishing trip in the Bahamas
 categories: Traveling
 thumbnail:  /images/bahamas-album/bahamas-thumbnail.jpg
 ---
-The best part about the Bahamas is that it sounds relaxing. For the last week of May, everything was a little calmer, a little breezier, and a little more easygoing -- because I was in the *Bahamas*. I was lucky enough to spend my entire time there fly fishing off the island of Andros with my two cousins, uncle, and dad.
-
-{% bluebox %}
-
-### The What Is Fly Fishing Blue Box
-
-Fishing, in the sense of throwing a worm on a hook or dragging a lure across a lake, is really called *spin fishing*. Fly fishing is a little different from that. The "fly" comes from the much smaller and lighter lures you use. They're often handmade by tying together things like thread and feathers around a bare hook. It's casting that's the biggest difference between the two, however. Since flies are so light, what you're basically trying to do is throw a paper ball instead of a baseball. I think pretty much anyone can throw a paper ball with their dominant hand further than they can throw a baseball with their non-dominant hand. The simple reason behind that is because the baseball is much heavier. Using a fly rod is like attaching the paper ball to the end of a rope and yanking the other end forwards so that the rope carries it. When you're casting a fly, it's really the weight of the line that gets it to where it needs to be, not the weight of the fly itself. The way this is actually done is by swinging the rod back and forth to gradually extend the line before making a final flick to shoot it forwards. It's pretty to watch, but much less common because it takes some practicing to get it all down.
-
-<!-- The biggest difference between the two is casting, however. Since flies are so light, what you're basically trying to do is throw a paper ball instead of a baseball. Give the baseball to Ohtani and he'll strike you out on a whim. Give the paper ball to him, though, and... well, he’ll still probably strike you out, but you’d definitely stand a better chance. The point is that tossing a baseball is easier because the ball itself is heavy. I'm willing to bet that you can throw a baseball with your non-dominant hand further than you can throw a paper ball with your dominant hand. -->
-
-{% endbluebox %} 
-
-So, at the expense of of our shoulders, this is what we were doing in the most beautiful part of earth <a href="https://x.com/StationCDRKelly/status/592444731076026368" target="_blank">from space</a>. We were there for the last week of May and fished for bonefish specifically (Andros is known as the bonefish capital of the world). All in all, I'm incredibly grateful for being able to go and we definitely made the most out of it. It goes without saying that the fishing was fun, but it was really just liberating to be on the water. After all, there aren't many better places to be than in the ocean and under the Caribbean sun. One of our guides put it nicely when he called it "the world's best office."
+The best part about the Bahamas is that it sounds relaxing. For the last week of May, everything was a little calmer, a little breezier, and a little more easygoing -- because I was in the *Bahamas*. I was lucky enough to spend my entire time there fly fishing for bonefish off the island of Andros with my two cousins, uncle, and dad (Andros is apparently the bonefish capital of the world). All in all, I count myself lucky for being able to go and we definitely made the most out of it. It goes without saying that the fishing was fun, but it was really just liberating to be on the water. After all, there aren't many better places to be than in the ocean and under the Caribbean sun. One of our guides put it nicely when he called it "the world's best office."
 
 I'll let the pictures tell most of the stories but a few general thoughts:
 
@@ -73,7 +61,7 @@ The lodge we stayed at is called Swain's Cay - the parts of the island highlight
 <br><br>
 
 ![](\images\bahamas-album\IMG_5647.jpeg)<br>
-This is key lime pie and it was scrumptious.<br><br>
+<br><br>
 
 ![](\images\bahamas-album\IMG_5643.jpg)<br>
 
