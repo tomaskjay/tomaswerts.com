@@ -6,7 +6,7 @@ summary:    2024 fishing trip in the Bahamas
 categories: Traveling
 thumbnail:  /images/bahamas-album/bahamas-thumbnail.jpg
 ---
-The best part about the Bahamas is that it sounds relaxing. For the last week of May, everything was a little calmer, a little breezier, and a little more easygoing -- because I was in the *Bahamas*. I spent my entire time there fly fishing for bonefish off the island of Andros with my two cousins, uncle, and dad (Andros is apparently the bonefish capital of the world). All in all, I'm counting myself lucky for being able to go and we definitely made the most out of it. It goes without saying that the fishing was fun, but it was really just liberating to be on the water. After all, there aren't many better places to be than in the ocean and under the Caribbean sun. One of our guides put it nicely when he called it "the world's best office."
+The best part about the Bahamas is that it sounds relaxing. For the last week of May, everything was a little calmer, a little breezier, and a little more easygoing -- because I was in the *Bahamas*. I spent my entire time there fly fishing for bonefish off the island of Andros with my two cousins, uncle, and dad. All in all, I'm counting myself lucky for being able to go and we definitely made the most out of it. It goes without saying that the fishing was fun, but it was really just liberating to be on the water. After all, there aren't many better places to be than in the ocean and under the Caribbean sun. One of our guides put it nicely when he called it "the world's best office."
 
 I'll let the pictures tell most of the stories but a few general thoughts:
 
