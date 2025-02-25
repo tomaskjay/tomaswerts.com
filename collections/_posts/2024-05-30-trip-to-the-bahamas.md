@@ -4,7 +4,7 @@ title:      Trip to the Bahamas
 date:       2024-05-30
 summary:    2024 fishing trip in the Bahamas
 categories: Traveling
-thumbnail:  /images/bahamas-album/bahamas-thumbnail.jpg
+thumbnail:  /images/bahamas-album/16130.jpg
 ---
 The best part about the Bahamas is that it sounds relaxing. For the last week of May, everything was a little calmer, a little breezier, and a little more easygoing -- because I was in the *Bahamas*. I spent my entire time there fly fishing for bonefish off the island of Andros with my two cousins, uncle, and dad. All in all, I'm counting myself lucky for being able to go and we definitely made the most out of it. It goes without saying that the fishing was fun, but it was really just liberating to be on the water. After all, there aren't many better places to be than in the ocean and under the Caribbean sun. One of our guides put it nicely when he called it "the world's best office."
 
@@ -53,8 +53,6 @@ The lodge we stayed at is called Swain's Cay - the parts of the island highlight
 
 ![](\images\bahamas-album\IMG_5633.jpeg)<br><br>
 
-![](\images\bahamas-album\IMG_5647.jpeg)<br><br>
-
 ![](\images\bahamas-album\IMG_5643.jpg)<br><br>
 
 ![](\images\bahamas-album\IMG_5702.jpeg)<br><br>
@@ -94,11 +92,7 @@ The lodge we stayed at is called Swain's Cay - the parts of the island highlight
 
 ![](\images\bahamas-album\IMG_5698.jpeg)<br><br>
 
-![](\images\bahamas-album\16133.jpeg)<br><br>
-
 ![](\images\bahamas-album\IMG_5704.jpeg)<br><br>
-
-![](\images\bahamas-album\IMG_5705.jpeg)<br><br>
 
 ![](\images\bahamas-album\FullSizeRender(2).jpeg)<br><br>
 
@@ -115,8 +109,6 @@ The lodge we stayed at is called Swain's Cay - the parts of the island highlight
 ![](\images\bahamas-album\IMG_5699.jpeg)<br><br>
 
 ![](\images\bahamas-album\X8A9257.jpeg)<br><br>
-
-![](\images\bahamas-album\IMG_5716.jpeg)<br><br>
 
 ![](\images\bahamas-album\20240526_200905.jpg)<br><br>
 
@@ -167,3 +159,24 @@ The lodge we stayed at is called Swain's Cay - the parts of the island highlight
 ![](\images\bahamas-album\IMG_5879.jpeg)<br><br>
 
 ![](\images\bahamas-album\IMG_5888.jpeg)<br><br>
+
+
+![](\images\bahamas-album\IMG_5903.jpeg)<br><br>
+
+![](\images\bahamas-album\IMG_5906.jpeg)<br><br>
+
+![](\images\bahamas-album\IMG_5911.jpeg)<br><br>
+
+![](\images\bahamas-album\20240529_111725.jpg)<br><br>
+
+![](\images\bahamas-album\16541.jpeg)<br><br>
+
+![](\images\bahamas-album\X8A9275.jpeg)<br><br>
+
+![](\images\bahamas-album\IMG_5737.jpeg)<br><br>
+
+![](\images\bahamas-album\IMG_5738.jpg)<br><br>
+
+![](\images\bahamas-album\16490.jpeg)<br><br>
+
+![](\images\bahamas-album\16487.jpeg)<br><br>
