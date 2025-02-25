@@ -20,7 +20,7 @@ I'll let the pictures tell most of the stories but a few general thoughts:
 
 - Bahamian coins are neat and very island-y. The quarters have sailboats, the dimes have little bonefish, the nickels have pineapples, and the pennies have starfish. For some reason, they also have a square one that's 15 cents? Kind of weird to pick a number that you can't break a dollar evenly into but still cool.
 
-- Along those lines, I later found out that the Bahamas is a tax haven. It has historically strict banking secrecy laws, a reliancy on offshore finance, and the obvious appeal of being a balmy island in the Carribean. Leonardo Dicaprio should've stashed away his money here instead of going all the way to that bank in Switzerland.
+- Along those lines, I later found out that the Bahamas is a tax haven. It has really strict banking secrecy laws, a reliancy on offshore finance, and no income taxes. Leonardo Dicaprio should've stashed away his money here instead of going all the way to that bank in Switzerland.
 
 - In elementary school I read about Atlantis Paradise Island in an issue of Nat Geo Kids. I thought it was amazing at the time but today it just seems really touristy. You could definitely pick out the people in the airport who were staying there. That said, I'd still absolutely jump on any opportunity go to Disneyland.
 
