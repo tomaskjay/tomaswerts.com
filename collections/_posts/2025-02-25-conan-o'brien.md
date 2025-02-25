@@ -3,9 +3,11 @@ layout:     post
 title:      Conan O'Brien
 date:       2025-02-25
 thumbnail: /images/conan-thumbnail.png
-summary:    A way to kill 5.54 hours
+summary:    An easy way to kill 5.54 hours
 categories: Videos
 ---
+
+## Late Night
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/GS39vMhag-A?si=LxsxoEBDzLe9ZhKU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
@@ -22,6 +24,8 @@ categories: Videos
 <iframe width="560" height="315" src="https://www.youtube.com/embed/jJN9mBRX3uo?si=rxiKPIRF7kwaYJ8w" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/0hFb0vAwAkM?si=MlDw4--2NkivjJQ6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+## TBS
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/ARERGvMzhmc?si=LbxukZ4zZ8vc2XPQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
@@ -44,3 +48,7 @@ categories: Videos
 <iframe width="560" height="315" src="https://www.youtube.com/embed/jrp-tNpKfGY?si=dW5mgkUR3FIjbXvW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/J7f26d-AIrM?si=eiQ6aXpdFDekjKaL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+## Travel Remotes
+
+## Talks
