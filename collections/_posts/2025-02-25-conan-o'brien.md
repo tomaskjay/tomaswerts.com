@@ -3,7 +3,7 @@ layout:     post
 title:      Conan O'Brien
 date:       2025-02-25
 thumbnail: /images/conan-thumbnail.png
-summary:    An easy way to kill ___ hours
+summary:    An easy way to kill ten and a half hours
 categories: Videos
 ---
 
@@ -26,7 +26,6 @@ categories: Videos
 <div class="video-container">
     <iframe width="560" height="315" src="https://www.youtube.com/embed/videoseries?si=UjmuYTsBG_8Kr2WN&amp;list=PLnJ3UCch8ZFJkx0kxYCOFr27HtCoryM70" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 </div>
-
 
 <h2 class="conan-header">Talks</h2>
 <div class="video-container">
