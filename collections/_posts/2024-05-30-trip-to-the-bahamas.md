@@ -10,9 +10,7 @@ The best part about the Bahamas is that it sounds relaxing. For the last week of
 
 I'll let the pictures tell most of the stories but a few general thoughts:
 
-- Bonefish have a cool latin name: *abula vulpes* means silver fox. They also have a cooler nickname: "ghost of the flats".
-
-- In the world of saltwater fly fishing, the "big three" are tarpon, permit, and bonefish. Tarpon are the most iconic because of how photogenic they are; they're huge and they tend to leap out of the water. Basically, they're giant sardines with funny looking mouths. Permit are the least fish-looking fish of the three. They look like what you would end up with if you took a normal fish and smooshed it into a rhombus. What makes them more unique is that they're notoriously hard to catch. It's common to go searching for one all day and then have the only fish you find shrug your fly pff after making a perfect cast.
+- Bonefish have a cool scientific name: *abula vulpes* means silver fox. They also have a cooler nickname: "ghost of the flats".
 
 - I went down a Youtube spiral when we were close to leaving for the trip. The highlights were these two videos Yeti made on [giant trevally in the Seychelles](https://www.youtube.com/watch?v=MNfBHLp_FKg) and [tarpon in Florida](https://www.youtube.com/watch?v=FZoMPciCciY). There's also [this gem](https://www.youtube.com/watch?v=IYq7i4u3XBA).
 
@@ -20,7 +18,7 @@ I'll let the pictures tell most of the stories but a few general thoughts:
 
 - Bahamian coins are neat and very island-y. The quarters have sailboats, the dimes have little bonefish, the nickels have pineapples, and the pennies have starfish. For some reason, they also have a square one that's 15 cents? Kind of weird to pick a number that you can't break a dollar evenly into but still cool.
 
-- Along those lines, I later found out that the Bahamas is a tax haven. It has really strict banking secrecy laws, a reliancy on offshore finance, and no income taxes. Leonardo Dicaprio should've stashed away his money here instead of going all the way to that bank in Switzerland.
+- Along those lines, I later found out that the Bahamas is a tax haven. It has historically strict banking secrecy laws, a reliancy on offshore finance, and zero income taxes to speak of. Leonardo Dicaprio should've stashed away his money here instead of going all the way to that bank in Switzerland.
 
 - In elementary school I read about Atlantis Paradise Island in an issue of Nat Geo Kids. I thought it was amazing at the time but today it just seems really touristy. You could definitely pick out the people in the airport who were staying there. That said, I'd still absolutely jump on any opportunity go to Disneyland.
 

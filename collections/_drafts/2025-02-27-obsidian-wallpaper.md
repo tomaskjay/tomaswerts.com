@@ -6,3 +6,8 @@ date:       2025-02-27
 summary:    Made Obsidian's graph view into a wallpaper
 categories: projects
 ---
+```python
+def greet():
+    print("Hello, World!")
+
+greet()
