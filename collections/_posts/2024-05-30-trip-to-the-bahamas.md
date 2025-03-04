@@ -8,13 +8,15 @@ thumbnail:  /images/bahamas-album/16130.jpg
 ---
 The best part about the Bahamas is that it sounds relaxing. For the last week of May, everything was a little calmer, a little breezier, and a little more hakuna matata -- because I was in the *Bahamas*. I spent the entire time there fly fishing for bonefish off the island of Andros with my two cousins, uncle, and dad. 
 
+<!-- Fly fishing box -->
+
 All in all, I'm counting myself lucky for being able to go and we definitely made the most out of it. It goes without saying that the fishing was fun, but it was really just liberating to be on the water. After all, there aren't many better places to be than in the ocean and under the Caribbean sun. One of our guides put it nicely when he called it "the world's best office."
 
 I'll let the pictures tell most of the stories but a few general thoughts:
 
 - Bonefish have a cool scientific name: *abula vulpes* means silver fox. They also have an even cooler nickname: "ghost of the flats".
 
-- I went down a Youtube spiral when we were close to leaving for the trip. Two highlights were these two videos Yeti made on [giant trevally in the Seychelles](https://www.youtube.com/watch?v=MNfBHLp_FKg) and [tarpon in Florida](https://www.youtube.com/watch?v=FZoMPciCciY). There's also [this gem](https://www.youtube.com/watch?v=IYq7i4u3XBA).
+- I went down a Youtube spiral when we were close to leaving for the trip and two highlights were these videos Yeti made on [giant trevally in the Seychelles](https://www.youtube.com/watch?v=MNfBHLp_FKg) and [tarpon in Florida](https://www.youtube.com/watch?v=FZoMPciCciY). There's also [this gem](https://www.youtube.com/watch?v=IYq7i4u3XBA).
 
 - Having a doctor as a parent is awesome for many reasons, one of which being that doctors are always there to swoop in and [save the day](https://en.wikipedia.org/wiki/Angus_Wallace#In-flight_surgery_with_a_coat-hanger_and_silverware) on planes. Midway through the flight to Nassau, a guy sitting in front of us fainted and the captain used the intercom to call for help. My dad parkoured over the seat and started doing his thing. A nurse and an ER doctor came over too eventually. The good news is that the guy ended up being okay. The bad news is that he was forced to drink orange juice with like 3 salt packets poured into it. Anyways, you're my hero, Dad.
 
