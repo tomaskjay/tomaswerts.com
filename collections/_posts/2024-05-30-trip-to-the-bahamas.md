@@ -24,7 +24,7 @@ I'll let the pictures tell most of the stories but a few general thoughts:
 
 - Along those lines, I later found out that the Bahamas is a tax haven. It has historically strict banking secrecy laws, a reliancy on offshore finance, and zero income taxes to speak of. Leonardo Dicaprio should've stashed away his money here instead of going all the way to that bank in Switzerland.
 
-- In elementary school I read about Atlantis Paradise Island in an issue of Nat Geo Kids. Eight-year-old me was blown away at the time but today it just seems super touristy. You could definitely pick out the people in the airport who were staying there. That's not to say I wouldn't absolutely jump on any opportunity to go to Disneyland, though.
+- In elementary school I read about Atlantis Paradise Island in an issue of Nat Geo Kids. I thought it was the place to be at the time but today it just seems super touristy. You could definitely pick out the people in the airport who were staying there. That's not to say I wouldn't absolutely jump on any opportunity to go to Disneyland, though.
 
 - The people were, of course, incredibly nice and hospitable. Admittedly, the backbone of the Bahamian economy is tourism but, after being there and seeing that it looks exactly like the postcards, it's hard to find a reason why anyone who grew up on an island wouldn't be so friendly. No wonder Obama seemed like a pretty happy guy.
 
