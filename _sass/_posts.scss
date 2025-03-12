@@ -65,7 +65,11 @@
   -webkit-column-count: 3;
   -webkit-column-gap: 3rem;
   -moz-column-count: 3;
-  -moz-column-gap: 1rem;
+  -moz-column-gap: 3rem;
+
+  /* Ensure the grid is centered */
+  max-width: 1200px;  /* or your preferred max width */
+  margin: 0 auto;
 }
 
 .post-item {
@@ -115,7 +119,7 @@
 }
 
 .post-summary {
-  margin-top: 0.5;
+  margin-top: 0.5rem; /* Replaced 0.5 with units */
   margin-bottom: 0;
   font-size: $base-font-size;
   color: #666;
