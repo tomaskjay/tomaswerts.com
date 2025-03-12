@@ -60,21 +60,19 @@
 .posts-grid {
   column-count: 3;
   column-gap: 3rem;
+  margin: 0 auto;
+  max-width: 1200px;
 
   /* vendor prefixes for broader support */
   -webkit-column-count: 3;
-  -webkit-column-gap: 3rem;
+  -webkit-column-gap: 2rem;
   -moz-column-count: 3;
   -moz-column-gap: 3rem;
-
-  /* Ensure the grid is centered */
-  max-width: 1200px;  /* or your preferred max width */
-  margin: 0 auto;
 }
 
 .post-item {
   display: inline-block; /* Ensure posts flow as "tiles" in multi-column */
-  width: 100%;
+  width: calc(100% - 1rem);
   margin: 0 0 0.5rem;      /* space below each post */
 
   padding: 1rem;
