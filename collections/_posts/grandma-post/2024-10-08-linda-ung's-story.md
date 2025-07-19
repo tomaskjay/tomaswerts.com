@@ -34,6 +34,7 @@ After nearly forty years abroad, returning and living in Cambodia was like stepp
 
 This is the story of a life lived between worlds. I invite you to walk with me through the vibrant streets of my childhood, across oceans, and into the heart of a journey defined by joy, loss, and the enduring power of hope.
 
+- [Khmer Intro](/2025/07/19/intro-khmer)
 - [Part 1](/2024/10/08/chapter-1)
 - [Part 2](/2024/10/08/chapter-2)
 - [Part 3](/2024/10/08/chapter-3)
