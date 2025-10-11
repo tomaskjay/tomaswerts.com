@@ -6,13 +6,6 @@ date:       2024-10-08
 summary:    Chapters my grandmother wrote about her life
 categories:
 ---
-Something I've always enjoyed is watching the <a href="https://storycorps.org/animation/no-more-questions/" target="_blank">animated shorts</a> that StoryCorps makes from some of their recordings. I'd say that's the idea behind putting everything up here. 
-
-A while ago, my grandma sent me the first couple chapters of what ended up being a six part story about her life. The entire story is here for mostly self-reference, but also in hopes that other people can read it too (because my grandma definitely isn't the type to go pushing around her life story). 
-
-I think anyone who's lucky enough to have their grandparents still with them should take the time to learn more about their heritage. When you're growing up, you usually only hear the short funny stories that they tell you to make you laugh, but I think it's not often you hear the more serious ones since they assume that it'll be boring or take too long. I guarantee you, though, that you'll find something you would've regretted not ever knowing. In the case of my grandma, that would've been a lot—and that's an understatement.
-
----
 
 ## Foreword
 
