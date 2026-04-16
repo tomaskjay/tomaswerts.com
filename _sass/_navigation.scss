@@ -27,7 +27,7 @@ ul.nav {
 #main-menu li {
   display: flex;
   align-items: center;
-  padding: 10px 20px;
+  padding: 18px 20px;
 }
 
 #main-menu li > a {
@@ -104,18 +104,6 @@ nav a:after {
 }
 
 .nav-placeholder {
-  display: none; /* Initially hidden */
-  height: 8rem;
-}
-
-@media only screen and (max-width: 768px) {
-  .nav-placeholder {
-    height: 6.75rem;
-  }
-}
-
-@media only screen and (max-width: 3000px) {
-  .nav-placeholder {
-    height: 7rem;
-  }
+  display: none;
+  height: 0;
 }

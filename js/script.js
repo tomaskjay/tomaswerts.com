@@ -23,34 +23,43 @@ $(document).ready(function() {
 
   function handleScroll() {
     const currentScroll = $(window).scrollTop();
+    var $header = $('.site-header');
+    var $placeholder = $('.nav-placeholder');
 
     // Check if the user has scrolled at least scrollThreshold pixels
     if (currentScroll >= scrollThreshold) {
       // Make header sticky
-      $('.site-header').addClass('sticky');
-      $('.nav-placeholder').show();
+      $header.addClass('sticky');
+      $placeholder
+        .height($header.outerHeight())
+        .show();
 
       // If user scrolls down quickly (for example, more than 5px at once),
       // add a quick fade to smooth the transition.
       if (currentScroll - lastScrollTop > 5) {
-        $('.site-header').addClass('fading');
-        $('.nav-placeholder').show(); // Show the placeholder
+        $header.addClass('fading');
+        $placeholder
+          .height($header.outerHeight())
+          .show();
 
         // Remove the fading class after the fade duration
         setTimeout(function() {
-          $('.site-header').removeClass('fading');
+          $header.removeClass('fading');
         }, fadeDuration);
       }
 
       // Add shrink class to make the navigation bar smaller
-      $('.site-header').addClass('shrink');
+      $header.addClass('shrink');
+      $placeholder.height($header.outerHeight());
       
     } else {
       // If back up near the top, remove sticky + any fade
-      $('.site-header').removeClass('sticky fading');
-      $('.nav-placeholder').hide();
+      $header.removeClass('sticky fading');
+      $placeholder
+        .height(0)
+        .hide();
       // Remove shrink class to restore the navigation bar size
-      $('.site-header').removeClass('shrink');
+      $header.removeClass('shrink');
     }
 
     // Update last scroll position

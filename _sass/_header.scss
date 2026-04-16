@@ -4,9 +4,9 @@
   left: 0;
   width: 100%;
   z-index: 1000;
-  transition: opacity 0.2s ease, position 0.2s ease; //SEE IF NECESSARY
+  transition: opacity 0.2s ease, position 0.2s ease, padding 0.2s ease;
   background-color: #fffef4;
-  padding: 0;
+  padding: 12px 0 24px;
 }
 
 .site-header a {
@@ -25,7 +25,7 @@
 }
 
 .site-header.shrink #main-menu li {
-  padding: 10px 20px;
+  padding: 0 20px;
   margin: 0;
 }
 
@@ -42,7 +42,7 @@
   left: 0;
   /* keep the same width if you want it to span the full page width */
   width: 100%;
-  padding: 0px 0 20px 0;
+  padding: 18px 0;
   z-index: 1000;
   transition: opacity 0.2s ease-in-out;
 }
