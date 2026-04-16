@@ -53,91 +53,95 @@
   border-bottom: thin solid #fff8e9;
 }
 
-/* 
-   Masonry-style multi-column layout.
-   Remove the old grid rules; use column-count instead.
-*/
 .posts-grid {
-  column-count: 3;
-  column-gap: 3rem;
+  display: grid;
+  grid-template-columns: repeat(3, minmax(0, 1fr));
+  gap: 2.15rem;
+  align-items: start;
   margin: 0 auto;
   max-width: 1200px;
+  padding: 0 0.25rem;
+}
 
-  /* vendor prefixes for broader support */
-  -webkit-column-count: 3;
-  -webkit-column-gap: 2rem;
-  -moz-column-count: 3;
-  -moz-column-gap: 3rem;
+.posts-grid.masonry-enhanced {
+  display: block;
+  position: relative;
 }
 
 .post-item {
-  display: inline-block; /* Ensure posts flow as "tiles" in multi-column */
-  width: calc(100% - 1rem);
-  margin: 0 0 0.5rem;      /* space below each post */
-
-  padding: 1rem;
-  background-color: #fffef4;
+  display: block;
+  width: 100%;
+  margin: 0;
+  padding: 0;
+  background-color: var(--bg-color);
+  border: 1px solid color-mix(in srgb, var(--text-color) 12%, transparent);
   border-radius: 10px;
-  transition: background-color 0.2s ease, color 0.2s ease;
-  text-decoration: none; // Remove text decoration for post-item
-  color: inherit;        // Ensure text color is inherited
+  transition: background-color 0.2s ease, color 0.2s ease, transform 0.2s ease, border-color 0.2s ease;
+  text-decoration: none;
+  color: inherit;
+}
+
+.posts-grid.masonry-enhanced .post-item {
+  position: absolute;
+  margin: 0;
 }
 
 .post-item:hover {
-  background-color: #5c6b84;
-  border-radius: 10px;
-  color: white;
+  background-color: color-mix(in srgb, var(--link-color) 12%, var(--bg-color));
+  border-color: color-mix(in srgb, var(--link-color) 38%, transparent);
+  transform: translateY(-2px);
+  color: var(--text-color);
 }
 
 .post-item:hover .post-meta,
 .post-item:hover .post-summary {
-  color: inherit;
+  color: var(--text-color);
 }
 
 .post-item:hover .post-title {
-  color: white;
+  color: var(--heading-color);
 }
 
 .post-thumbnail {
   width: 100%;
+  margin: 0;
+  display: block;
   height: auto;
   border-radius: 10px;
+}
+
+.post-item-content {
+  padding: 0;
 }
 
 .post-meta {
   margin-top: 0.5rem;
   font-size: 0.875rem;
-  color: #666;
+  color: var(--muted-text-color);
 }
 
 .post-title {
   margin-top: 0;
   font-size: 1.25em;
-  color: #484848;
+  color: var(--heading-color);
 }
 
 .post-summary {
-  margin-top: 0.5rem; /* Replaced 0.5 with units */
+  margin-top: 0.5rem;
   margin-bottom: 0;
   font-size: $base-font-size;
-  color: #666;
+  color: var(--muted-text-color);
 }
 
-/* Adjust column counts for smaller screens */
+@media (max-width: 1000px) {
+  .posts-grid {
+    grid-template-columns: repeat(2, minmax(0, 1fr));
+  }
+}
+
 @media (max-width: $viewport-small) {
   .posts-grid {
-    column-count: 2;
-    -webkit-column-count: 2;
-    -moz-column-count: 2;
-  }
-
-  .post-item:hover {
-    background-color: #fffef4;
-    color: #484848;
-  }
-
-  .post-item:hover .post-title {
-    color: #484848;
+    grid-template-columns: 1fr;
   }
 }
 
