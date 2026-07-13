@@ -53,27 +53,16 @@
   border-bottom: thin solid #fff8e9;
 }
 
-/* 
-   Masonry-style multi-column layout.
-   Remove the old grid rules; use column-count instead.
-*/
 .posts-grid {
-  column-count: 3;
-  column-gap: 3rem;
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  gap: 1.5rem;
   margin: 0 auto;
   max-width: 1200px;
-
-  /* vendor prefixes for broader support */
-  -webkit-column-count: 3;
-  -webkit-column-gap: 2rem;
-  -moz-column-count: 3;
-  -moz-column-gap: 3rem;
 }
 
 .post-item {
-  display: inline-block; /* Ensure posts flow as "tiles" in multi-column */
-  width: calc(100% - 1rem);
-  margin: 0 0 0.5rem;      /* space below each post */
+  margin: 0;
 
   padding: 1rem;
   background-color: #fffef4;
@@ -126,9 +115,7 @@
 /* Adjust column counts for smaller screens */
 @media (max-width: $viewport-small) {
   .posts-grid {
-    column-count: 2;
-    -webkit-column-count: 2;
-    -moz-column-count: 2;
+    grid-template-columns: repeat(2, 1fr);
   }
 
   .post-item:hover {
